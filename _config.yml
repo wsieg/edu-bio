@@ -15,7 +15,7 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "fr-FR"
+locale                   : "fr-CH"
 title                    : "Edu-bio a voir"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
