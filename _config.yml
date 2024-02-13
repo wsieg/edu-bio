@@ -293,3 +293,6 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# making sure jekyll reads the pages folder
+include: ["_pages"]
