@@ -1,0 +1,307 @@
+- french: l’école
+  german: Schule
+  artikel_de: die
+  artikel_fr: l'
+  plural_de: die Schulen
+  plural_fr: les écoles
+
+- french: nouveau-elle
+  german: neu
+  artikel_de: das
+  artikel_fr: le/la
+  plural_de: keine Pluralform
+  plural_fr: nouveaux/elles
+
+- french: le maître, le professeur, l’enseignant
+  german: Lehrer
+  artikel_de: der
+  artikel_fr: le
+  plural_de: die Lehrer
+  plural_fr: les maîtres, les professeurs, les enseignants
+
+- french: la maîtresse, la professeur, l’enseignante
+  german: Lehrerin
+  artikel_de: die
+  artikel_fr: la
+  plural_de: die Lehrerinnen
+  plural_fr: les maîtresses, les professeurs, les enseignantes
+
+- french: l’élève
+  german: Schüler, Schülerin
+  artikel_de: der/die
+  artikel_fr: l'
+  plural_de: die Schüler, die Schülerinnen
+  plural_fr: les élèves
+
+- french: la classe
+  german: Klasse
+  artikel_de: die
+  artikel_fr: la
+  plural_de: die Klassen
+  plural_fr: les classes
+
+- french: l’emploi du temps
+  german: Stundenplan
+  artikel_de: der
+  artikel_fr: l'
+  plural_de: die Stundenpläne
+  plural_fr: les emplois du temps
+
+- french: la matière, la branche
+  german: Fach, Schulfach
+  artikel_de: das
+  artikel_fr: la
+  plural_de: die Fächer
+  plural_fr: les matières, les branches
+
+- french: la salle scolaire, la pièce
+  german: Raum
+  artikel_de: der
+  artikel_fr: la
+  plural_de: die Räume
+  plural_fr: les salles scolaires, les pièces
+
+- french: la salle de classe
+  german: Klassenzimmer
+  artikel_de: das
+  artikel_fr: la
+  plural_de: die Klassenzimmer
+  plural_fr: les salles de classe
+
+- french: la salle des professeurs
+  german: Lehrerzimmer
+  artikel_de: das
+  artikel_fr: la
+  plural_de: die Lehrerzimmer
+  plural_fr: les salles des professeurs
+
+- french: les toilettes, les WC
+  german: Toilette
+  artikel_de: die
+  artikel_fr: les
+  plural_de: die Toiletten
+  plural_fr: les toilettes, les WC
+
+- french: la piscine
+  german: Schwimmbad
+  artikel_de: das
+  artikel_fr: la
+  plural_de: die Schwimmbäder
+  plural_fr: les piscines
+
+- french: la bibliothèque
+  german: Bibliothek
+  artikel_de: die
+  artikel_fr: la
+  plural_de: die Bibliotheken
+  plural_fr: les bibliothèques
+
+- french: la cour de récréation
+  german: Pausenhof
+  artikel_de: der
+  artikel_fr: la
+  plural_de: die Pausenhöfe
+  plural_fr: les cours de récréation
+
+- french: la cantine scolaire
+  german: Schulkantine
+  artikel_de: die
+  artikel_fr: la
+  plural_de: die Schulkantinen
+  plural_fr: les cantines scolaires
+
+- french: la salle de travaux manuels, l’atelier
+  german: Werkraum
+  artikel_de: der
+  artikel_fr: la/l'
+  plural_de: die Werkräume
+  plural_fr: les salles de travaux manuels, les ateliers
+
+- french: la salle informatique
+  german: Computerraum
+  artikel_de: der
+  artikel_fr: la
+  plural_de: die Computerräume
+  plural_fr: les salles informatiques
+
+- french: la salle de biologie
+  german: Biologieraum
+  artikel_de: der
+  artikel_fr: la
+  plural_de: die Biologieräume
+  plural_fr: les salles de biologie
+
+- french: la salle d’arts visuels
+  german: Kunstraum
+  artikel_de: der
+  artikel_fr: la
+  plural_de: die Kunsträume
+  plural_fr: les salles d’arts visuels
+
+- french: la salle de gym
+  german: Turnhalle
+  artikel_de: die
+  artikel_fr: la
+  plural_de: die Turnhallen
+  plural_fr: les salles de gym
+
+- french: le bureau
+  german: Büro
+  artikel_de: das
+  artikel_fr: le
+  plural_de: die Büros
+  plural_fr: les bureaux
+
+- french: le cuisinier
+  german: Koch
+  artikel_de: der
+  artikel_fr: le
+  plural_de: die Köche
+  plural_fr: les cuisiniers
+
+- french: la cuisinière
+  german: Köchin
+  artikel_de: die
+  artikel_fr: la
+  plural_de: die Köchinnen
+  plural_fr: les cuisinières
+
+- french: le directeur
+  german: Direktor
+  artikel_de: der
+  artikel_fr: le
+  plural_de: die Direktoren
+  plural_fr: les directeurs
+
+- french: la directrice
+  german: Direktorin
+  artikel_de: die
+  artikel_fr: la
+  plural_de: die Direktorinnen
+  plural_fr: les directrices
+
+- french: le secrétaire
+  german: Sekretär
+  artikel_de: der
+  artikel_fr: le
+  plural_de: die Sekretäre
+  plural_fr: les secrétaires
+
+- french: la secrétaire
+  german: Sekretärin
+  artikel_de: die
+  artikel_fr: la
+  plural_de: die Sekretärinnen
+  plural_fr: les secrétaires
+
+- french: le concierge
+  german: Hauswart
+  artikel_de: der
+  artikel_fr: le
+  plural_de: die Hauswarte
+  plural_fr: les concierges
+
+- french: la concierge
+  german: Hauswärterin
+  artikel_de: die
+  artikel_fr: la
+  plural_de: die Hauswärterinnen
+  plural_fr: les concierges
+
+- french: les sciences naturelles
+  german: Naturwissenschaft
+  artikel_de: die
+  artikel_fr: les
+  plural_de: die Naturwissenschaften
+  plural_fr: les sciences naturelles
+
+- french: les loisirs
+  german: Freizeit
+  artikel_de: die
+  artikel_fr: les
+  plural_de: die Freizeiten
+  plural_fr: les loisirs
+
+- french: le hobby, le passe-temps
+  german: Hobby
+  artikel_de: das
+  artikel_fr: le
+  plural_de: die Hobbys
+  plural_fr: les hobbies, les passe-temps
+
+- french: lundi
+  german: Montag
+  artikel_de: der
+  artikel_fr: le
+  plural_de: die Montage
+  plural_fr: les lundis
+
+- french: mardi
+  german: Dienstag
+  artikel_de: der
+  artikel_fr: le
+  plural_de: die Dienstage
+  plural_fr: les mardis
+
+- french: mercredi
+  german: Mittwoch
+  artikel_de: der
+  artikel_fr: le
+  plural_de: die Mittwoche
+  plural_fr: les mercredis
+
+- french: jeudi
+  german: Donnerstag
+  artikel_de: der
+  artikel_fr: le
+  plural_de: die Donnerstage
+  plural_fr: les jeudis
+
+- french: vendredi
+  german: Freitag
+  artikel_de: der
+  artikel_fr: le
+  plural_de: die Freitage
+  plural_fr: les vendredis
+
+- french: samedi
+  german: Samstag
+  artikel_de: der
+  artikel_fr: le
+  plural_de: die Samstage
+  plural_fr: les samedis
+
+- french: dimanche
+  german: Sonntag
+  artikel_de: der
+  artikel_fr: le
+  plural_de: die Sonntage
+  plural_fr: les dimanches
+
+- french: la semaine
+  german: Woche
+  artikel_de: die
+  artikel_fr: la
+  plural_de: die Wochen
+  plural_fr: les semaines
+
+- french: le week-end
+  german: Wochenende
+  artikel_de: das
+  artikel_fr: le
+  plural_de: die Wochenenden
+  plural_fr: les week-ends
+
+- french: l’heure
+  german: Uhrzeit
+  artikel_de: die
+  artikel_fr: l'
+  plural_de: die Uhrzeiten
+  plural_fr: les heures
+
+- french: l’heure (durée)
+  german: Stunde
+  artikel_de: die
+  artikel_fr: l'
+  plural_de: die Stunden
+  plural_fr: les heures

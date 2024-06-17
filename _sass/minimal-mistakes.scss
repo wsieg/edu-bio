@@ -4,6 +4,13 @@
  * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE)
 */
 
+/* make extra wide when no author bio*/
+article.page {
+    float: left;
+    width: 100%;
+	padding-left: 20px;
+}
+
 /* Variables */
 @import "minimal-mistakes/variables";
 

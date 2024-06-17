@@ -2,7 +2,7 @@
 layout: single
 title: TEST
 permalink: /test/
-author_profile: false
+classes: wide
 ---
 
 <!-- Your Markdown content goes here -->

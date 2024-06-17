@@ -1,9 +1,13 @@
 ---
 layout: single
-title: Sublink 1
+title: Allemand
 permalink: /test/sublink1/
+defaults:
+    values:
+      author_profile: false
+
 ---
 
-# Sublink 1
+## 9ème
 
-This is the content of Sublink 1.
+This is the content of Sublink 1. really !

@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "fr-CH"
-title                    : "Edu-bio a voir"
+title                    : "Educ"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Warren Siegrist"
-description              : "Ce site regroupe une partie des cours de biologie ainsi que des exercices et liens          supplémentaires"
+description              : "Ce site regroupe différentes ressources et exercices pour les élèves du secondaire I."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Warren Siegrist"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Enseignant au secondaire I en Suisse."
+  location         : "CH"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:warrensiegrist@yahoo.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -288,7 +288,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
@@ -296,3 +296,9 @@ defaults:
 
 # making sure jekyll reads the pages folder
 include: ["_pages"]
+
+include: ["_data"]
+
+include:
+  - _data
+
