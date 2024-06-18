@@ -74,7 +74,7 @@ Veuillez choisir votre degré.
   <div class="row">
     <div class="column">
       <a href="neuvieme/" class="card">
-        <img src="/assets/images/img_avatar.png" alt="Snow">
+        <img src="{{ site.baseurl }}/assets/img/img_avatar.png" alt="Snow">
         <div class="container-content">
           <h2><b>9e</b></h2>
         </div>
@@ -82,7 +82,7 @@ Veuillez choisir votre degré.
     </div>
     <div class="column">
       <a href="https://example.com" class="card">
-        <img src="/assets/images/img_avatar.png" alt="Snow">
+        <img src="{{ site.baseurl }}/assets/img/img_avatar.png" alt="Snow">
         <div class="container-content">
           <h2><b>10e</b></h2>
         </div>
@@ -90,7 +90,7 @@ Veuillez choisir votre degré.
     </div>
     <div class="column">
       <a href="https://example.com" class="card">
-        <img src="/assets/images/img_avatar.png" alt="Snow">
+        <img src="{{ site.baseurl }}/assets/img/img_avatar.png" alt="Snow">
         <div class="container-content">
           <h2><b>11e</b></h2>
         </div>

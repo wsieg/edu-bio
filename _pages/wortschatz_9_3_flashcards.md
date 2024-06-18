@@ -87,13 +87,14 @@ button:hover {
     const flashcardData = {{ site.data.wortschatz_9_1 | jsonify }};
     const varFront = 'french';
     const varBack = 'german';
+    const varArtikel = 'artikel_de';
 
     let currentMemberIndex = Math.floor(Math.random() * flashcardData.length);
 
     // Initialize the flashcard with the first member's data
     function initializeFlashcard() {
       document.getElementById('front-side').innerText = flashcardData[currentMemberIndex][varFront];
-      document.getElementById('back-side').innerText = flashcardData[currentMemberIndex][varBack];
+      document.getElementById('back-side').innerText = flashcardData[currentMemberIndex][varArtikel] + " " + flashcardData[currentMemberIndex][varBack];
     }
 
     function flipCard() {
@@ -113,9 +114,9 @@ button:hover {
         document.querySelector('.flashcard').classList.remove('flipped');
       }
       currentMemberIndex = getRandomMember();
-      setTimeout(() => {
         document.getElementById('front-side').innerText = flashcardData[currentMemberIndex][varFront];
-        document.getElementById('back-side').innerText = flashcardData[currentMemberIndex][varBack];
+      setTimeout(() => {
+        document.getElementById('back-side').innerText = flashcardData[currentMemberIndex][varArtikel] + " " + flashcardData[currentMemberIndex][varBack];
       }, 300); // delay updating content to allow flip animation to complete
     }
 

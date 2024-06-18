@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Warren Siegrist"
 description              : "Ce site regroupe différentes ressources et exercices pour les élèves du secondaire I."
 url                      : "https://wsieg.github.io"
-baseurl                  : "/edu-bio"
+baseurl                  : "/edu-bio/"
 repository               : "wsieg/edu-bio"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -293,12 +293,15 @@ defaults:
       comments: # true
       share: true
       related: true
+  #img
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 
 # making sure jekyll reads the pages folder
-include: ["_pages"]
-
-include: ["_data"]
-
 include:
+  - _pages
   - _data
+  - assets/images
 
