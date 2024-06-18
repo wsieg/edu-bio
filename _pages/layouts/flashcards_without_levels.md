@@ -6,9 +6,6 @@ classes: wide
 ---
 
 
-
-
-<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
@@ -22,13 +19,13 @@ classes: wide
   justify-content: center;
 }
 .flashcard {
-  width: 400px;
-  height: 300px;
+  width: 40vw;
+  height: 55vh;
   text-align: center;
   cursor: pointer;
   position: relative;
   transform-style: preserve-3d;
-  transition: transform 0.4s;
+  transition: transform 0.45s;
 }
 .flashcard.flipped {
   transform: rotateY(180deg);
@@ -44,7 +41,19 @@ classes: wide
   border: 1px solid #ccc;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  font-size: 46px; /* Default font size for larger screens */
 }
+/* Adjust font size for smaller screens */
+@media (max-width: 768px) {
+  .flashcard .front, .flashcard .back {
+    font-size: 22px; /* Adjusted font size for smaller screens */
+  }
+  .flashcard {
+    width: 85vw;
+    height: 200px
+  }
+}
+/* Specific styles for front and back */
 .flashcard .front {
   background-color: #fff;
 }

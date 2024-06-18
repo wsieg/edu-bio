@@ -1,0 +1,253 @@
+---
+layout: single
+title: Wortschatz Kapitel 2
+permalink: /allemand_main/neuvieme/wortschatz2
+classes: wide
+---
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+.flashcard-container {
+  perspective: 1000px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.flashcard {
+  width: 40vw;
+  height: 55vh;
+  text-align: center;
+  cursor: pointer;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.45s;
+}
+.flashcard.flipped {
+  transform: rotateY(180deg);
+}
+.flashcard .front, .flashcard .back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  font-size: 46px; /* Default font size for larger screens */
+}
+/* Adjust font size for smaller screens */
+@media (max-width: 768px) {
+  .flashcard .front, .flashcard .back {
+    font-size: 32px; /* Adjusted font size for smaller screens */
+  }
+  .flashcard {
+    width: 85vw;
+    height: 200px;
+  }
+}
+/* Specific styles for front and back */
+.flashcard .front {
+  background-color: #fff;
+}
+.flashcard .back {
+  background-color: #f0f0f0;
+  transform: rotateY(180deg);
+}
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  background-color: #007BFF;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: #0056b3;
+}
+button.level-button:hover {
+  background-color: #a1a1a1;
+}
+.level-buttons {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+/* Add styles for the active state of the buttons */
+button.level-button.level-active {
+  background-color: #f1c232;
+  color: white;
+}
+button.level-button {
+  background-color: #ececec; /* Default background color */
+  color: #363636;
+}
+.switch-container {
+  display: flex;
+  justify-content: center; /* Center align items horizontally */
+  gap: 100px; /* Space between switch containers */
+}
+.switch-label {
+  font-size: 18px; /* Adjust label font size */
+  text-align: center; /* Center align text */
+}
+.switch {
+  position: relative;
+  display: inline-flex; /* Use inline-flex to keep elements inline */
+  align-items: center; /* Align items vertically */
+  width: 60px;
+  height: 34px;
+}
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: .4s;
+}
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  transition: .4s;
+}
+input:checked + .slider {
+  background-color: #2196F3;
+}
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+.slider.round:before {
+  border-radius: 50%;
+}
+</style>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<div class="container">
+  <div class="switch-container">
+    <div>
+      <div class="switch-label">Niveau 2</div>
+      <label class="switch">
+        <input type="checkbox" id="level-2-toggle">
+        <span class="slider round"></span>
+      </label>
+    </div>
+    <div>
+      <div class="switch-label">Niveau 3</div>
+      <label class="switch">
+        <input type="checkbox" id="level-3-toggle" disabled>
+        <span class="slider round"></span>
+      </label>
+    </div>
+  </div>
+  <div class="flashcard-container">
+    <div class="flashcard" onclick="flipCard()">
+      <div class="front" id="front-side"></div>
+      <div class="back" id="back-side"></div>
+    </div>
+  </div>
+  <button onclick="nextMember()">Suivant</button>
+</div>
+
+<script>
+// Define the flashcard data variable and field names
+const flashcardData = {{ site.data.wortschatz_9_1_test | jsonify }};
+const varFront = 'french';
+const varBack = 'german';
+const varArtikel = 'artikel_de';
+
+let currentMemberIndex = Math.floor(Math.random() * flashcardData.length);
+let selectedLevels = [1]; // By default, only level 1 is selected
+
+// Initialize the flashcard with the first member's data
+function initializeFlashcard() {
+  updateFlashcard();
+}
+
+function updateFlashcard() {
+  const filteredData = flashcardData.filter(item => selectedLevels.includes(item.level));
+  const randomIndex = Math.floor(Math.random() * filteredData.length);
+  const member = filteredData[randomIndex];
+  document.getElementById('front-side').innerText = member[varFront];
+  document.getElementById('back-side').innerText = member[varArtikel] + " " + member[varBack];
+}
+
+function flipCard() {
+  document.querySelector('.flashcard').classList.toggle('flipped');
+}
+
+function getRandomMember() {
+  const filteredData = flashcardData.filter(item => selectedLevels.includes(item.level));
+  let randomIndex;
+  do {
+    randomIndex = Math.floor(Math.random() * filteredData.length);
+  } while (randomIndex === currentMemberIndex);
+  return randomIndex;
+}
+
+function nextMember() {
+  if (document.querySelector('.flashcard').classList.contains('flipped')) {
+    document.querySelector('.flashcard').classList.remove('flipped');
+  }
+  currentMemberIndex = getRandomMember();
+  updateFlashcard();
+}
+
+// Function to toggle levels based on slider state
+const level2Toggle = document.getElementById('level-2-toggle');
+const level3Toggle = document.getElementById('level-3-toggle');
+
+level2Toggle.addEventListener('change', function() {
+  if (this.checked) {
+    selectedLevels.push(2);
+    level3Toggle.disabled = false;
+  } else {
+    selectedLevels = selectedLevels.filter(level => level !== 2 && level !== 3);
+    level3Toggle.checked = false;
+    level3Toggle.disabled = true;
+  }
+  updateFlashcard();
+});
+
+level3Toggle.addEventListener('change', function() {
+  if (this.checked) {
+    selectedLevels.push(3);
+  } else {
+    selectedLevels = selectedLevels.filter(level => level !== 3);
+  }
+  updateFlashcard();
+});
+
+// Initialize the flashcard when the page loads
+document.addEventListener('DOMContentLoaded', initializeFlashcard);
+</script>

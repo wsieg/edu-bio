@@ -302,6 +302,10 @@ defaults:
 # making sure jekyll reads the pages folder
 include:
   - _pages
+  - _pages/layouts
+  - _pages/allemand
+  - _pages/biologie
+  - _pages/maths
   - _data
   - assets/images
 

@@ -1,0 +1,24 @@
+- french: l’école
+  german: Schule
+  artikel_de: die
+  artikel_fr: l'
+  plural_de: die Schulen
+  plural_fr: les écoles
+  level: 1
+
+- french: nouveau-elle
+  german: neu
+  artikel_de: das
+  artikel_fr: le/la
+  plural_de: keine Pluralform
+  plural_fr: nouveaux/elles
+  level: 2
+
+- french: le maître, le professeur, l’enseignant
+  german: Lehrer
+  artikel_de: der
+  artikel_fr: le
+  plural_de: die Lehrer
+  plural_fr: les maîtres, les professeurs, les enseignants
+  level: 3
+
