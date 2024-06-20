@@ -1,307 +1,679 @@
-- french: l’école
-  german: Schule
-  artikel_de: die
+- fr: l’école
+  de: Schule
   artikel_fr: l'
-  plural_de: die Schulen
+  artikel_de: die
   plural_fr: les écoles
+  plural_de_end: "-n"
+  plural_de: die Schulen
+  wortart: Substantiv
+  level: 1
 
-- french: nouveau-elle
-  german: neu
-  artikel_de: das
-  artikel_fr: le/la
-  plural_de: keine Pluralform
-  plural_fr: nouveaux/elles
+- fr: nouveau-elle
+  de: neu
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: nouveaux-elles
+  plural_de_end: " "
+  plural_de: 
+  wortart: Adjektiv
+  level: 1
 
-- french: le maître, le professeur, l’enseignant
-  german: Lehrer
-  artikel_de: der
+- fr: le maître, le professeur, l’enseignant
+  de: Lehrer
   artikel_fr: le
-  plural_de: die Lehrer
+  artikel_de: der
   plural_fr: les maîtres, les professeurs, les enseignants
+  plural_de_end: " "
+  plural_de: die Lehrer
+  wortart: Substantiv
+  level: 1
 
-- french: la maîtresse, la professeur, l’enseignante
-  german: Lehrerin
-  artikel_de: die
+- fr: la maîtresse, la professeur, l’enseignante
+  de: Lehrerin
   artikel_fr: la
-  plural_de: die Lehrerinnen
+  artikel_de: die
   plural_fr: les maîtresses, les professeurs, les enseignantes
+  plural_de_end: "-nen"
+  plural_de: die Lehrerinnen
+  wortart: Substantiv
+  level: 1
 
-- french: l’élève
-  german: Schüler, Schülerin
-  artikel_de: der/die
+- fr: l’élève (masc.)
+  de: Schüler
   artikel_fr: l'
-  plural_de: die Schüler, die Schülerinnen
+  artikel_de: der
   plural_fr: les élèves
+  plural_de_end: " "
+  plural_de: die Schüler
+  wortart: Substantiv
+  level:
 
-- french: la classe
-  german: Klasse
+- fr: l’élève (fém.)
+  de: Schülerin
+  artikel_fr: l'
   artikel_de: die
+  plural_fr: les élèves
+  plural_de_end: "-nen"
+  plural_de: die Schülerinnen
+  wortart: Substantiv
+  level: 1
+
+- fr: les mathématiques
+  de: Mathe
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Substantiv
+  level: 1
+
+- fr: la biologie
+  de: Biologie
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Substantiv
+  level: 1
+
+- fr: l'histoire
+  de: Geschichte
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Substantiv
+  level: 1
+
+- fr: la géographie
+  de: Geographie
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Substantiv
+  level: 1
+
+- fr: l'informatique
+  de: Informatik
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Substantiv
+  level: 1
+
+- fr: la religion (histoire biblique)
+  de: Religion
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Substantiv
+  level: 1
+
+- fr: les arts
+  de: Kunst
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Substantiv
+  level: 1
+
+- fr: l'éducation physique (la gym, le sport)
+  de: Sport
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Substantiv
+  level: 1
+
+- fr: l'anglais
+  de: Englisch
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Substantiv
+  level: 1
+
+- fr: la classe
+  de: Klasse
   artikel_fr: la
-  plural_de: die Klassen
+  artikel_de: die
   plural_fr: les classes
+  plural_de_end: "-n"
+  plural_de: die Klassen
+  wortart: Substantiv
+  level: 1
 
-- french: l’emploi du temps
-  german: Stundenplan
-  artikel_de: der
+- fr: l'emploi du temps
+  de: Stundenplan
   artikel_fr: l'
-  plural_de: die Stundenpläne
+  artikel_de: der
   plural_fr: les emplois du temps
+  plural_de_end: "¨-e"
+  plural_de: die Stundenpläne
+  wortart: Substantiv
+  level: 1
 
-- french: la matière, la branche
-  german: Fach, Schulfach
-  artikel_de: das
+- fr: la matière, la branche
+  de: Fach, Schulfach
   artikel_fr: la
-  plural_de: die Fächer
+  artikel_de: das
   plural_fr: les matières, les branches
+  plural_de_end: "¨-er"
+  plural_de: die Fächer, die Schulfächer
+  wortart: Substantiv
+  level: 1
 
-- french: la salle scolaire, la pièce
-  german: Raum
-  artikel_de: der
+- fr: la salle scolaire, la pièce
+  de: Raum
   artikel_fr: la
-  plural_de: die Räume
+  artikel_de: der
   plural_fr: les salles scolaires, les pièces
+  plural_de_end: "¨-e"
+  plural_de: die Räume
+  wortart: Substantiv
+  level: 1
 
-- french: la salle de classe
-  german: Klassenzimmer
-  artikel_de: das
+- fr: la salle de classe
+  de: Klassenzimmer
   artikel_fr: la
-  plural_de: die Klassenzimmer
+  artikel_de: das
   plural_fr: les salles de classe
+  plural_de_end: " "
+  plural_de: die Klassenzimmer
+  wortart: Substantiv
+  level: 1
 
-- french: la salle des professeurs
-  german: Lehrerzimmer
-  artikel_de: das
+- fr: la salle des professeurs
+  de: Lehrerzimmer
   artikel_fr: la
-  plural_de: die Lehrerzimmer
+  artikel_de: das
   plural_fr: les salles des professeurs
+  plural_de_end: " "
+  plural_de: die Lehrerzimmer
+  wortart: Substantiv
+  level: 1
 
-- french: les toilettes, les WC
-  german: Toilette
-  artikel_de: die
+- fr: les toilettes, les WC
+  de: Toilette
   artikel_fr: les
-  plural_de: die Toiletten
+  artikel_de: die
   plural_fr: les toilettes, les WC
+  plural_de_end: "-n"
+  plural_de: die Toiletten
+  wortart: Substantiv
+  level: 1
 
-- french: la piscine
-  german: Schwimmbad
-  artikel_de: das
+- fr: la piscine
+  de: Schwimmbad
   artikel_fr: la
-  plural_de: die Schwimmbäder
+  artikel_de: das
   plural_fr: les piscines
+  plural_de_end: "¨-er"
+  plural_de: die Schwimmbäder
+  wortart: Substantiv
+  level: 1
 
-- french: la bibliothèque
-  german: Bibliothek
-  artikel_de: die
+- fr: la bibliothèque
+  de: Bibliothek
   artikel_fr: la
-  plural_de: die Bibliotheken
+  artikel_de: die
   plural_fr: les bibliothèques
+  plural_de_end: "-en"
+  plural_de: die Bibliotheken
+  wortart: Substantiv
+  level: 1
 
-- french: la cour de récréation
-  german: Pausenhof
-  artikel_de: der
+- fr: la cour de récréation
+  de: Pausenhof
   artikel_fr: la
-  plural_de: die Pausenhöfe
+  artikel_de: der
   plural_fr: les cours de récréation
+  plural_de_end: "¨-e"
+  plural_de: die Pausenhöfe
+  wortart: Substantiv
+  level: 1
 
-- french: la cantine scolaire
-  german: Schulkantine
-  artikel_de: die
+- fr: la cantine scolaire
+  de: Schulkantine
   artikel_fr: la
-  plural_de: die Schulkantinen
+  artikel_de: die
   plural_fr: les cantines scolaires
+  plural_de_end: "-n"
+  plural_de: die Schulkantinen
+  wortart: Substantiv
+  level: 1
 
-- french: la salle de travaux manuels, l’atelier
-  german: Werkraum
+- fr: la salle de travaux manuels, l’atelier
+  de: Werkraum
+  artikel_fr: la
   artikel_de: der
-  artikel_fr: la/l'
-  plural_de: die Werkräume
   plural_fr: les salles de travaux manuels, les ateliers
+  plural_de_end: "¨-e"
+  plural_de: die Werkräume
+  wortart: Substantiv
+  level: 2
 
-- french: la salle informatique
-  german: Computerraum
-  artikel_de: der
+- fr: la salle informatique
+  de: Computerraum
   artikel_fr: la
-  plural_de: die Computerräume
+  artikel_de: der
   plural_fr: les salles informatiques
+  plural_de_end: "¨-e"
+  plural_de: die Computerräume
+  wortart: Substantiv
+  level: 2
 
-- french: la salle de biologie
-  german: Biologieraum
-  artikel_de: der
+- fr: la salle de biologie
+  de: Biologieraum
   artikel_fr: la
-  plural_de: die Biologieräume
+  artikel_de: der
   plural_fr: les salles de biologie
+  plural_de_end: "-e"
+  plural_de: die Biologieräume
+  wortart: Substantiv
+  level: 2
 
-- french: la salle d’arts visuels
-  german: Kunstraum
-  artikel_de: der
+- fr: la salle d’arts visuels
+  de: Kunstraum
   artikel_fr: la
-  plural_de: die Kunsträume
+  artikel_de: der
   plural_fr: les salles d’arts visuels
+  plural_de_end: "¨-e"
+  plural_de: die Kunsträume
+  wortart: Substantiv
+  level: 2
 
-- french: la salle de gym
-  german: Turnhalle
-  artikel_de: die
+- fr: la salle de gym
+  de: Turnhalle
   artikel_fr: la
-  plural_de: die Turnhallen
+  artikel_de: die
   plural_fr: les salles de gym
+  plural_de_end: "-n"
+  plural_de: die Turnhallen
+  wortart: Substantiv
+  level: 2
 
-- french: le bureau
-  german: Büro
-  artikel_de: das
+- fr: le bureau
+  de: Büro
   artikel_fr: le
-  plural_de: die Büros
+  artikel_de: das
   plural_fr: les bureaux
+  plural_de_end: "-s"
+  plural_de: die Büros
+  wortart: Substantiv
+  level: 2
 
-- french: le cuisinier
-  german: Koch
-  artikel_de: der
+- fr: le cuisinier
+  de: Koch
   artikel_fr: le
-  plural_de: die Köche
+  artikel_de: der
   plural_fr: les cuisiniers
+  plural_de_end: "¨-e"
+  plural_de: die Köche
+  wortart: Substantiv
+  level: 2
 
-- french: la cuisinière
-  german: Köchin
-  artikel_de: die
+- fr: la cuisinière
+  de: Köchin
   artikel_fr: la
-  plural_de: die Köchinnen
+  artikel_de: die
   plural_fr: les cuisinières
+  plural_de_end: "-nen"
+  plural_de: die Köchinnen
+  wortart: Substantiv
+  level: 2
 
-- french: le directeur
-  german: Direktor
-  artikel_de: der
+- fr: le directeur
+  de: Direktor
   artikel_fr: le
-  plural_de: die Direktoren
+  artikel_de: der
   plural_fr: les directeurs
+  plural_de_end: "-en"
+  plural_de: die Direktoren
+  wortart: Substantiv
+  level: 2
 
-- french: la directrice
-  german: Direktorin
-  artikel_de: die
+- fr: la directrice
+  de: Direktorin
   artikel_fr: la
-  plural_de: die Direktorinnen
+  artikel_de: die
   plural_fr: les directrices
+  plural_de_end: "-nen"
+  plural_de: die Direktorinnen
+  wortart: Substantiv
+  level: 2
 
-- french: le secrétaire
-  german: Sekretär
-  artikel_de: der
+- fr: le secrétaire
+  de: Sekretär
   artikel_fr: le
+  artikel_de: der
+  plural_fr: les secrétaires
+  plural_de_end: "-e"
   plural_de: die Sekretäre
-  plural_fr: les secrétaires
+  wortart: Substantiv
+  level: 2
 
-- french: la secrétaire
-  german: Sekretärin
-  artikel_de: die
+- fr: la secrétaire
+  de: Sekretärin
   artikel_fr: la
+  artikel_de: die
+  plural_fr: les secrétaires
+  plural_de_end: "-nen"
   plural_de: die Sekretärinnen
-  plural_fr: les secrétaires
+  wortart: Substantiv
+  level: 2
 
-- french: le concierge
-  german: Hauswart
-  artikel_de: der
+- fr: le concierge
+  de: Hauswart
   artikel_fr: le
+  artikel_de: der
+  plural_fr: les concierges
+  plural_de_end: "-e"
   plural_de: die Hauswarte
-  plural_fr: les concierges
+  wortart: Substantiv
+  level: 2
 
-- french: la concierge
-  german: Hauswärterin
-  artikel_de: die
+- fr: la concierge
+  de: Hauswärterin
   artikel_fr: la
+  artikel_de: die
+  plural_fr: les concierges
+  plural_de_end: "-nen"
   plural_de: die Hauswärterinnen
-  plural_fr: les concierges
+  wortart: Substantiv
+  level: 2
 
-- french: les sciences naturelles
-  german: Naturwissenschaft
-  artikel_de: die
+- fr: les sciences naturelles
+  de: Naturwissenschaft
   artikel_fr: les
-  plural_de: die Naturwissenschaften
+  artikel_de: die
   plural_fr: les sciences naturelles
+  plural_de_end: "-en"
+  plural_de: die Naturwissenschaften
+  wortart: Substantiv
+  level: 3
 
-- french: les loisirs
-  german: Freizeit
+- fr: enseigner
+  de: unterrichten, er unterrichtet
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Verb
+  level: 3
+
+- fr: le nom
+  de: Name
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les noms
+  plural_de_end: "-n"
+  plural_de: die Namen
+  wortart: Substantiv
+  level: 1
+
+- fr: le prénom
+  de: Vorname
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les prénoms
+  plural_de_end: "-n"
+  plural_de: die Vornamen
+  wortart: Substantiv
+  level: 1
+
+- fr: l'âge
+  de: Alter
+  artikel_fr: l'
+  artikel_de: das
+  plural_fr: les âges
+  plural_de_end: " "
+  plural_de: die Alter
+  wortart: Substantiv
+  level: 1
+
+- fr: le lieu de naissance
+  de: Geburtsort
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les lieux de naissance
+  plural_de_end: "-e"
+  plural_de: die Geburtsorte
+  wortart: Substantiv
+  level: 1
+
+- fr: le domicile
+  de: Wohnort
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les domiciles
+  plural_de_end: "-e"
+  plural_de: die Wohnorte
+  wortart: Substantiv
+  level: 1
+
+- fr: la langue (parlée)
+  de: Sprache
+  artikel_fr: le
   artikel_de: die
+  plural_fr: les langues
+  plural_de_end: "-n"
+  plural_de: die Sprachen
+  wortart: Substantiv
+  level: 1
+
+- fr: les loisirs
+  de: Freizeit
   artikel_fr: les
-  plural_de: die Freizeiten
+  artikel_de: die
   plural_fr: les loisirs
+  plural_de_end: "-en"
+  plural_de: die Freizeiten
+  wortart: Substantiv
+  level: 1
 
-- french: le hobby, le passe-temps
-  german: Hobby
-  artikel_de: das
+- fr: le hobby, passe-temps
+  de: Hobby
   artikel_fr: le
+  artikel_de: das
+  plural_fr: les hobbies
+  plural_de_end: "-s"
   plural_de: die Hobbys
-  plural_fr: les hobbies, les passe-temps
+  wortart: Substantiv
+  level: 1
 
-- french: lundi
-  german: Montag
-  artikel_de: der
-  artikel_fr: le
-  plural_de: die Montage
-  plural_fr: les lundis
+- fr: lire
+  de: lesen, er liest
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Verb
+  level: 1
 
-- french: mardi
-  german: Dienstag
-  artikel_de: der
-  artikel_fr: le
-  plural_de: die Dienstage
-  plural_fr: les mardis
+- fr: dessiner
+  de: zeichnen, er zeichnet
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Verb
+  level: 1
 
-- french: mercredi
-  german: Mittwoch
-  artikel_de: der
-  artikel_fr: le
-  plural_de: die Mittwoche
-  plural_fr: les mercredis
+- fr: nager
+  de: schwimmen, er schwimmt
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Verb
+  level: 1
 
-- french: jeudi
-  german: Donnerstag
-  artikel_de: der
-  artikel_fr: le
-  plural_de: die Donnerstage
-  plural_fr: les jeudis
+- fr: faire du cheval
+  de: reiten, er reitet
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Verb
+  level: 1
 
-- french: vendredi
-  german: Freitag
-  artikel_de: der
-  artikel_fr: le
-  plural_de: die Freitage
-  plural_fr: les vendredis
+- fr: rencontrer des amis
+  de: Freunde treffen, er trifft Freunde
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Verb
+  level: 1
 
-- french: samedi
-  german: Samstag
-  artikel_de: der
-  artikel_fr: le
-  plural_de: die Samstage
-  plural_fr: les samedis
+- fr: jouer du piano
+  de: Klavier spielen, er spielt Klavier
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: Verb
+  level: 1
 
-- french: dimanche
-  german: Sonntag
-  artikel_de: der
-  artikel_fr: le
-  plural_de: die Sonntage
-  plural_fr: les dimanches
-
-- french: la semaine
-  german: Woche
-  artikel_de: die
+- fr: la semaine
+  de: Woche
   artikel_fr: la
-  plural_de: die Wochen
+  artikel_de: die
   plural_fr: les semaines
+  plural_de_end: "-n"
+  plural_de: die Wochen
+  wortart: Substantiv
+  level: 1
 
-- french: le week-end
-  german: Wochenende
-  artikel_de: das
+- fr: lundi
+  de: Montag
   artikel_fr: le
+  artikel_de: der
+  plural_fr: les lundis
+  plural_de_end: "-e"
+  plural_de: die Montage
+  wortart: Substantiv
+  level: 1
+
+- fr: mardi
+  de: Dienstag
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les mardis
+  plural_de_end: "-e"
+  plural_de: die Dienstage
+  wortart: Substantiv
+  level: 1
+
+- fr: mercredi
+  de: Mittwoch
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les mercredis
+  plural_de_end: "-e"
+  plural_de: die Mittwoche
+  wortart: Substantiv
+  level: 1
+
+- fr: jeudi
+  de: Donnerstag
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les jeudis
+  plural_de_end: "-e"
+  plural_de: die Donnerstage
+  wortart: Substantiv
+  level: 1
+
+- fr: vendredi
+  de: Freitag
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les vendredis
+  plural_de_end: "-e"
+  plural_de: die Freitage
+  wortart: Substantiv
+  level: 1
+
+- fr: samedi
+  de: Samstag
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les samedis
+  plural_de_end: "-e"
+  plural_de: die Samstage
+  wortart: Substantiv
+  level: 1
+
+- fr: dimanche
+  de: Sonntag
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les dimanches
+  plural_de_end: "-e"
+  plural_de: die Sonntage
+  wortart: Substantiv
+  level: 1
+
+- fr: le week-end
+  de: Wochenende
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les week-end
+  plural_de_end: "-n"
   plural_de: die Wochenenden
-  plural_fr: les week-ends
+  wortart: Substantiv
+  level: 1
 
-- french: l’heure
-  german: Uhrzeit
-  artikel_de: die
+- fr: l'heure
+  de: Uhrzeit
   artikel_fr: l'
+  artikel_de: die
+  plural_fr: les heures
+  plural_de_end: "-en"
   plural_de: die Uhrzeiten
-  plural_fr: les heures
+  wortart: Substantiv
+  level: 1
 
-- french: l’heure (durée)
-  german: Stunde
-  artikel_de: die
+- fr: l'heure (durée)
+  de: Stunde
   artikel_fr: l'
-  plural_de: die Stunden
+  artikel_de: die
   plural_fr: les heures
+  plural_de_end: "-n"
+  plural_de: die Stunden
+  wortart: Substantiv
+  level: 1
+
+- fr: commencer
+  de: an|fangen, er fängt an
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les mardis
+  plural_de_end: "-e"
+  plural_de: die Dienstage
+  wortart: Substantiv
+  level: 2

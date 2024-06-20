@@ -5,37 +5,30 @@ permalink: /allemand_main/
 classes: wide
 ---
 
-Veuillez choisir votre degré.
-
 <head>
 <style>
 	* {
 	box-sizing: border-box;
 	}
-
 	.container {
 	width: 95%;
 	margin: 0 auto; /* Center the container */
 	}
-
 	.column {
 	float: left;
 	width: 33.33%;
 	padding: 5px;
 	}
-
 	.row::after {
 	content: "";
 	clear: both;
 	display: table;
 	}
-
 	@media screen and (max-width: 500px) {
 	.column {
 		width: 100%;
 	}
 	}
-
 	.card {
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 	transition: 0s;
@@ -44,22 +37,18 @@ Veuillez choisir votre degré.
 	display: block; /* Make the link block-level to cover the whole card */
 	margin: 10px 0; /* Add some margin for spacing */
 	}
-
 	.card:hover {
 	box-shadow: 0 8px 20px 0 rgba(0,0,0,0.45);
 	}
-
 	.card img {
 	width: 100%;
 	}
-
 	.card h2 {
 	margin: 0 0 18px 0;
 	font-family: "Bebas Neue", cursive;
 	font-size: 2.9rem;
 	letter-spacing: 0.06em;
 	}
-
 	.container-content {
 	padding: 0px 0px;
 	text-align: center;
@@ -69,11 +58,12 @@ Veuillez choisir votre degré.
 </head>
 <body>
 
+Veuillez choisir votre degré.
 
 <div class="container">
   <div class="row">
     <div class="column">
-      <a href="neuvieme/" class="card">
+      <a href="{{ site.baseurl }}/allemand_main/9klasse/" class="card">
         <img src="{{ site.baseurl }}/assets/img/9klasse.webp" alt="Snow">
         <div class="container-content">
         </div>

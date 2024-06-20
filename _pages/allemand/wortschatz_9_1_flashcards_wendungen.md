@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Wortschatz Default
-permalink: /test/flashcards_with_levels
+title: Wortschatz (Wendungen) Kapitel 1
+permalink: /allemand_main/9klasse/wortschatz1_lernkarten_wendungen
 classes: wide
 ---
 
@@ -39,11 +39,9 @@ classes: wide
 
 <script>
 // Define the flashcard data variable and field names
-const flashcardData = {{ site.data.wortschatz_9_1 | jsonify }};
+const flashcardData = {{ site.data.wortschatz_9_1_wendungen | jsonify }};
 const varFront = 'fr';
 const varBack = 'de';
-const varArtikel = 'artikel_de';
-const varPlural = "plural_de_end"
 
 let currentMemberIndex = Math.floor(Math.random() * flashcardData.length);
 let selectedLevels = [1]; // By default, only level 1 is selected
@@ -59,7 +57,7 @@ function updateFlashcard() {
   const member = filteredData[randomIndex];
   document.getElementById('front-side').innerText = member[varFront];
   setTimeout(() => {
-  document.getElementById('back-side').innerText = member[varArtikel] + " " + member[varBack] + ", " + member[varPlural];
+  document.getElementById('back-side').innerText = member[varBack];
   }, 300); // delay updating content to allow flip animation to complete
 }
 

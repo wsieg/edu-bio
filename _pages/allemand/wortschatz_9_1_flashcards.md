@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Wortschatz Default
-permalink: /test/flashcards_with_levels
+title: Wortschatz (Wörter und Verben) Kapitel 1
+permalink: /allemand_main/9klasse/wortschatz1_lernkarten
 classes: wide
 ---
 

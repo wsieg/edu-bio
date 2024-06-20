@@ -3,5 +3,11 @@ main:
   - title: "Allemand"
     url: /allemand_main/
 
-  - title: "TEST"
-    url: /test/
+  - title: "Mathématiques"
+    url: /maths/
+
+  - title: "Biologie"
+    url: /bio/
+
+  - title: "A propos"
+    url: /propos/

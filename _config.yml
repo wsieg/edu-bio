@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:warrensiegrist@yahoo.com"
+      url: "mailto:warrensiegrist@yahoo.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -132,15 +132,18 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope-square"
+      url: "mailto:warrensiegrist@yahoo.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "example.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/wsieg"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -304,8 +307,11 @@ include:
   - _pages
   - _pages/layouts
   - _pages/allemand
+  - _pages/allemand/9klasse
+  - _pages/allemand/10klasse
+  - _pages/allemand/11klasse
   - _pages/biologie
   - _pages/maths
   - _data
-  - assets/images
+  - assets/img
 
