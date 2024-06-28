@@ -63,7 +63,7 @@ Veuillez choisir votre degré.
 <div class="container">
   <div class="row">
     <div class="column">
-      <a href="{{ site.baseurl }}/allemand_main/9klasse/" class="card">
+      <a href="{{ site.baseurl }}/allemand_main/9klasse_main/" class="card">
         <img src="{{ site.baseurl }}/assets/img/9klasse.webp" alt="Snow">
         <div class="container-content">
         </div>

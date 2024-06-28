@@ -1,0 +1,721 @@
+- artikel_de: die
+  artikel_fr: ''
+  de: Familie
+  fr: La famille
+  level: 1
+  plural_de: Familien
+  plural_de_end: "-n"
+  plural_fr: les La famille
+  wortart: substantiv
+- artikel_de: die
+  artikel_fr: ''
+  de: Eltern
+  fr: les parents
+  level: 1
+  plural_de: Eltern
+  plural_de_end: ""
+  plural_fr: les les parents
+  wortart: substantiv
+- artikel_de: der
+  artikel_fr: le
+  de: Vater
+  fr: père
+  level: 1
+  plural_de: Väter
+  plural_de_end: "¨-er"
+  plural_fr: les père
+  wortart: substantiv
+- artikel_de: die
+  artikel_fr: la
+  de: Mutter
+  fr: mère
+  level: 1
+  plural_de: Mütter
+  plural_de_end: "¨-er"
+  plural_fr: les mère
+  wortart: substantiv
+- artikel_de: die
+  artikel_fr: la
+  de: Mama
+  fr: maman
+  level: 1
+  plural_de: Mamas
+  plural_de_end: "-s"
+  plural_fr: les maman
+  wortart: substantiv
+- artikel_de: der
+  artikel_fr: le
+  de: Papa
+  fr: papa
+  level: 1
+  plural_de: Papas
+  plural_de_end: ""
+  plural_fr: les papa
+  wortart: substantiv
+- artikel_de: der
+  artikel_fr: le
+  de: Opa
+  fr: grand-papa
+  level: 1
+  plural_de: Opas
+  plural_de_end: "-s"
+  plural_fr: les grand-papa
+  wortart: substantiv
+- artikel_de: die
+  artikel_fr: la
+  de: Oma
+  fr: grand-maman
+  level: 1
+  plural_de: Omas
+  plural_de_end: "-s"
+  plural_fr: les grand-maman
+  wortart: substantiv
+- artikel_de: der
+  artikel_fr: ''
+  de: Freund
+  fr: l’ami
+  level: 1
+  plural_de: Freunde
+  plural_de_end: "-e"
+  plural_fr: les l’ami
+  wortart: substantiv
+- artikel_de: die
+  artikel_fr: ''
+  de: Freundin
+  fr: l’amie
+  level: 1
+  plural_de: Freundinnen
+  plural_de_end: "-nen"
+  plural_fr: les l’amie
+  wortart: substantiv
+- artikel_de: der
+  artikel_fr: le
+  de: Bruder
+  fr: frère
+  level: 1
+  plural_de: Brüder
+  plural_de_end: "¨-er"
+  plural_fr: les frère
+  wortart: substantiv
+- artikel_de: die
+  artikel_fr: la
+  de: Schwester
+  fr: sœur
+  level: 1
+  plural_de: Schwestern
+  plural_de_end: "-n"
+  plural_fr: les sœur
+  wortart: substantiv
+- artikel_de: der
+  artikel_fr: ''
+  de: Onkel
+  fr: l’oncle
+  level: 1
+  plural_de: Onkel
+  plural_de_end: ""
+  plural_fr: les l’oncle
+  wortart: substantiv
+- artikel_de: die
+  artikel_fr: la
+  de: Tante
+  fr: tante
+  level: 1
+  plural_de: Tanten
+  plural_de_end: "-n"
+  plural_fr: les tante
+  wortart: substantiv
+- artikel_de: die
+  artikel_fr: ''
+  de: Grosseltern
+  fr: les grands-parents
+  level: 1
+  plural_de: Grosseltern
+  plural_de_end: ""
+  plural_fr: les les grands-parents
+  wortart: substantiv
+- artikel_de: der
+  artikel_fr: le
+  de: Grossvater
+  fr: grand-père
+  level: 1
+  plural_de: Grossväter
+  plural_de_end: "¨-er"
+  plural_fr: les grand-père
+  wortart: substantiv
+- artikel_de: der
+  artikel_fr: le
+  de: Opa
+  fr: grand-papa
+  level: 1
+  plural_de: Opas
+  plural_de_end: "-s"
+  plural_fr: les grand-papa
+  wortart: substantiv
+- artikel_de: die
+  artikel_fr: la
+  de: Oma
+  fr: grand-maman
+  level: 1
+  plural_de: Omas
+  plural_de_end: "-s"
+  plural_fr: les grand-maman
+  wortart: substantiv
+- artikel_de: die
+  artikel_fr: la
+  de: Grossmutter
+  fr: grand-mère
+  level: 1
+  plural_de: Grossmütter
+  plural_de_end: "¨-er"
+  plural_fr: les grand-mère
+  wortart: substantiv
+
+- artikel_de: die
+  artikel_fr: ''
+  de: Geschwister
+  fr: les frères et sœurs
+  level: 1
+  plural_de: Geschwister
+  plural_de_end: ""
+  plural_fr: les les frères et sœurs
+  wortart: substantiv
+
+- artikel_de: die
+  artikel_fr: la
+  de: Tochter
+  fr: fille
+  level: 1
+  plural_de: Töchter
+  plural_de_end: "“-"
+  plural_fr: les fille
+  wortart: substantiv
+
+- artikel_de: der
+  artikel_fr: le
+  de: Sohn
+  fr: fils
+  level: 1
+  plural_de: Söhne
+  plural_de_end: "“-e"
+  plural_fr: les fils
+  wortart: substantiv
+
+- artikel_de: der
+  artikel_fr: le
+  de: Cousin
+  fr: cousin
+  level: 1
+  plural_de: Cousins
+  plural_de_end: "-s"
+  plural_fr: les cousin
+  wortart: substantiv
+
+- artikel_de: die
+  artikel_fr: la
+  de: Cousine
+  fr: cousine
+  level: 1
+  plural_de: Cousinen
+  plural_de_end: "-n"
+  plural_fr: les cousine
+  wortart: substantiv
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: verheiratet
+  fr: marié-e
+  level: 2
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: other
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: geschieden
+  fr: divorcé-e
+  level: 2
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: other
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: leben, er lebt
+  fr: vivre
+  level: 2
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: verb
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: verliebt
+  fr: amoureux-euse
+  level: 2
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: other
+
+- artikel_de: der
+  artikel_fr: le
+  de: Beruf
+  fr: métier
+  level: 1
+  plural_de: Berufe
+  plural_de_end: "-e"
+  plural_fr: les métier
+  wortart: substantiv
+
+- artikel_de: der
+  artikel_fr: le
+  de: Polizịst
+  fr: policier
+  level: 1
+  plural_de: Polizịsten
+  plural_de_end: "-en"
+  plural_fr: les policier
+  wortart: substantiv
+
+- artikel_de: die
+  artikel_fr: la
+  de: Polizịstin
+  fr: policière
+  level: 1
+  plural_de: Polizịstinnen
+  plural_de_end: "-nen"
+  plural_fr: les policière
+  wortart: substantiv
+
+- artikel_de: der
+  artikel_fr: le
+  de: Arzt
+  fr: médecin
+  level: 1
+  plural_de: Ärzte
+  plural_de_end: "¨-e"
+  plural_fr: les médecins
+  wortart: substantiv
+
+- artikel_de: 'die'
+  artikel_fr: la
+  de: Ärztin
+  fr: médecin
+  level: 1
+  plural_de: Ärztinnen
+  plural_de_end: "-nen"
+  plural_fr: les médecins
+  wortart: other
+
+- artikel_de: der
+  artikel_fr: le
+  de: Sänger
+  fr: chanteur
+  level: 1
+  plural_de: Sänger
+  plural_de_end: ""
+  plural_fr: les chanteur
+  wortart: substantiv
+
+- artikel_de: die
+  artikel_fr: la
+  de: Sängerin
+  fr: chanteuse
+  level: 1
+  plural_de: Sängerinnen
+  plural_de_end: "-nen"
+  plural_fr: les chanteuse
+  wortart: substantiv
+
+- artikel_de: der
+  artikel_fr: le
+  de: Frisör
+  fr: coiffeur
+  level: 1
+  plural_de: Frisöre
+  plural_de_end: "-e"
+  plural_fr: les coiffeur
+  wortart: substantiv
+
+- artikel_de: die
+  artikel_fr: la
+  de: Frisörin
+  fr: coiffeuse
+  level: 1
+  plural_de: Frisörinnen
+  plural_de_end: "-nen"
+  plural_fr: les coiffeuse
+  wortart: substantiv
+
+- artikel_de: der
+  artikel_fr: le
+  de: Bäcker
+  fr: boulanger
+  level: 1
+  plural_de: Bäcker
+  plural_de_end: ""
+  plural_fr: les boulanger
+  wortart: substantiv
+
+- artikel_de: die
+  artikel_fr: la
+  de: Bäckerin
+  fr: boulangère
+  level: 1
+  plural_de: Bäckerinnen
+  plural_de_end: "-nen"
+  plural_fr: les boulangère
+  wortart: substantiv
+
+- artikel_de: der
+  artikel_fr: le
+  de: Mechaniker
+  fr: mécanicien
+  level: 2
+  plural_de: Mechaniker
+  plural_de_end: ""
+  plural_fr: les mécanicien
+  wortart: substantiv
+
+- artikel_de: die
+  artikel_fr: la
+  de: Mechanikerin
+  fr: mécanicienne
+  level: 2
+  plural_de: Mechanikerinnen
+  plural_de_end: "-nen"
+  plural_fr: les mécanicienne
+  wortart: substantiv
+
+- artikel_de: der
+  artikel_fr: ''
+  de: Schauspieler
+  fr: l’acteur
+  level: 2
+  plural_de: Schauspieler
+  plural_de_end: ""
+  plural_fr: les l’acteur
+  wortart: substantiv
+
+- artikel_de: die
+  artikel_fr: ''
+  de: Schauspielerin
+  fr: l’actrice
+  level: 2
+  plural_de: Schauspielerinnen
+  plural_de_end: "-nen"
+  plural_fr: les l’actrice
+  wortart: substantiv
+
+- artikel_de: der
+  artikel_fr: le
+  de: Verkäufer
+  fr: vendeur
+  level: 2
+  plural_de: Verkäufer
+  plural_de_end: ""
+  plural_fr: les vendeur
+  wortart: substantiv
+
+- artikel_de: die
+  artikel_fr: la
+  de: Verkäuferin
+  fr: vendeuse
+  level: 2
+  plural_de: Verkäuferinnen
+  plural_de_end: "-nen"
+  plural_fr: les vendeuse
+  wortart: substantiv
+
+- artikel_de: der
+  artikel_fr: ''
+  de: Informatiker
+  fr: l’informaticien
+  level: 2
+  plural_de: Informatiker
+  plural_de_end: ""
+  plural_fr: les l’informaticien
+  wortart: substantiv
+
+- artikel_de: die
+  artikel_fr: ''
+  de: Informatikerin
+  fr: l’informaticienne
+  level: 2
+  plural_de: Informatikerinnen
+  plural_de_end: "-nen"
+  plural_fr: les l’informaticienne
+  wortart: substantiv
+
+- artikel_de: der
+  artikel_fr: le
+  de: Sekretär
+  fr: secrétaire
+  level: 2
+  plural_de: Sekretäre
+  plural_de_end: "-e"
+  plural_fr: les secrétaire
+  wortart: substantiv
+
+- artikel_de: die
+  artikel_fr: la
+  de: Sekretärin
+  fr: secrétaire
+  level: 2
+  plural_de: Sekretärinnen
+  plural_de_end: "nen"
+  plural_fr: les secrétaire
+  wortart: substantiv
+
+- artikel_de: der
+  artikel_fr: ''
+  de: Hausmann
+  fr: l’homme au foyer
+  level: 2
+  plural_de: Hausmänner
+  plural_de_end: "¨-er"
+  plural_fr: les l’homme au foyer
+  wortart: substantiv
+
+- artikel_de: die
+  artikel_fr: la
+  de: Hausfrau
+  fr: femme au foyer
+  level: 2
+  plural_de: Hausfrauen
+  plural_de_end: "-en"
+  plural_fr: les femme au foyer
+  wortart: substantiv
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: kochen, er kocht
+  fr: cuisiner
+  level: 1
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: verb
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: malen, er malt
+  fr: peindre
+  level: 1
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: verb
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: basteln, ich bastle, er bastelt
+  fr: bricoler
+  level: 1
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: verb
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: klettern, er klettert
+  fr: faire de la grimpe
+  level: 1
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: verb
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: lachen, er lacht
+  fr: rire
+  level: 1
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: verb
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: schlafen, er schläft
+  fr: dormir
+  level: 1
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: verb
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: telefonieren, er telefoniert
+  fr: téléphoner
+  level: 1
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: verb
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: backen, er backt
+  fr: cuire au four
+  level: 2
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: verb
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: turnen, er turnt
+  fr: faire de la gymnastique
+  level: 3
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: verb
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: Mofa/Motorrad fahren, er fährt Mofa
+  fr: aller à vélomoteur/moto
+  level: 3
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: verb
+
+- artikel_de: das
+  artikel_fr: la
+  de: Schlagzeug
+  fr: batterie
+  level: 3
+  plural_de: Schlagzeuge
+  plural_de_end: "-e"
+  plural_fr: les batterie
+  wortart: substantiv
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: Zuhause
+  fr: À la maison
+  level: 1
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: other
+
+- artikel_de: das
+  artikel_fr: la
+  de: Zịmmer
+  fr: chambre
+  level: 1
+  plural_de: Zịmmer-
+  plural_de_end: "-"
+  plural_fr: les chambre
+  wortart: substantiv
+
+- artikel_de: der
+  artikel_fr: le
+  de: Garten
+  fr: jardin
+  level: 1
+  plural_de: Gärten
+  plural_de_end: "¨-"
+  plural_fr: les jardin
+  wortart: substantiv
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: Hausaufgaben machen, er macht Hausaufgaben
+  fr: faire ses devoirs
+  level: 1
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: verb
+
+- artikel_de: das
+  artikel_fr: le
+  de: Wohnzimmer
+  fr: salon
+  level: 1
+  plural_de: Wohnzimmer
+  plural_de_end: ""
+  plural_fr: les salon
+  wortart: substantiv
+
+- artikel_de: das
+  artikel_fr: la
+  de: Schlafzimmer
+  fr: chambre à coucher
+  level: 1
+  plural_de: Schlafzimmer
+  plural_de_end: ""
+  plural_fr: les chambre à coucher
+  wortart: substantiv
+
+- artikel_de: die
+  artikel_fr: la
+  de: Küche
+  fr: cuisine
+  level: 1
+  plural_de: Küchen
+  plural_de_end: "-n"
+  plural_fr: les cuisine
+  wortart: substantiv
+
+- artikel_de: das
+  artikel_fr: la
+  de: Bad
+  fr: salle de bains
+  level: 1
+  plural_de: Bäder
+  plural_de_end: "¨-er"
+  plural_fr: les salle de bains
+  wortart: substantiv
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: duschen, er duscht
+  fr: prendre une douche
+  level: 1
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: verb
+
+- artikel_de: der
+  artikel_fr: la
+  de: Keller
+  fr: cave
+  level: 1
+  plural_de: Keller
+  plural_de_end: ""
+  plural_fr: les cave
+  wortart: substantiv
+
+- artikel_de: ''
+  artikel_fr: ''
+  de: waschen, er wäscht
+  fr: laver
+  level: 1
+  plural_de: ''
+  plural_de_end: ""
+  plural_fr: ''
+  wortart: verb
+
+- artikel_de: die
+  artikel_fr: le
+  de: Garage
+  fr: garage
+  level: 1
+  plural_de: Garagen
+  plural_de_end: "-n"
+  plural_fr: les garage
+  wortart: substantiv

@@ -1,0 +1,821 @@
+- fr: la ville
+  de: Stadt
+  artikel_fr: la
+  artikel_de: die
+  plural_fr: les villes
+  plural_de_end: "-e"
+  plural_de: die Städte
+  wortart: substantiv
+  level: 1
+
+- fr: la rue
+  de: Strasse
+  artikel_fr: la
+  artikel_de: die
+  plural_fr: les rues
+  plural_de_end: "-n"
+  plural_de: die Strassen
+  wortart: substantiv
+  level: 1
+
+- fr: la voiture
+  de: Auto
+  artikel_fr: la
+  artikel_de: das
+  plural_fr: les voitures
+  plural_de_end: "-s"
+  plural_de: die Autos
+  wortart: substantiv
+  level: 1
+
+- fr: le métro
+  de: U-Bahn
+  artikel_fr: le
+  artikel_de: die
+  plural_fr: les métros
+  plural_de_end: "-en"
+  plural_de: die U-Bahnen
+  wortart: substantiv
+  level: 1
+
+- fr: le bus
+  de: Bus
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les bus
+  plural_de_end: "-se"
+  plural_de: die Busse
+  wortart: substantiv
+  level: 1
+
+- fr: la maison
+  de: Haus
+  artikel_fr: la
+  artikel_de: das
+  plural_fr: les maisons
+  plural_de_end: "-er"
+  plural_de: die Häuser
+  wortart: substantiv
+  level: 1
+
+- fr: le cinéma
+  de: Kino
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les cinémas
+  plural_de_end: "-s"
+  plural_de: die Kinos
+  wortart: substantiv
+  level: 1
+
+- fr: aller à pied
+  de: gehen, er geht
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: verb
+  level: 1
+
+- fr: aller
+  de: fahren, er fährt
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: verb
+  level: 1
+
+- fr: le centre
+  de: Zentrum
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les centres
+  plural_de_end: "-en"
+  plural_de: die Zentren
+  wortart: substantiv
+  level: 1
+
+- fr: l’hôtel
+  de: Hotel
+  artikel_fr: l'
+  artikel_de: das
+  plural_fr: les hôtels
+  plural_de_end: "-s"
+  plural_de: die Hotels
+  wortart: substantiv
+  level: 1
+
+- fr: le terrain de sport
+  de: Sportplatz
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les terrains de sport
+  plural_de_end: "-e"
+  plural_de: die Sportplätze
+  wortart: substantiv
+  level: 1
+
+- fr: la gare
+  de: Bahnhof
+  artikel_fr: la
+  artikel_de: der
+  plural_fr: les gares
+  plural_de_end: "-e"
+  plural_de: die Bahnhöfe
+  wortart: substantiv
+  level: 1
+
+- fr: le billet, le titre de transport
+  de: Fahrkarte
+  artikel_fr: le
+  artikel_de: die
+  plural_fr: les billets
+  plural_de_end: "-n"
+  plural_de: die Fahrkarten
+  wortart: substantiv
+  level: 1
+
+- fr: attendre
+  de: warten, er wartet
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: verb
+  level: 1
+
+- fr: le banc
+  de: Bank
+  artikel_fr: le
+  artikel_de: die
+  plural_fr: les bancs
+  plural_de_end: "-e"
+  plural_de: die Bänke
+  wortart: substantiv
+  level: 1
+
+- fr: le chemin
+  de: Weg
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les chemins
+  plural_de_end: "-e"
+  plural_de: die Wege
+  wortart: substantiv
+  level: 1
+
+- fr: à
+  de: an
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de: 
+  wortart: präposition
+  level: 1
+
+- fr: sur
+  de: auf
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de: 
+  wortart: präposition
+  level: 1
+
+- fr: sous
+  de: unter
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de: 
+  wortart: präposition
+  level: 1
+
+- fr: devant
+  de: vor
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de: 
+  wortart: präposition
+  level: 1
+
+- fr: derrière
+  de: hinter
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de: 
+  wortart: präposition
+  level: 1
+
+- fr: dans, en , à
+  de: in
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de: 
+  wortart: präposition
+  level: 1
+
+- fr: à côté de
+  de: neben
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de: 
+  wortart: präposition
+  level: 1
+
+- fr: au-dessus (de)
+  de: über
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de: 
+  wortart: präposition
+  level: 1
+
+- fr: entre
+  de: zwischen
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de: 
+  wortart: präposition
+  level: 1
+
+- fr: la croisement
+  de: Kreuzung
+  artikel_fr: la
+  artikel_de: die
+  plural_fr: les croisements
+  plural_de_end: "-en"
+  plural_de: die Kreuzungen
+  wortart: substantiv
+  level: 2
+
+- fr: le feu (de signalisation)
+  de: ampel
+  artikel_fr: le
+  artikel_de: die
+  plural_fr: les feux
+  plural_de_end: "-n"
+  plural_de: die ampeln
+  wortart: substantiv
+  level: 2
+
+- fr: le lieu, l’endroit
+  de: Ort
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les lieux
+  plural_de_end: "-e"
+  plural_de: die Orte
+  wortart: substantiv
+  level: 2
+
+- fr: l’arrêt
+  de: Haltestelle
+  artikel_fr: l'
+  artikel_de: die
+  plural_fr: les arrêts
+  plural_de_end: "-n"
+  plural_de: die Haltestellen
+  wortart: substantiv
+  level: 2
+
+- fr: descendre d’un véhicule
+  de: aus|steigen, er steigt aus
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: verb
+  level: 2
+
+- fr: la place du marché
+  de: Marktplatz
+  artikel_fr: la
+  artikel_de: der
+  plural_fr: les places du marché
+  plural_de_end: "-e"
+  plural_de: die Marktplätze
+  wortart: substantiv
+  level: 2
+
+- fr: proche, à proximité
+  de: nah
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: adjektiv
+  level: 2
+
+- fr: loin
+  de: weit
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: adjektiv
+  level: 2
+
+- fr: le centre de jeunes
+  de: Jugendzentrum
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les centres de jeunes
+  plural_de_end: "-zentren"
+  plural_de: die Jugendzentren
+  wortart: substantiv
+  level: 3
+
+- fr: l’hôtel de ville
+  de: Rathaus
+  artikel_fr: l'
+  artikel_de: das
+  plural_fr: les hôtels de ville
+  plural_de_end: 
+  plural_de: die Rathäuser
+  wortart: substantiv
+  level: 3
+
+- fr: le terrain de jeu
+  de: Spielplatz
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les terrains de jeu
+  plural_de_end: "-e"
+  plural_de: die Spielplätze
+  wortart: substantiv
+  level: 3
+
+- fr: le chemin de l’école
+  de: Schulweg
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les chemins de l’école
+  plural_de_end: "-e"
+  plural_de: die Schulwege
+  wortart: substantiv
+  level: 3
+
+- fr: tourner, virer
+  de: ab|biegen, er biegt ab
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: verb
+  level: 3
+
+- fr: acheter
+  de: kaufen, er kauft
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: verb
+  level: 1
+
+- fr: coûter
+  de: kosten, er kostet
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: verb
+  level: 1
+
+- fr: le supermarché
+  de: Supermarkt
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les supermarchés
+  plural_de_end: "-e"
+  plural_de: die Supermärkte
+  wortart: substantiv
+  level: 1
+
+- fr: le restaurant
+  de: Restaurant
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les restaurants
+  plural_de_end: "-s"
+  plural_de: die Restaurants
+  wortart: substantiv
+  level: 1
+
+- fr: la boulangerie
+  de: Bäckerei
+  artikel_fr: la
+  artikel_de: die
+  plural_fr: les boulangeries
+  plural_de_end: "-en"
+  plural_de: die Bäckereien
+  wortart: substantiv
+  level: 1
+
+- fr: la pharmacie
+  de: Apotheke
+  artikel_fr: la
+  artikel_de: die
+  plural_fr: les pharmacies
+  plural_de_end: "-n"
+  plural_de: die Apotheken
+  wortart: substantiv
+  level: 1
+
+- fr: la poste
+  de: Post
+  artikel_fr: la
+  artikel_de: die
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: substantiv
+  level: 1
+
+- fr: la banque
+  de: Bank
+  artikel_fr: la
+  artikel_de: die
+  plural_fr: les banques
+  plural_de_end: "-en"
+  plural_de: die Banken
+  wortart: substantiv
+  level: 1
+
+- fr: faire les courses
+  de: ein|kaufen, er kauft ein
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: verb
+  level: 1
+
+- fr: payer
+  de: bezahlen, er bezahlt
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: verb
+  level: 1
+
+- fr: faire du shopping
+  de: shoppen, er shoppt
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: verb
+  level: 2
+
+- fr: le grand magasin
+  de: Kaufhaus
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les grands magasins
+  plural_de_end: "-er"
+  plural_de: die Kaufhäuser
+  wortart: substantiv
+  level: 2
+
+- fr: le magasin
+  de: Geschäft
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les magasins
+  plural_de_end: "-e"
+  plural_de: die Geschäfte
+  wortart: substantiv
+  level: 2
+
+- fr: la caisse
+  de: Kasse
+  artikel_fr: la
+  artikel_de: die
+  plural_fr: les caisses
+  plural_de_end: "-n"
+  plural_de: die Kassen
+  wortart: substantiv
+  level: 2
+
+- fr: les aliments et denrées
+  de: Lebensmittel und Waren
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: substantiv
+  level: 1
+
+- fr: le shampoing
+  de: Shampoo
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les shampoings
+  plural_de_end: "-s"
+  plural_de: die Shampoos
+  wortart: substantiv
+  level: 1
+
+- fr: la saucisse
+  de: Wurst
+  artikel_fr: la
+  artikel_de: die
+  plural_fr: les saucisses
+  plural_de_end: "-e"
+  plural_de: die Würste
+  wortart: substantiv
+  level: 1
+
+- fr: le fromage
+  de: Käse
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: substantiv
+  level: 1
+
+- fr: la banane
+  de: Banane
+  artikel_fr: la
+  artikel_de: die
+  plural_fr: les bananes
+  plural_de_end: "-n"
+  plural_de: die Bananen
+  wortart: substantiv
+  level: 1
+
+- fr: le pain
+  de: Brot
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les pains
+  plural_de_end: "-e"
+  plural_de: die Brote
+  wortart: substantiv
+  level: 1
+
+- fr: le petit pain
+  de: Brötchen
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les petits pains
+  plural_de_end: "-"
+  plural_de: die Brötchen
+  wortart: substantiv
+  level: 1
+
+- fr: le médicament
+  de: Medikament
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les médicaments
+  plural_de_end: "-e"
+  plural_de: die Medikamente
+  wortart: substantiv
+  level: 2
+
+- fr: le magazine
+  de: Zeitschrift
+  artikel_fr: le
+  artikel_de: die
+  plural_fr: les magazines
+  plural_de_end: "-en"
+  plural_de: die Zeitschriften
+  wortart: substantiv
+  level: 2
+
+- fr: le journal
+  de: Zeitung
+  artikel_fr: le
+  artikel_de: die
+  plural_fr: les journaux
+  plural_de_end: "-en"
+  plural_de: die Zeitungen
+  wortart: substantiv
+  level: 2
+
+- fr: les affaires d’école
+  de: Schulsachen
+  artikel_fr: 
+  artikel_de: die
+  plural_fr: 
+  plural_de_end: "-n"
+  plural_de: die Schulsachen
+  wortart: substantiv
+  level: 1
+
+- fr: le cahier
+  de: Heft
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les cahiers
+  plural_de_end: "-e"
+  plural_de: die Hefte
+  wortart: substantiv
+  level: 1
+
+- fr: le livre
+  de: Buch
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les livres
+  plural_de_end: "-er"
+  plural_de: die Bücher
+  wortart: substantiv
+  level: 1
+
+- fr: le papier
+  de: Papier
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les papiers
+  plural_de_end: "-e"
+  plural_de: die Papiere
+  wortart: substantiv
+  level: 1
+
+- fr: le stylo
+  de: Stift
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les stylos
+  plural_de_end: "-e"
+  plural_de: die Stifte
+  wortart: substantiv
+  level: 1
+
+- fr: la feuille
+  de: Blatt
+  artikel_fr: la
+  artikel_de: das
+  plural_fr: les feuilles
+  plural_de_end: "-er"
+  plural_de: die Blätter
+  wortart: substantiv
+  level: 1
+
+- fr: le stylo
+  de: Kuli
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les stylos
+  plural_de_end: "-s"
+  plural_de: die Kulis
+  wortart: substantiv
+  level: 1
+
+- fr: le crayon
+  de: Bleistift
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les crayons
+  plural_de_end: "-e"
+  plural_de: die Bleistifte
+  wortart: substantiv
+  level: 1
+
+- fr: la gomme
+  de: Radiergummi
+  artikel_fr: la
+  artikel_de: der
+  plural_fr: les gommes
+  plural_de_end: "-s"
+  plural_de: die Radiergummis
+  wortart: substantiv
+  level: 1
+
+- fr: la règle
+  de: Lineal
+  artikel_fr: la
+  artikel_de: das
+  plural_fr: les règles
+  plural_de_end: "-e"
+  plural_de: die Lineale
+  wortart: substantiv
+  level: 1
+
+- fr: les ciseaux
+  de: Schere
+  artikel_fr: les
+  artikel_de: die
+  plural_fr: les ciseaux
+  plural_de_end: "-n"
+  plural_de: die Scheren
+  wortart: substantiv
+  level: 1
+
+- fr: être parti-e, ne plus être là, avoir disparu
+  de: weg sein, er ist weg
+  artikel_fr:
+  artikel_de: " "
+  plural_fr:
+  plural_de_end: " "
+  plural_de:
+  wortart: verb
+  level: 1
+
+- fr: le (téléphone) portable
+  de: Handy
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les portables
+  plural_de_end: "-s"
+  plural_de: die Handys
+  wortart: substantiv
+  level: 1
+
+- fr: le porte-monnaie
+  de: Portemonnaie
+  artikel_fr: le
+  artikel_de: das
+  plural_fr: les porte-monnaies
+  plural_de_end: "-s"
+  plural_de: die Portemonnaies
+  wortart: substantiv
+  level: 2
+
+- fr: la batterie (rechargeable)
+  de: akku
+  artikel_fr: la
+  artikel_de: der
+  plural_fr: les batteries
+  plural_de_end: "-s"
+  plural_de: die Akkus
+  wortart: substantiv
+  level: 2
+
+- fr: vide
+  de: leer
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: adjektiv
+  level: 2
+
+- fr: sonner
+  de: klingeln, er klingelt
+  artikel_fr: 
+  artikel_de: " "
+  plural_fr: 
+  plural_de_end: " "
+  plural_de: 
+  wortart: verb
+  level: 2
+
+
+- fr: l’homme, l’être humain
+  de: Mensch
+  artikel_fr: l'
+  artikel_de: der
+  plural_fr: les hommes
+  plural_de_end: "-en"
+  plural_de: die Menschen
+  wortart: substantiv
+  level: 3
+
+- fr: le robot
+  de: Roboter
+  artikel_fr: le
+  artikel_de: der
+  plural_fr: les robots
+  plural_de_end: "-"
+  plural_de: die Roboter
+  wortart: substantiv
+  level: 3
+

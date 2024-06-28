@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Wortschatz (Wendungen) Kapitel 1
-permalink: /allemand_main/9klasse/wortschatz1_lernkarten_wendungen
+title: Wortschatz (Wendungen und Sätze) Kapitel 3
+permalink: /allemand_main/9klasse_main/wortschatz3_lernkarten_wendungen
 classes: wide
 ---
 
@@ -39,7 +39,7 @@ classes: wide
 
 <script>
 // Define the flashcard data variable and field names
-const flashcardData = {{ site.data.wortschatz_9_1_wendungen | jsonify }};
+const flashcardData = {{ site.data.wortschatz_9_3_wendungen | jsonify }};
 const varFront = 'fr';
 const varBack = 'de';
 
@@ -52,12 +52,17 @@ function initializeFlashcard() {
 }
 
 function updateFlashcard() {
-  const filteredData = flashcardData.filter(item => selectedLevels.includes(item.level));
+  const filteredData = flashcardData.filter(item => selectedLevels.includes(parseInt(item.level)));
+  if (filteredData.length === 0) {
+    document.getElementById('front-side').innerText = 'No data available for selected level(s).';
+    document.getElementById('back-side').innerText = '';
+    return;
+  }
   const randomIndex = Math.floor(Math.random() * filteredData.length);
   const member = filteredData[randomIndex];
   document.getElementById('front-side').innerText = member[varFront];
   setTimeout(() => {
-  document.getElementById('back-side').innerText = member[varBack];
+    document.getElementById('back-side').innerText = member[varBack];
   }, 300); // delay updating content to allow flip animation to complete
 }
 
@@ -66,7 +71,7 @@ function flipCard() {
 }
 
 function getRandomMember() {
-  const filteredData = flashcardData.filter(item => selectedLevels.includes(item.level));
+  const filteredData = flashcardData.filter(item => selectedLevels.includes(parseInt(item.level)));
   let randomIndex;
   do {
     randomIndex = Math.floor(Math.random() * filteredData.length);
@@ -88,7 +93,9 @@ const level3Toggle = document.getElementById('level-3-toggle');
 
 level2Toggle.addEventListener('change', function() {
   if (this.checked) {
-    selectedLevels.push(2);
+    if (!selectedLevels.includes(2)) {
+      selectedLevels.push(2);
+    }
     level3Toggle.disabled = false;
   } else {
     selectedLevels = selectedLevels.filter(level => level !== 2 && level !== 3);
@@ -100,7 +107,9 @@ level2Toggle.addEventListener('change', function() {
 
 level3Toggle.addEventListener('change', function() {
   if (this.checked) {
-    selectedLevels.push(3);
+    if (!selectedLevels.includes(3)) {
+      selectedLevels.push(3);
+    }
   } else {
     selectedLevels = selectedLevels.filter(level => level !== 3);
   }

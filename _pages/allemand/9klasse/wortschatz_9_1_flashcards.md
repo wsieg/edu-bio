@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Wortschatz (Wörter und Verben) Kapitel 1
-permalink: /allemand_main/9klasse/wortschatz1_lernkarten
+permalink: /allemand_main/9klasse_main/wortschatz1_lernkarten
 classes: wide
 ---
 
