@@ -1,7 +1,7 @@
 ---
 layout: single
 title:
-permalink: allemand_main
+permalink: /allemand_main/
 classes: wide
 ---
 
@@ -70,7 +70,7 @@ Veuillez choisir votre degré.
       </a>
     </div>
     <div class="column">
-      <a href="{{ site.baseurl }}allemand_main/9klasse_main/ class="card">
+      <a href="{{ site.baseurl }}allemand_main/9klasse_main/" class="card">
         <img src="{{ site.baseurl }}/assets/img/img_avatar.png" alt="Snow">
         <div class="container-content">
           <h2><b>10. Klasse</b></h2>
@@ -78,7 +78,7 @@ Veuillez choisir votre degré.
       </a>
     </div>
     <div class="column">
-      <a href="https://example.com" class="card">
+      <a href="/allemand_main/9klasse_main/" class="card">
         <img src="{{ site.baseurl }}/assets/img/img_avatar.png" alt="Snow">
         <div class="container-content">
           <!-- <h2><b>11. Klasse</b></h2> -->

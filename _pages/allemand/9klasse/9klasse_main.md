@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 9&#46; Klasse
-permalink: allemand_main/9klasse_main
+permalink: /allemand_main/9klasse_main/
 ---
 
 
