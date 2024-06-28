@@ -56,6 +56,7 @@ const varFront = 'fr';
 const varBack = 'de';
 const varArtikel = 'artikel_de';
 const varPlural = 'plural_de_end';
+const varArtikelfr = 'artikel_fr';
 
 let currentMemberIndex = Math.floor(Math.random() * flashcardData.length);
 let selectedLevels = [1]; // By default, only level 1 is selected
@@ -78,7 +79,7 @@ function updateFlashcard() {
 
   currentMemberIndex = getRandomMemberIndex(filteredData); // Update currentMemberIndex with a new random index from filtered data
   const member = filteredData[currentMemberIndex]; // Get the member with the updated index
-  document.getElementById('french-word').innerText = member[varFront];
+  document.getElementById('french-word').innerText = member[varArtikelfr] + " " + member[varFront];
   clearResults();
 }
 
