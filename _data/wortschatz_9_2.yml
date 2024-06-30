@@ -269,7 +269,7 @@
   level: 2
 
 - fr: le feu (de signalisation)
-  de: ampel
+  de: Ampel
   artikel_fr: le
   artikel_de: die
   plural_fr: les feux
@@ -531,7 +531,7 @@
 - fr: les aliments et denrées
   de: Lebensmittel und Waren
   artikel_fr: 
-  artikel_de: " "
+  artikel_de: "die"
   plural_fr: 
   plural_de_end: " "
   plural_de: 
@@ -769,7 +769,7 @@
   level: 2
 
 - fr: la batterie (rechargeable)
-  de: akku
+  de: Akku
   artikel_fr: la
   artikel_de: der
   plural_fr: les batteries

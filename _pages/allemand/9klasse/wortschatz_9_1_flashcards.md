@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Wortschatz (Wörter und Verben) Kapitel 1
+title: Wortschatz (Substantive und Verben) Kapitel 1
 permalink: /allemand_main/9klasse_main/wortschatz1_lernkarten
 classes: wide
 ---
@@ -34,7 +34,7 @@ classes: wide
       <div class="back" id="back-side"></div>
     </div>
   </div>
-  <button onclick="nextMember()">Suivant</button>
+  <button onclick="nextMember()">weiter</button>
 </div>
 
 <script>

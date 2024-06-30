@@ -45,7 +45,7 @@ permalink: /allemand_main/9klasse_main/wortschatz2_quiz
   </div>
   <div class="button-container">
     <button id="check-button" onclick="checkAnswer()">Überprüfen</button>
-    <button id="next-button" onclick="updateFlashcard()">Suivant</button>
+    <button id="next-button" onclick="updateFlashcard()">weiter</button>
   </div>
 </div>
 

@@ -6,8 +6,7 @@ permalink: /allemand_main/9klasse_main/
 
 
 
-
-Vous retrouverez ci-dessous des exercices, liens et autres ressources qui vous permettront de vous entraîner au cours de votre année scolaire.
+Im Folgenden finden Sie Übungen, Links und andere Ressourcen, mit denen Sie im Laufe Ihres Schuljahres üben können.
 
 
 - [Kapitel 1](#kapitel-1)
@@ -28,7 +27,8 @@ Vous retrouverez ci-dessous des exercices, liens et autres ressources qui vous p
 ## Wortschatz
 
 - [Lernkarten (Substantive und Verben)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz1_lernkarten)
-- [Lernkarten (Wendungen)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz1_lernkarten_wendungen)
+- [Lernkarten (Wendungen und Sätze)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz1_lernkarten_wendungen)
+- [Artikelbestimmung]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz1_derdiedas)
 - [Quiz]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz1_quiz)
 
 
@@ -37,6 +37,7 @@ Vous retrouverez ci-dessous des exercices, liens et autres ressources qui vous p
 
 - [Lernkarten (Substantive und Verben)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz2_lernkarten)
 - [Lernkarten (Wendungen und Sätze)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz2_lernkarten_wendungen)
+- [Artikelbestimmung]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz2_derdiedas)
 - [Quiz]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz2_quiz)
 
 
@@ -45,6 +46,7 @@ Vous retrouverez ci-dessous des exercices, liens et autres ressources qui vous p
 
 - [Lernkarten (Substantive und Verben)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz3_lernkarten)
 - [Lernkarten (Wendungen und Sätze)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz3_lernkarten_wendungen)
+- [Artikelbestimmung]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz3_derdiedas)
 - [Quiz]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz3_quiz)
 
 

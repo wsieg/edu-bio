@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Wortschatz (Wendungen) Kapitel 2
+title: Wortschatz (Wendungen und Sätze) Kapitel 2
 permalink: /allemand_main/9klasse_main/wortschatz2_lernkarten_wendungen
 classes: wide
 ---
@@ -34,7 +34,7 @@ classes: wide
       <div class="back" id="back-side"></div>
     </div>
   </div>
-  <button onclick="nextMember()">Suivant</button>
+  <button onclick="nextMember()">weiter</button>
 </div>
 
 <script>
