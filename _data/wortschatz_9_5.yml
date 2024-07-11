@@ -1,0 +1,544 @@
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b1/De-Geografie.ogg/De-Geografie.ogg.mp3
+  de: Geografie
+  fr: la géographie
+  level: 1
+  plural_de: die Geografien
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/De-Karte.ogg/De-Karte.ogg.mp3
+  de: Karte
+  fr: la carte
+  level: 1
+  plural_de: die Karten
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/De-leben.ogg/De-leben.ogg.mp3
+  de: leben, er lebt
+  fr: vivre
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/De-Hauptstadt.ogg/De-Hauptstadt.ogg.mp3
+  de: Hauptstadt
+  fr: la capitale (de...)
+  level: 3
+  plural_de: die Hauptstädte
+  plural_de_end: "¨-e (von...)"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/Nl-liegen.ogg/Nl-liegen.ogg.mp3
+  de: liegen, er liegt
+  fr: se trouver
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b1/De-Reise.ogg/De-Reise.ogg.mp3
+  de: Reise
+  fr: le voyage
+  level: 1
+  plural_de: null
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6b/De-Ferien.ogg/De-Ferien.ogg.mp3
+  de: Ferien
+  fr: les vacances (d’école)
+  level: 1
+  plural_de: die Ferien
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5a/De-Urlaub.ogg/De-Urlaub.ogg.mp3
+  de: Urlaub
+  fr: les vacances
+  level: 1
+  plural_de: die Urlaube
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/48/De-See2.ogg/De-See2.ogg.mp3
+  de: See
+  fr: le lac
+  level: 1
+  plural_de: die Seen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: null
+  de: Strand
+  fr: la plage
+  level: 1
+  plural_de: de Stränn
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/De-teuer.ogg/De-teuer.ogg.mp3
+  de: teuer
+  fr: cher-chère
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c8/Sv-billig.ogg/Sv-billig.ogg.mp3
+  de: billig
+  fr: bon marché
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b1/De-Postkarte.ogg/De-Postkarte.ogg.mp3
+  de: Postkarte
+  fr: la carte postale
+  level: 1
+  plural_de: die Postkarten
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: die SMS, -
+  fr: le SMS
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: abbrev
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/98/De-E-Mail.oga/De-E-Mail.oga.mp3
+  de: E-Mail
+  fr: l’e-mail, le couriel
+  level: 1
+  plural_de: die E-Mails
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/02/De-wohin.ogg/De-wohin.ogg.mp3
+  de: wohin
+  fr: où
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/66/De-Hafen.ogg/De-Hafen.ogg.mp3
+  de: Hafen
+  fr: le port
+  level: 1
+  plural_de: die Häfen
+  plural_de_end: "¨"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/56/De-Hostel.ogg/De-Hostel.ogg.mp3
+  de: Hostel
+  fr: l’auberge de jeunesse
+  level: 2
+  plural_de: die Hostels
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/De-Jugendherberge.ogg/De-Jugendherberge.ogg.mp3
+  de: Jugendherberge
+  fr: l’auberge de jeunesse
+  level: 2
+  plural_de: die Jugendherbergen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/De-reservieren.ogg/De-reservieren.ogg.mp3
+  de: reservieren, er reserviert
+  fr: réserver
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d2/De-übernachten.ogg/De-übernachten.ogg.mp3
+  de: übernachten, er übernachtet
+  fr: passer la nuit
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f2/De-Übernachtung.ogg/De-Übernachtung.ogg.mp3
+  de: Übernachtung
+  fr: la nuit à l’hôtel, la nuitée, l’hébergement
+  level: 2
+  plural_de: die Übernachtungen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/De-Schloss.ogg/De-Schloss.ogg.mp3
+  de: Schloss
+  fr: le château
+  level: 2
+  plural_de: die Schlösser
+  plural_de_end: "¨-er"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/De-ankommen2.ogg/De-ankommen2.ogg.mp3
+  de: ankommen, er kommt an
+  fr: arriver
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/82/De-abfahren.ogg/De-abfahren.ogg.mp3
+  de: abfahren, er fährt ab
+  fr: partir (le train/bus)
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/De-fliegen.ogg/De-fliegen.ogg.mp3
+  de: fliegen, er fliegt
+  fr: voler, aller en avion
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: null
+  de: letztes Jahr
+  fr: l’année dernière
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e4/De-Reiseziel.ogg/De-Reiseziel.ogg.mp3
+  de: Reiseziel
+  fr: la destination
+  level: 3
+  plural_de: die Reiseziele
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/De-Burg.ogg/De-Burg.ogg.mp3
+  de: Burg
+  fr: le château fort
+  level: 3
+  plural_de: die Burgen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: die Jugendgruppe, -n
+  fr: le groupe de jeunes
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/ff/De-Mitgliedskarte.ogg/De-Mitgliedskarte.ogg.mp3
+  de: Mitgliedskarte
+  fr: la carte d’adhérent / de membre
+  level: 3
+  plural_de: die Mitgliedskarten
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/16/De-Vorschlag.ogg/De-Vorschlag.ogg.mp3
+  de: Vorschlag
+  fr: la proposition
+  level: 3
+  plural_de: die Vorschläge
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6c/De-diskutieren.ogg/De-diskutieren.ogg.mp3
+  de: diskutieren, er diskutiert
+  fr: discuter
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/98/De-wegfahren.ogg/De-wegfahren.ogg.mp3
+  de: wegfahren, er fährt weg
+  fr: partir, partir en voyage
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ce/De-überall.ogg/De-überall.ogg.mp3
+  de: überall
+  fr: partout
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ce/De-unbedingt.ogg/De-unbedingt.ogg.mp3
+  de: unbedingt
+  fr: absolument
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/Cs-dort.ogg/Cs-dort.ogg.mp3
+  de: dort
+  fr: là-bas
+  level: 3
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: Essen und trinken
+  fr: Nourriture et boisson
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/De-Salat.ogg/De-Salat.ogg.mp3
+  de: Salat
+  fr: la salade
+  level: 1
+  plural_de: die Salate
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d3/De-Hamburger.ogg/De-Hamburger.ogg.mp3
+  de: der Hamburger, -
+  fr: le hamburger
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/59/De-Suppe.ogg/De-Suppe.ogg.mp3
+  de: Suppe
+  fr: la soupe, le potage
+  level: 1
+  plural_de: die Suppen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9e/De-Pizza.ogg/De-Pizza.ogg.mp3
+  de: Pizza
+  fr: la pizza
+  level: 1
+  plural_de: die Pizzas
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: die
+  audio: null
+  de: Pommes
+  fr: les frites, les pommes frites
+  level: 1
+  plural_de: die Pommes
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dc/De-Eis.ogg/De-Eis.ogg.mp3
+  de: Eis
+  fr: la glace
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/De-Wasser.ogg/De-Wasser.ogg.mp3
+  de: Wasser
+  fr: l’eau
+  level: 1
+  plural_de: die Wasser
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f2/De-Mineralwasser.ogg/De-Mineralwasser.ogg.mp3
+  de: Mineralwasser
+  fr: l’eau minérale
+  level: 1
+  plural_de: die Mineralwasser
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f4/De-Apfelsaft.ogg/De-Apfelsaft.ogg.mp3
+  de: Apfelsaft
+  fr: le jus de pomme
+  level: 1
+  plural_de: die Apfelsäfte
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/73/De-Cola.ogg/De-Cola.ogg.mp3
+  de: Cola
+  fr: le coca
+  level: 1
+  plural_de: die Colas
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a3/De-Teller.ogg/De-Teller.ogg.mp3
+  de: Teller
+  fr: l’assiette
+  level: 1
+  plural_de: die Teller
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5e/De-Flasche.ogg/De-Flasche.ogg.mp3
+  de: Flasche
+  fr: la bouteille
+  level: 1
+  plural_de: die Flaschen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/87/De-Glas.ogg/De-Glas.ogg.mp3
+  de: Glas
+  fr: le verre
+  level: 1
+  plural_de: die Glasen
+  plural_de_end: "¨-er"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/De-Tasse.ogg/De-Tasse.ogg.mp3
+  de: Tasse
+  fr: la tasse
+  level: 1
+  plural_de: die Tassen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/96/De-Dose.ogg/De-Dose.ogg.mp3
+  de: Dose
+  fr: la boîte, la canette
+  level: 1
+  plural_de: die Dosen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/De-Stück.ogg/De-Stück.ogg.mp3
+  de: Stück
+  fr: le morceau / la tranche
+  level: 1
+  plural_de: die Stücke
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/De-Portion.ogg/De-Portion.ogg.mp3
+  de: Portion
+  fr: la portion
+  level: 1
+  plural_de: die Portionen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/23/De-Käsebrötchen.ogg/De-Käsebrötchen.ogg.mp3
+  de: Käsebrötchen
+  fr: le sandwich au fromage
+  level: 1
+  plural_de: die Käsebrötchen
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: nichts
+  fr: rien
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: Hunger haben
+  fr: avoir faim
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: ''
+  audio: null
+  de: Durst haben
+  fr: avoir soif
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0a/De-Fischbrötchen.ogg/De-Fischbrötchen.ogg.mp3
+  de: Fischbrötchen
+  fr: le sandwich au poisson
+  level: 2
+  plural_de: die Fischbrötchen
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/85/De-Currywurst.ogg/De-Currywurst.ogg.mp3
+  de: Currywurst
+  fr: la saucisse au curry
+  level: 2
+  plural_de: die Currywürste
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/63/De-Postkarten.ogg/De-Postkarten.ogg.mp3
+  de: Postkarten
+  fr: les cartes postales
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3b/De-klasse.ogg/De-klasse.ogg.mp3
+  de: klasse
+  fr: super, génial-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/LL-Q150_(fra)-DSwissK-cool.wav/LL-Q150_(fra)-DSwissK-cool.wav.mp3
+  de: cool
+  fr: cool
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/81/Sv-lustig.ogg/Sv-lustig.ogg.mp3
+  de: lustig
+  fr: amusant-e, marrant-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: null
+  de: Spass haben, er hat Spass
+  fr: bien s’amuser
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/De-fantastisch.ogg/De-fantastisch.ogg.mp3
+  de: fantastisch
+  fr: fantastique, formidable
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d5/De-sensationell.ogg/De-sensationell.ogg.mp3
+  de: sensationell
+  fr: sensationnel-le, extraordinaire
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj

@@ -5,7 +5,7 @@
   plural_fr: les écoles
   plural_de_end: "-n"
   plural_de: die Schulen
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: nouveau-elle
@@ -25,7 +25,7 @@
   plural_fr: les maîtres, les professeurs, les enseignants
   plural_de_end: " "
   plural_de: die Lehrer
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: la maîtresse, la professeur, l’enseignante
@@ -35,7 +35,7 @@
   plural_fr: les maîtresses, les professeurs, les enseignantes
   plural_de_end: "-nen"
   plural_de: die Lehrerinnen
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: l’élève (masc.)
@@ -45,7 +45,7 @@
   plural_fr: les élèves
   plural_de_end: " "
   plural_de: die Schüler
-  wortart: Substantiv
+  wortart: substantiv
   level:
 
 - fr: l’élève (fém.)
@@ -55,7 +55,7 @@
   plural_fr: les élèves
   plural_de_end: "-nen"
   plural_de: die Schülerinnen
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: les mathématiques
@@ -65,7 +65,7 @@
   plural_fr:
   plural_de_end: " "
   plural_de:
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: la biologie
@@ -75,7 +75,7 @@
   plural_fr:
   plural_de_end: " "
   plural_de:
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: l'histoire
@@ -85,7 +85,7 @@
   plural_fr:
   plural_de_end: " "
   plural_de:
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: la géographie
@@ -95,7 +95,7 @@
   plural_fr:
   plural_de_end: " "
   plural_de:
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: l'informatique
@@ -105,7 +105,7 @@
   plural_fr:
   plural_de_end: " "
   plural_de:
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: la religion (histoire biblique)
@@ -115,7 +115,7 @@
   plural_fr:
   plural_de_end: " "
   plural_de:
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: les arts
@@ -125,7 +125,7 @@
   plural_fr:
   plural_de_end: " "
   plural_de:
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: l'éducation physique (la gym, le sport)
@@ -135,7 +135,7 @@
   plural_fr:
   plural_de_end: " "
   plural_de:
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: l'anglais
@@ -145,7 +145,7 @@
   plural_fr:
   plural_de_end: " "
   plural_de:
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: la classe
@@ -155,7 +155,7 @@
   plural_fr: les classes
   plural_de_end: "-n"
   plural_de: die Klassen
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: l'emploi du temps
@@ -165,7 +165,7 @@
   plural_fr: les emplois du temps
   plural_de_end: "¨-e"
   plural_de: die Stundenpläne
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: la matière, la branche
@@ -175,7 +175,7 @@
   plural_fr: les matières, les branches
   plural_de_end: "¨-er"
   plural_de: die Fächer, die Schulfächer
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: la salle scolaire, la pièce
@@ -185,7 +185,7 @@
   plural_fr: les salles scolaires, les pièces
   plural_de_end: "¨-e"
   plural_de: die Räume
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: la salle de classe
@@ -195,7 +195,7 @@
   plural_fr: les salles de classe
   plural_de_end: " "
   plural_de: die Klassenzimmer
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: la salle des professeurs
@@ -205,7 +205,7 @@
   plural_fr: les salles des professeurs
   plural_de_end: " "
   plural_de: die Lehrerzimmer
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: les toilettes, les WC
@@ -215,7 +215,7 @@
   plural_fr: les toilettes, les WC
   plural_de_end: "-n"
   plural_de: die Toiletten
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: la piscine
@@ -225,7 +225,7 @@
   plural_fr: les piscines
   plural_de_end: "¨-er"
   plural_de: die Schwimmbäder
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: la bibliothèque
@@ -235,7 +235,7 @@
   plural_fr: les bibliothèques
   plural_de_end: "-en"
   plural_de: die Bibliotheken
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: la cour de récréation
@@ -245,7 +245,7 @@
   plural_fr: les cours de récréation
   plural_de_end: "¨-e"
   plural_de: die Pausenhöfe
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: la cantine scolaire
@@ -255,7 +255,7 @@
   plural_fr: les cantines scolaires
   plural_de_end: "-n"
   plural_de: die Schulkantinen
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: la salle de travaux manuels, l’atelier
@@ -265,7 +265,7 @@
   plural_fr: les salles de travaux manuels, les ateliers
   plural_de_end: "¨-e"
   plural_de: die Werkräume
-  wortart: Substantiv
+  wortart: substantiv
   level: 2
 
 - fr: la salle informatique
@@ -275,7 +275,7 @@
   plural_fr: les salles informatiques
   plural_de_end: "¨-e"
   plural_de: die Computerräume
-  wortart: Substantiv
+  wortart: substantiv
   level: 2
 
 - fr: la salle de biologie
@@ -285,7 +285,7 @@
   plural_fr: les salles de biologie
   plural_de_end: "-e"
   plural_de: die Biologieräume
-  wortart: Substantiv
+  wortart: substantiv
   level: 2
 
 - fr: la salle d’arts visuels
@@ -295,7 +295,7 @@
   plural_fr: les salles d’arts visuels
   plural_de_end: "¨-e"
   plural_de: die Kunsträume
-  wortart: Substantiv
+  wortart: substantiv
   level: 2
 
 - fr: la salle de gym
@@ -305,7 +305,7 @@
   plural_fr: les salles de gym
   plural_de_end: "-n"
   plural_de: die Turnhallen
-  wortart: Substantiv
+  wortart: substantiv
   level: 2
 
 - fr: le bureau
@@ -315,7 +315,7 @@
   plural_fr: les bureaux
   plural_de_end: "-s"
   plural_de: die Büros
-  wortart: Substantiv
+  wortart: substantiv
   level: 2
 
 - fr: le cuisinier
@@ -325,7 +325,7 @@
   plural_fr: les cuisiniers
   plural_de_end: "¨-e"
   plural_de: die Köche
-  wortart: Substantiv
+  wortart: substantiv
   level: 2
 
 - fr: la cuisinière
@@ -335,7 +335,7 @@
   plural_fr: les cuisinières
   plural_de_end: "-nen"
   plural_de: die Köchinnen
-  wortart: Substantiv
+  wortart: substantiv
   level: 2
 
 - fr: le directeur
@@ -345,7 +345,7 @@
   plural_fr: les directeurs
   plural_de_end: "-en"
   plural_de: die Direktoren
-  wortart: Substantiv
+  wortart: substantiv
   level: 2
 
 - fr: la directrice
@@ -355,7 +355,7 @@
   plural_fr: les directrices
   plural_de_end: "-nen"
   plural_de: die Direktorinnen
-  wortart: Substantiv
+  wortart: substantiv
   level: 2
 
 - fr: le secrétaire
@@ -365,7 +365,7 @@
   plural_fr: les secrétaires
   plural_de_end: "-e"
   plural_de: die Sekretäre
-  wortart: Substantiv
+  wortart: substantiv
   level: 2
 
 - fr: la secrétaire
@@ -375,7 +375,7 @@
   plural_fr: les secrétaires
   plural_de_end: "-nen"
   plural_de: die Sekretärinnen
-  wortart: Substantiv
+  wortart: substantiv
   level: 2
 
 - fr: le concierge
@@ -385,7 +385,7 @@
   plural_fr: les concierges
   plural_de_end: "-e"
   plural_de: die Hauswarte
-  wortart: Substantiv
+  wortart: substantiv
   level: 2
 
 - fr: la concierge
@@ -395,7 +395,7 @@
   plural_fr: les concierges
   plural_de_end: "-nen"
   plural_de: die Hauswärterinnen
-  wortart: Substantiv
+  wortart: substantiv
   level: 2
 
 - fr: les sciences naturelles
@@ -405,7 +405,7 @@
   plural_fr: les sciences naturelles
   plural_de_end: "-en"
   plural_de: die Naturwissenschaften
-  wortart: Substantiv
+  wortart: substantiv
   level: 3
 
 - fr: enseigner
@@ -425,7 +425,7 @@
   plural_fr: les noms
   plural_de_end: "-n"
   plural_de: die Namen
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: le prénom
@@ -435,7 +435,7 @@
   plural_fr: les prénoms
   plural_de_end: "-n"
   plural_de: die Vornamen
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: l'âge
@@ -445,7 +445,7 @@
   plural_fr: les âges
   plural_de_end: " "
   plural_de: die Alter
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: le lieu de naissance
@@ -455,7 +455,7 @@
   plural_fr: les lieux de naissance
   plural_de_end: "-e"
   plural_de: die Geburtsorte
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: le domicile
@@ -465,7 +465,7 @@
   plural_fr: les domiciles
   plural_de_end: "-e"
   plural_de: die Wohnorte
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: la langue (parlée)
@@ -475,7 +475,7 @@
   plural_fr: les langues
   plural_de_end: "-n"
   plural_de: die Sprachen
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: les loisirs
@@ -485,7 +485,7 @@
   plural_fr: les loisirs
   plural_de_end: "-en"
   plural_de: die Freizeiten
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: le hobby, passe-temps
@@ -495,7 +495,7 @@
   plural_fr: les hobbies
   plural_de_end: "-s"
   plural_de: die Hobbys
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: lire
@@ -565,7 +565,7 @@
   plural_fr: les semaines
   plural_de_end: "-n"
   plural_de: die Wochen
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: lundi
@@ -575,7 +575,7 @@
   plural_fr: les lundis
   plural_de_end: "-e"
   plural_de: die Montage
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: mardi
@@ -585,7 +585,7 @@
   plural_fr: les mardis
   plural_de_end: "-e"
   plural_de: die Dienstage
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: mercredi
@@ -595,7 +595,7 @@
   plural_fr: les mercredis
   plural_de_end: "-e"
   plural_de: die Mittwoche
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: jeudi
@@ -605,7 +605,7 @@
   plural_fr: les jeudis
   plural_de_end: "-e"
   plural_de: die Donnerstage
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: vendredi
@@ -615,7 +615,7 @@
   plural_fr: les vendredis
   plural_de_end: "-e"
   plural_de: die Freitage
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: samedi
@@ -625,7 +625,7 @@
   plural_fr: les samedis
   plural_de_end: "-e"
   plural_de: die Samstage
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: dimanche
@@ -635,7 +635,7 @@
   plural_fr: les dimanches
   plural_de_end: "-e"
   plural_de: die Sonntage
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: le week-end
@@ -645,7 +645,7 @@
   plural_fr: les week-end
   plural_de_end: "-n"
   plural_de: die Wochenenden
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: l'heure
@@ -655,7 +655,7 @@
   plural_fr: les heures
   plural_de_end: "-en"
   plural_de: die Uhrzeiten
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: l'heure (durée)
@@ -665,7 +665,7 @@
   plural_fr: les heures
   plural_de_end: "-n"
   plural_de: die Stunden
-  wortart: Substantiv
+  wortart: substantiv
   level: 1
 
 - fr: commencer
@@ -675,5 +675,5 @@
   plural_fr: les mardis
   plural_de_end: "-e"
   plural_de: die Dienstage
-  wortart: Substantiv
+  wortart: substantiv
   level: 2

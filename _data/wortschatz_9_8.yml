@@ -1,0 +1,480 @@
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/23/De-Zimmer.oga/De-Zimmer.oga.mp3
+  de: Zimmer
+  fr: la chambre
+  level: 1
+  plural_de: null
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/85/De-Garten.ogg/De-Garten.ogg.mp3
+  de: Garten
+  fr: le jardin
+  level: 1
+  plural_de: die Gärten
+  plural_de_end: "¨-"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a1/De-Keller.ogg/De-Keller.ogg.mp3
+  de: Keller
+  fr: la cave
+  level: 1
+  plural_de: null
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/15/De-Lieblingsplatz.ogg/De-Lieblingsplatz.ogg.mp3
+  de: Lieblingsplatz
+  fr: la place préférée, l’endroit préféré
+  level: 1
+  plural_de: die Lieblingsplätze
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a1/De-Stuhl.OGG/De-Stuhl.OGG.mp3
+  de: Stuhl
+  fr: la chaise
+  level: 1
+  plural_de: die Stühle
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/De-Lampe.ogg/De-Lampe.ogg.mp3
+  de: Lampe
+  fr: la lampe
+  level: 1
+  plural_de: null
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cc/De-Regal.ogg/De-Regal.ogg.mp3
+  de: Regal
+  fr: l’étagère
+  level: 1
+  plural_de: die Regale
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f5/De-Poster.ogg/De-Poster.ogg.mp3
+  de: Poster
+  fr: l’affiche, le poster
+  level: 1
+  plural_de: die Poster
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5e/De-Bett.ogg/De-Bett.ogg.mp3
+  de: Bett
+  fr: le lit
+  level: 1
+  plural_de: die Betten
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/De-Schreibtisch.ogg/De-Schreibtisch.ogg.mp3
+  de: Schreibtisch
+  fr: le bureau (meuble)
+  level: 1
+  plural_de: die Schreibtische
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1e/De-Tür.OGG/De-Tür.OGG.mp3
+  de: Tür
+  fr: la porte
+  level: 1
+  plural_de: die Türen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/91/De-Schrank.ogg/De-Schrank.ogg.mp3
+  de: Schrank
+  fr: l’armoire
+  level: 1
+  plural_de: die Schränke
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/De-Garderobe.ogg/De-Garderobe.ogg.mp3
+  de: Garderobe
+  fr: le portemanteau
+  level: 1
+  plural_de: die Garderoben
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b6/De-Teppich.ogg/De-Teppich.ogg.mp3
+  de: Teppich
+  fr: le tapis
+  level: 1
+  plural_de: die Teppiche
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/De-Wand.ogg/De-Wand.ogg.mp3
+  de: Wand
+  fr: le mur
+  level: 1
+  plural_de: die Wände
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/De-Fenster.ogg/De-Fenster.ogg.mp3
+  de: Fenster
+  fr: la fenêtre
+  level: 1
+  plural_de: die Fenster
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d7/De-offen.ogg/De-offen.ogg.mp3
+  de: offen
+  fr: ouvert-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e0/De-draußen.ogg/De-draußen.ogg.mp3
+  de: draussen
+  fr: dehors
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/16/De-Balkon.ogg/De-Balkon.ogg.mp3
+  de: Balkon
+  fr: le balcon
+  level: 2
+  plural_de: die Balkons
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/54/De-Papierkorb.ogg/De-Papierkorb.ogg.mp3
+  de: Papierkorb
+  fr: la corbeille à papier
+  level: 2
+  plural_de: die Papierkörbe
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/73/De-Boden.ogg/De-Boden.ogg.mp3
+  de: Boden
+  fr: le sol, la terre
+  level: 2
+  plural_de: die Böden
+  plural_de_end: "¨-"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/De-Ecke.ogg/De-Ecke.ogg.mp3
+  de: Ecke
+  fr: le coin
+  level: 2
+  plural_de: null
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/De-Decke.ogg/De-Decke.ogg.mp3
+  de: Decke
+  fr: le plafond
+  level: 2
+  plural_de: null
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/De-Hängematte.ogg/De-Hängematte.ogg.mp3
+  de: Hängematte
+  fr: le hamac
+  level: 3
+  plural_de: die Hängematten
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/87/De-Sessel.ogg/De-Sessel.ogg.mp3
+  de: Sessel
+  fr: le fauteuil
+  level: 3
+  plural_de: die Sessel
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f4/De-Klamotten.ogg/De-Klamotten.ogg.mp3
+  de: Klamotten
+  fr: les fringues (familier)
+  level: 3
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/29/De-Laptop.ogg/De-Laptop.ogg.mp3
+  de: Laptop
+  fr: l’ordinateur portable
+  level: 3
+  plural_de: die Laptops
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f7/De-Ordner.ogg/De-Ordner.ogg.mp3
+  de: Ordner
+  fr: le classeur
+  level: 3
+  plural_de: die Ordner
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/De-ordentlich.ogg/De-ordentlich.ogg.mp3
+  de: ordentlich
+  fr: ordonné-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/De-unordentlich.ogg/De-unordentlich.ogg.mp3
+  de: unordentlich
+  fr: désordonné-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/81/De-sauber.ogg/De-sauber.ogg.mp3
+  de: sauber
+  fr: propre
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/60/De-schmutzig.ogg/De-schmutzig.ogg.mp3
+  de: schmutzig
+  fr: sale
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/29/De-aufgeräumt.ogg/De-aufgeräumt.ogg.mp3
+  de: aufgeräumt
+  fr: rangé-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4f/De-chaotisch.ogg/De-chaotisch.ogg.mp3
+  de: chaotisch
+  fr: chaotique
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/De-aufräumen.ogg/De-aufräumen.ogg.mp3
+  de: aufräumen, er räumt auf, hat aufgeräumt
+  fr: ranger
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/De-Chaos.ogg/De-Chaos.ogg.mp3
+  de: Chaos
+  fr: le chaos
+  level: 1
+  plural_de: null
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2f/De-gemütlich.ogg/De-gemütlich.ogg.mp3
+  de: gemütlich
+  fr: confortable, agréable
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/13/De-Ordnung.ogg/De-Ordnung.ogg.mp3
+  de: Ordnung
+  fr: l’ordre
+  level: 2
+  plural_de: die Ordnungen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a0/De-Unordnung.ogg/De-Unordnung.ogg.mp3
+  de: Unordnung
+  fr: le désordre
+  level: 2
+  plural_de: null
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c1/De-nerven.ogg/De-nerven.ogg.mp3
+  de: nerven, er nervt, hat genervt
+  fr: énerver
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/20/De-romantisch.ogg/De-romantisch.ogg.mp3
+  de: romantisch
+  fr: romantique
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0b/De-Wohnformen.ogg/De-Wohnformen.ogg.mp3
+  de: Wohnformen
+  fr: les modes d’habiter
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7e/De-Haus.ogg/De-Haus.ogg.mp3
+  de: Haus
+  fr: la maison
+  level: 1
+  plural_de: null
+  plural_de_end: "¨-er"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b2/De-wohnen.ogg/De-wohnen.ogg.mp3
+  de: wohnen, er wohnt, hat gewohnt
+  fr: habiter
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0e/De-Strasse2.ogg/De-Strasse2.ogg.mp3
+  de: Strasse
+  fr: la rue
+  level: 1
+  plural_de: null
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/de/De-Wohnung.ogg/De-Wohnung.ogg.mp3
+  de: Wohnung
+  fr: l’appartement
+  level: 1
+  plural_de: die Wohnungen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/De-Dorf.ogg/De-Dorf.ogg.mp3
+  de: Dorf
+  fr: le village
+  level: 1
+  plural_de: die Dörfer
+  plural_de_end: "¨-er"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/De-Natur2.ogg/De-Natur2.ogg.mp3
+  de: Natur
+  fr: la nature
+  level: 1
+  plural_de: die Naturen
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7e/De-Baum.ogg/De-Baum.ogg.mp3
+  de: Baum
+  fr: l’arbre
+  level: 1
+  plural_de: null
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/94/De-Blume.OGG/De-Blume.OGG.mp3
+  de: Blume
+  fr: la fleur
+  level: 1
+  plural_de: die Blumen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/De-Altstadt.ogg/De-Altstadt.ogg.mp3
+  de: Altstadt
+  fr: la vieille ville, la cité
+  level: 2
+  plural_de: null
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/34/De-Miete.ogg/De-Miete.ogg.mp3
+  de: Miete
+  fr: le loyer
+  level: 2
+  plural_de: die Mieten
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a8/De-Nachbar.ogg/De-Nachbar.ogg.mp3
+  de: Nachbar
+  fr: le voisin
+  level: 2
+  plural_de: die Nachbarn
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6b/De-Nachbarin.ogg/De-Nachbarin.ogg.mp3
+  de: Nachbarin
+  fr: la voisine
+  level: 2
+  plural_de: die Nachbarinnen
+  plural_de_end: "-nen"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e7/De-Hochhaus.ogg/De-Hochhaus.ogg.mp3
+  de: Hochhaus
+  fr: la tour, le building
+  level: 3
+  plural_de: die Hochhäuser
+  plural_de_end: "¨-er"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/De-Reihenhaus.ogg/De-Reihenhaus.ogg.mp3
+  de: Reihenhaus
+  fr: la maison mitoyenne
+  level: 3
+  plural_de: die Reihenhäuser
+  plural_de_end: "¨-er"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3e/De-Altbau.ogg/De-Altbau.ogg.mp3
+  de: Altbau
+  fr: la construction ancienne
+  level: 3
+  plural_de: die Altbauten
+  plural_de_end: "Altbauten"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3a/De-Bauernhof.ogg/De-Bauernhof.ogg.mp3
+  de: Bauernhof
+  fr: la ferme
+  level: 3
+  plural_de: die Bauernhöfe
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fb/De-Stall.ogg/De-Stall.ogg.mp3
+  de: Stall
+  fr: l’étable, l’écurie
+  level: 3
+  plural_de: null
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cb/De-Hauptstraße.ogg/De-Hauptstraße.ogg.mp3
+  de: die Hauptstrasse, -n
+  fr: la rue principale
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: name

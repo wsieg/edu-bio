@@ -1,0 +1,448 @@
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/De-Museum.ogg/De-Museum.ogg.mp3
+  de: Museum
+  fr: le musée
+  level: 1
+  plural_de: die Museen
+  plural_de_end: "Museen"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7c/De-Zoo.ogg/De-Zoo.ogg.mp3
+  de: Zoo
+  fr: le zoo
+  level: 1
+  plural_de: die Zoos
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/De-Zentrum.ogg/De-Zentrum.ogg.mp3
+  de: Zentrum
+  fr: le centre
+  level: 1
+  plural_de: die Zentren
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d2/De-Fahrkarte.ogg/De-Fahrkarte.ogg.mp3
+  de: Fahrkarte
+  fr: le billet, le titre de transport
+  level: 1
+  plural_de: die Fahrkarten
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/De-kaufen.ogg/De-kaufen.ogg.mp3
+  de: kaufen, er kauft, hat gekauft
+  fr: acheter
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: null
+  de: essen, er isst, hat gegessen
+  fr: manger
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: soft-redirect
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e5/De-besuchen.ogg/De-besuchen.ogg.mp3
+  de: besuchen, er besucht, hat besucht
+  fr: visiter
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4d/De-mitkommen.ogg/De-mitkommen.ogg.mp3
+  de: mitkommen, er kommt mit, ist mitgekommen
+  fr: venir avec quelqu’un
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bd/De-Kirche.ogg/De-Kirche.ogg.mp3
+  de: Kirche
+  fr: l’église
+  level: 1
+  plural_de: die Kirchen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/52/De-Turm.ogg/De-Turm.ogg.mp3
+  de: Turm
+  fr: la tour
+  level: 1
+  plural_de: die Türme
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/59/De-Brücke.ogg/De-Brücke.ogg.mp3
+  de: Brücke
+  fr: le pont
+  level: 1
+  plural_de: null
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/De-Stadion.ogg/De-Stadion.ogg.mp3
+  de: Stadion
+  fr: le stade
+  level: 1
+  plural_de: die Stadien
+  plural_de_end: "Stadien"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/12/De-Fußballstadion.ogg/De-Fußballstadion.ogg.mp3
+  de: Fußballstadion
+  fr: le stade de football
+  level: 1
+  plural_de: die Fußballstadien
+  plural_de_end: "-stadien"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c5/De-Polizei.ogg/De-Polizei.ogg.mp3
+  de: Polizei
+  fr: la police
+  level: 1
+  plural_de: die Polizeien
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5e/De-steigen.ogg/De-steigen.ogg.mp3
+  de: steigen, er steigt, ist gestiegen
+  fr: monter
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9c/De-besichtigen.ogg/De-besichtigen.ogg.mp3
+  de: besichtigen, er besichtigt, hat besichtigt
+  fr: visiter
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/De-Meter.ogg/De-Meter.ogg.mp3
+  de: Meter
+  fr: le mètre
+  level: 2
+  plural_de: die Meter
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/De-Altstadt.ogg/De-Altstadt.ogg.mp3
+  de: Altstadt
+  fr: la vieille ville, la cité
+  level: 2
+  plural_de: null
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4e/De-Kunstmuseum.ogg/De-Kunstmuseum.ogg.mp3
+  de: Kunstmuseum
+  fr: le musée d’art
+  level: 2
+  plural_de: die Kunstmuseen
+  plural_de_end: "-museen"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/08/De-Sehenswürdigkeit.ogg/De-Sehenswürdigkeit.ogg.mp3
+  de: Sehenswürdigkeit
+  fr: l'attraction touristique
+  level: 3
+  plural_de: die Sehenswürdigkeiten
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: antik
+  fr: antique
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7c/De-römisch.ogg/De-römisch.ogg.mp3
+  de: römisch
+  fr: romain-e
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/De-Klassenfahrt.ogg/De-Klassenfahrt.ogg.mp3
+  de: Klassenfahrt
+  fr: Le voyage scolaire
+  level: 1
+  plural_de: die Klassenfahrten
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b1/De-Reise.ogg/De-Reise.ogg.mp3
+  de: Reise
+  fr: le voyage
+  level: 1
+  plural_de: null
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/De-Taschengeld.ogg/De-Taschengeld.ogg.mp3
+  de: Taschengeld
+  fr: l’argent de poche
+  level: 1
+  plural_de: die Taschengelder
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/37/De-Souvenir.ogg/De-Souvenir.ogg.mp3
+  de: Souvenir
+  fr: le souvenir
+  level: 1
+  plural_de: die Souvenirs
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/35/Pl-Internet.ogg/Pl-Internet.ogg.mp3
+  de: Internet
+  fr: l’internet
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/De-WLAN.ogg/De-WLAN.ogg.mp3
+  de: WLAN
+  fr: le wifi
+  level: 1
+  plural_de: die WLANs
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/Sv-gratis.ogg/Sv-gratis.ogg.mp3
+  de: gratis
+  fr: gratuit-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: das
+  audio: null
+  de: Tram
+  fr: le tram(way)
+  level: 1
+  plural_de: die Trame
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/De-müde.ogg/De-müde.ogg.mp3
+  de: müde
+  fr: fatigué-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/90/De-Abfahrt.ogg/De-Abfahrt.ogg.mp3
+  de: Abfahrt
+  fr: le départ
+  level: 2
+  plural_de: die Abfahrten
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/De-Treffpunkt.ogg/De-Treffpunkt.ogg.mp3
+  de: Treffpunkt
+  fr: le point de rencontre
+  level: 2
+  plural_de: die Treffpunkte
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/De-Ankunft.ogg/De-Ankunft.ogg.mp3
+  de: Ankunft
+  fr: l’arrivée
+  level: 2
+  plural_de: die Ankünfte
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/30/De-Rückreise.ogg/De-Rückreise.ogg.mp3
+  de: Rückreise
+  fr: le retour
+  level: 2
+  plural_de: die Rückreisen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/24/De-Straßenbahn.ogg/De-Straßenbahn.ogg.mp3
+  de: Straßenbahn
+  fr: le tram(way)
+  level: 2
+  plural_de: die Straßenbahnen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/De-Ruhe.ogg/De-Ruhe.ogg.mp3
+  de: Ruhe
+  fr: le silence
+  level: 2
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: pleite sein, er ist pleite
+  fr: être fauché-e
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2d/De-leihen.ogg/De-leihen.ogg.mp3
+  de: leihen, er leiht, hat geliehen
+  fr: prêter
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bf/De-Gepäck.ogg/De-Gepäck.ogg.mp3
+  de: Gepäck
+  fr: les bagages
+  level: 3
+  plural_de: die Gepäcke
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a1/De-abgeben.ogg/De-abgeben.ogg.mp3
+  de: abgeben, er gibt ab, hat abgegeben
+  fr: déposer
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/93/De-Speisesaal.ogg/De-Speisesaal.ogg.mp3
+  de: Speisesaal
+  fr: la salle à manger
+  level: 3
+  plural_de: die Speisesäle
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/De-Geschenk.ogg/De-Geschenk.ogg.mp3
+  de: Geschenk
+  fr: le cadeau
+  level: 1
+  plural_de: die Geschenke
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b5/De-kochen.ogg/De-kochen.ogg.mp3
+  de: kochen, er kocht, hat gekocht
+  fr: cuisiner
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/De-probieren.ogg/De-probieren.ogg.mp3
+  de: probieren, er probiert, hat probiert
+  fr: essayer
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ef/De-zeigen.ogg/De-zeigen.ogg.mp3
+  de: zeigen, er zeigt, hat gezeigt
+  fr: montrer
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8d/De-auspacken.ogg/De-auspacken.ogg.mp3
+  de: auspacken, er packt aus, hat ausgepackt
+  fr: ouvrir, déballer
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a0/Nl-reden.ogg/Nl-reden.ogg.mp3
+  de: reden
+  fr: parler
+  level: 1
+  plural_de: null
+  plural_de_end: "er redet"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: Musik hören, er hört, hat gehört
+  fr: écouter de la musique
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1c/De-tanzen.ogg/De-tanzen.ogg.mp3
+  de: tanzen, er tanzt, hat getanzt
+  fr: danser
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/De-aufräumen.ogg/De-aufräumen.ogg.mp3
+  de: aufräumen, er räumt auf, hat aufgeräumt
+  fr: ranger
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0a/De-küssen.ogg/De-küssen.ogg.mp3
+  de: küssen, er küsst, hat geküsst
+  fr: embrasser
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/24/De-stimmen.ogg/De-stimmen.ogg.mp3
+  de: stimmen
+  fr: être juste/vrai
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: null
+  de: sauer sein, er ist sauer
+  fr: être fâché-e
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a3/De-Menge.ogg/De-Menge.ogg.mp3
+  de: Menge
+  fr: la quantité
+  level: 3
+  plural_de: die Mengen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/De-Schluss.ogg/De-Schluss.ogg.mp3
+  de: Schluss
+  fr: la fin
+  level: 3
+  plural_de: die Schlüsse
+  plural_de_end: "̈-e"
+  wortart: noun

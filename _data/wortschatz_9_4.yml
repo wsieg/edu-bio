@@ -1,0 +1,280 @@
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d4/De-Wünsche.ogg/De-Wünsche.ogg.mp3
+  de: Wünsche
+  fr: les vœux
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/De-Geburtstag2.ogg/De-Geburtstag2.ogg.mp3
+  de: Geburtstag
+  fr: l’anniversaire
+  level: 1
+  plural_de: die Geburtstage
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6e/De-Party.ogg/De-Party.ogg.mp3
+  de: Party
+  fr: la fête
+  level: 1
+  plural_de: die Partys
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/De-Kuchen.ogg/De-Kuchen.ogg.mp3
+  de: Kuchen
+  fr: le gâteau
+  level: 1
+  plural_de: die Kuchen
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e2/De-Saft.ogg/De-Saft.ogg.mp3
+  de: Saft
+  fr: le jus
+  level: 1
+  plural_de: die Säfte
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/De-Geschenk.ogg/De-Geschenk.ogg.mp3
+  de: Geschenk
+  fr: le cadeau
+  level: 1
+  plural_de: die Geschenke
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/De-Eistee.ogg/De-Eistee.ogg.mp3
+  de: Eistee
+  fr: le thé froid
+  level: 1
+  plural_de: die Eistees
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/13/De-Geburtstagsparty.ogg/De-Geburtstagsparty.ogg.mp3
+  de: Geburtstagsparty
+  fr: la fête d’anniversaire
+  level: 2
+  plural_de: die Geburtstagspartys
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1c/De-feiern.ogg/De-feiern.ogg.mp3
+  de: feiern, er feiert
+  fr: fêter, faire la fête
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/92/De-einladen.ogg/De-einladen.ogg.mp3
+  de: einladen, er lädt ein
+  fr: inviter
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3e/De-mitbringen.ogg/De-mitbringen.ogg.mp3
+  de: mitbringen, er bringt... mit
+  fr: apporter
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/59/De-Ausflug.ogg/De-Ausflug.ogg.mp3
+  de: Ausflug
+  fr: l’excursion, la sortie
+  level: 2
+  plural_de: die Ausflüge
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/80/De-Gast.ogg/De-Gast.ogg.mp3
+  de: Gast
+  fr: l’hôte, l’invité
+  level: 2
+  plural_de: die Gasten
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: früh aufstehen, er steht früh auf
+  fr: se lever tôt
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: ''
+  audio: null
+  de: lange schlafen, er schläft lange
+  fr: dormir longtemps
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/De-Einladung.ogg/De-Einladung.ogg.mp3
+  de: Einladung
+  fr: l’invitation
+  level: 3
+  plural_de: die Einladungen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f7/De-Jugendlichen.ogg/De-Jugendlichen.ogg.mp3
+  de: Jugendlichen
+  fr: les jeunes
+  level: 3
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/De-König.ogg/De-König.ogg.mp3
+  de: König
+  fr: le roi
+  level: 3
+  plural_de: null
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6c/De-Königin.ogg/De-Königin.ogg.mp3
+  de: Königin
+  fr: la reine
+  level: 3
+  plural_de: die Königinnen
+  plural_de_end: "-nen"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/07/De-Jahr.ogg/De-Jahr.ogg.mp3
+  de: Jahr
+  fr: L’année
+  level: 1
+  plural_de: die Jahre
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/De-Kalender.ogg/De-Kalender.ogg.mp3
+  de: Kalender
+  fr: le calendrier
+  level: 2
+  plural_de: die Kalender
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/De-Jahreszeit.ogg/De-Jahreszeit.ogg.mp3
+  de: Jahreszeit
+  fr: la saison
+  level: 3
+  plural_de: die Jahreszeiten
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5a/De-immer.ogg/De-immer.ogg.mp3
+  de: immer
+  fr: toujours
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/De-meistens.ogg/De-meistens.ogg.mp3
+  de: meistens
+  fr: le plus souvent, la plupart du temps
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e1/De-oft.ogg/De-oft.ogg.mp3
+  de: oft
+  fr: souvent
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/98/De-manchmal.ogg/De-manchmal.ogg.mp3
+  de: manchmal
+  fr: parfois
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: ''
+  audio: null
+  de: nie
+  fr: jamais
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: unknown
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/14/De-Gesundheit3.ogg/De-Gesundheit3.ogg.mp3
+  de: die Gesundheit
+  fr: la santé
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: intj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b4/De-schlecht.ogg/De-schlecht.ogg.mp3
+  de: schlecht
+  fr: mal, mauvais
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ea/En-us-inlandnorth-gut.ogg/En-us-inlandnorth-gut.ogg.mp3
+  de: gut
+  fr: bien
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7d/De-krank.ogg/De-krank.ogg.mp3
+  de: krank
+  fr: malade
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/24/De-Unfall.ogg/De-Unfall.ogg.mp3
+  de: Unfall
+  fr: l’accident
+  level: 2
+  plural_de: die Unfälle
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/30/De-Krankenhaus.ogg/De-Krankenhaus.ogg.mp3
+  de: Krankenhaus
+  fr: l’hôpital
+  level: 2
+  plural_de: die Krankenhäuser
+  plural_de_end: "¨-er"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2d/De-furchtbar.ogg/De-furchtbar.ogg.mp3
+  de: furchtbar
+  fr: terrible, horrible
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9e/De-Katastrophe.ogg/De-Katastrophe.ogg.mp3
+  de: Katastrophe
+  fr: la catastrophe
+  level: 3
+  plural_de: die Katastrophen
+  plural_de_end: "-n"
+  wortart: noun

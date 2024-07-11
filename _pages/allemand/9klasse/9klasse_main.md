@@ -49,19 +49,45 @@ Im Folgenden finden Sie Übungen, Links und andere Ressourcen, mit denen Sie im 
 - [Artikelbestimmung]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz3_derdiedas)
 - [Quiz]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz3_quiz)
 
-
-
 <!-- KAPITEL 4 -->
 # Kapitel 4
+
+- [Lernkarten (Substantive und Verben)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz4_lernkarten)
+- [Lernkarten (Wendungen und Sätze)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz4_lernkarten_wendungen)
+- [Artikelbestimmung]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz4_derdiedas)
+- [Quiz]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz4_quiz)
+
 
 <!-- KAPITEL 5 -->
 # Kapitel 5
 
+- [Lernkarten (Substantive und Verben)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz5_lernkarten)
+- [Lernkarten (Wendungen und Sätze)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz5_lernkarten_wendungen)
+- [Artikelbestimmung]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz5_derdiedas)
+- [Quiz]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz5_quiz)
+
+
 <!-- KAPITEL 6 -->
 # Kapitel 6
+
+- [Lernkarten (Substantive und Verben)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz6_lernkarten)
+- [Lernkarten (Wendungen und Sätze)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz6_lernkarten_wendungen)
+- [Artikelbestimmung]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz6_derdiedas)
+- [Quiz]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz6_quiz)
+
 
 <!-- KAPITEL 7 -->
 # Kapitel 7
 
+- [Lernkarten (Substantive und Verben)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz7_lernkarten)
+- [Lernkarten (Wendungen und Sätze)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz7_lernkarten_wendungen)
+- [Artikelbestimmung]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz7_derdiedas)
+- [Quiz]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz7_quiz)
+
 <!-- KAPITEL 8 -->
 # Kapitel 8
+
+- [Lernkarten (Substantive und Verben)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz8_lernkarten)
+- [Lernkarten (Wendungen und Sätze)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz8_lernkarten_wendungen)
+- [Artikelbestimmung]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz8_derdiedas)
+- [Quiz]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz8_quiz)
