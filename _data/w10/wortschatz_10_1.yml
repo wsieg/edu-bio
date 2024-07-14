@@ -1,0 +1,424 @@
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/De-schwimmen.ogg/De-schwimmen.ogg.mp3
+  de: schwimmen, er schwimmt, ist geschwommen
+  fr: nager
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: null
+  de: Großmutter
+  fr: la grand mère
+  level: 1
+  plural_de: null
+  plural_de_end: "¨"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7a/De-Insel.ogg/De-Insel.ogg.mp3
+  de: Insel
+  fr: l’île
+  level: 1
+  plural_de: die Inseln
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/59/De-Ausflug.ogg/De-Ausflug.ogg.mp3
+  de: Ausflug
+  fr: l’excursion, la sortie
+  level: 1
+  plural_de: die Ausflüge
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/De-faul.ogg/De-faul.ogg.mp3
+  de: faul
+  fr: paresseux
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3e/De-mitbringen.ogg/De-mitbringen.ogg.mp3
+  de: mitbringen, er bringt...mit, hat mitgebracht
+  fr: apporter
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/De-Freizeitpark.ogg/De-Freizeitpark.ogg.mp3
+  de: Freizeitpark
+  fr: le parc d’attractions
+  level: 3
+  plural_de: die Freizeitparks
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: wann
+  fr: Quand ?
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: conj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/16/De-pünktlich.ogg/De-pünktlich.ogg.mp3
+  de: pünktlich
+  fr: ponctuel, à l’heure
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/81/De-sauber.ogg/De-sauber.ogg.mp3
+  de: sauber
+  fr: propre
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/De-Schloss.ogg/De-Schloss.ogg.mp3
+  de: Schloss
+  fr: le château
+  level: 1
+  plural_de: die Schlösser
+  plural_de_end: "¨-er"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/87/De-Dialekt.ogg/De-Dialekt.ogg.mp3
+  de: Dialekt
+  fr: le dialecte
+  level: 2
+  plural_de: die Dialekte
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/De-ordentlich.ogg/De-ordentlich.ogg.mp3
+  de: ordentlich
+  fr: en ordre, ordonné
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/De-unordentlich.ogg/De-unordentlich.ogg.mp3
+  de: unordentlich
+  fr: en désordre, désordonné
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4e/Nl-grillen.ogg/Nl-grillen.ogg.mp3
+  de: grillen
+  fr: faire un barbecue, faire griller qqch
+  level: 2
+  plural_de: null
+  plural_de_end: "er grillt"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a1/De-Ökologie.ogg/De-Ökologie.ogg.mp3
+  de: Ökologie
+  fr: l’écologie
+  level: 3
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2d/De-Mülltrennung.ogg/De-Mülltrennung.ogg.mp3
+  de: Mülltrennung
+  fr: le tri des déchets
+  level: 3
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/64/De-Disziplin.ogg/De-Disziplin.ogg.mp3
+  de: Disziplin
+  fr: la discipline
+  level: 3
+  plural_de: die Disziplinen
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/de/De-Wohnung.ogg/De-Wohnung.ogg.mp3
+  de: Wohnung
+  fr: l’appartement
+  level: 1
+  plural_de: die Wohnungen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/De-Dorf.ogg/De-Dorf.ogg.mp3
+  de: Dorf
+  fr: le village
+  level: 1
+  plural_de: die Dörfer
+  plural_de_end: "¨-er"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/99/De-Gastfamilie‎‎.ogg/De-Gastfamilie‎‎.ogg.mp3
+  de: Gastfamilie
+  fr: la famille d’accueil
+  level: 1
+  plural_de: die Gastfamilien
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/92/De-Austauschpartner.ogg/De-Austauschpartner.ogg.mp3
+  de: Austauschpartner
+  fr: le partenaire d’échange
+  level: 1
+  plural_de: die Austauschpartner
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6f/De-Austauschpartnerin.ogg/De-Austauschpartnerin.ogg.mp3
+  de: Austauschpartnerin
+  fr: la partenaire d’échange
+  level: 1
+  plural_de: die Austauschpartnerinnen
+  plural_de_end: "-nen"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/De-Ankunft.ogg/De-Ankunft.ogg.mp3
+  de: Ankunft
+  fr: l’arrivée
+  level: 1
+  plural_de: die Ankünfte
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/37/De-Begrüßung.ogg/De-Begrüßung.ogg.mp3
+  de: Begrüßung
+  fr: les salutations
+  level: 1
+  plural_de: die Begrüßungen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/27/De-grüßen.ogg/De-grüßen.ogg.mp3
+  de: grüßen, er grüsst, hat gegrüsst
+  fr: (se) saluer
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bf/De-abholen.ogg/De-abholen.ogg.mp3
+  de: abholen, er holt ... ab, hat abgeholt
+  fr: aller chercher
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/De-kennenlernen.ogg/De-kennenlernen.ogg.mp3
+  de: kennenlernen, er lernt ... kennen, hat kennengelernt
+  fr: faire (la) connaissance
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/De-schicken.ogg/De-schicken.ogg.mp3
+  de: schicken, er schickt, hat geschickt
+  fr: envoyer
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/De-Fremdsprache.ogg/De-Fremdsprache.ogg.mp3
+  de: Fremdsprache
+  fr: la langue étrangère
+  level: 1
+  plural_de: die Fremdsprachen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/17/De-Tourist.ogg/De-Tourist.ogg.mp3
+  de: Tourist
+  fr: le touriste
+  level: 1
+  plural_de: die Touristen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/24/De-Touristin.ogg/De-Touristin.ogg.mp3
+  de: Touristin
+  fr: la touriste
+  level: 1
+  plural_de: die Touristinnen
+  plural_de_end: "-nen"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/De-Anfang.ogg/De-Anfang.ogg.mp3
+  de: Anfang
+  fr: le début, le commencement
+  level: 2
+  plural_de: die Anfänge
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: Angst haben
+  fr: avoir peur
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dc/De-Fremde.ogg/De-Fremde.ogg.mp3
+  de: Fremde
+  fr: l’étranger
+  level: 2
+  plural_de: null
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dc/De-Fremde.ogg/De-Fremde.ogg.mp3
+  de: Fremde
+  fr: l’étrangère
+  level: 2
+  plural_de: null
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/De-teilen.ogg/De-teilen.ogg.mp3
+  de: teilen, er teilt, hat geteilt
+  fr: partager
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/De-verbessern.ogg/De-verbessern.ogg.mp3
+  de: verbessern, er verbessert, hat verbessert
+  fr: améliorer
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/De-Erfahrung.ogg/De-Erfahrung.ogg.mp3
+  de: Erfahrung
+  fr: l’expérience
+  level: 2
+  plural_de: die Erfahrungen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2f/De-Jugendbuch.ogg/De-Jugendbuch.ogg.mp3
+  de: Jugendbuch
+  fr: Un livre pour ­adolescent-e-s
+  level: 2
+  plural_de: die Jugendbücher
+  plural_de_end: "̈-er"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/De-Titel.ogg/De-Titel.ogg.mp3
+  de: Titel
+  fr: le titre
+  level: 2
+  plural_de: die Titel
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0a/De-küssen.ogg/De-küssen.ogg.mp3
+  de: küssen, er küsst, hat geküsst
+  fr: embrasser
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/De-viermal.ogg/De-viermal.ogg.mp3
+  de: viermal
+  fr: quatre fois
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a6/De-Liebesgeschichte.ogg/De-Liebesgeschichte.ogg.mp3
+  de: Liebesgeschichte
+  fr: l’histoire d’amour
+  level: 2
+  plural_de: die Liebesgeschichten
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/Nl-niemand.ogg/Nl-niemand.ogg.mp3
+  de: niemand
+  fr: personne
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: pron
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8a/Fr-manche.ogg/Fr-manche.ogg.mp3
+  de: manche
+  fr: quelques-uns, quelques
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/34/De-viele.ogg/De-viele.ogg.mp3
+  de: viele
+  fr: beaucoup (de)
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: null
+  de: alle
+  fr: tous, toutes
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: prep
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/96/De-Klischee.ogg/De-Klischee.ogg.mp3
+  de: Klischee
+  fr: le cliché
+  level: 2
+  plural_de: die Klischees
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: Hochdeutsch sprechen
+  fr: parler l’allemand standard
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/14/De-vorsichtig.ogg/De-vorsichtig.ogg.mp3
+  de: vorsichtig
+  fr: prudent
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6f/De-Vorurteil.ogg/De-Vorurteil.ogg.mp3
+  de: Vorurteil
+  fr: le préjugé
+  level: 3
+  plural_de: die Vorurteile
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: ernst sein
+  fr: être sérieux
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''

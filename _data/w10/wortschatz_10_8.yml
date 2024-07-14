@@ -1,0 +1,640 @@
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0a/De-Publikum.ogg/De-Publikum.ogg.mp3
+  de: Publikum
+  fr: le public
+  level: 1
+  plural_de: die Publika
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3e/De-Wissen.ogg/De-Wissen.ogg.mp3
+  de: Wissen
+  fr: le savoir, les connaissances
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/De-gewinnen.ogg/De-gewinnen.ogg.mp3
+  de: gewinnen, er gewinnt, hat gewonnen
+  fr: gagner (vaincre)
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/De-verlieren.ogg/De-verlieren.ogg.mp3
+  de: verlieren, er verliert, hat verloren
+  fr: perdre
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: das
+  audio: null
+  de: Talent
+  fr: le talent
+  level: 1
+  plural_de: die Talente
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e0/De-Aussehen.ogg/De-Aussehen.ogg.mp3
+  de: Aussehen
+  fr: l’aspect, l’apparence (physique)
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/De-Fitness.ogg/De-Fitness.ogg.mp3
+  de: Fitness
+  fr: la forme, la bonne condition physique
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e4/De-Stimme.ogg/De-Stimme.ogg.mp3
+  de: Stimme
+  fr: la voix
+  level: 1
+  plural_de: die Stimmen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f4/De-Kandidat.ogg/De-Kandidat.ogg.mp3
+  de: Kandidat
+  fr: le candidat
+  level: 1
+  plural_de: die Kandidaten
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/72/De-Kandidatin.ogg/De-Kandidatin.ogg.mp3
+  de: Kandidatin
+  fr: la candidate
+  level: 1
+  plural_de: die Kandidatinnen
+  plural_de_end: "-nen"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ce/De-Show.ogg/De-Show.ogg.mp3
+  de: Show
+  fr: le spectacle
+  level: 1
+  plural_de: die Shows
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c6/De-Wettbewerb.ogg/De-Wettbewerb.ogg.mp3
+  de: Wettbewerb
+  fr: la compétition, le concours
+  level: 1
+  plural_de: die Wettbewerbe
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/De-vorstellen.ogg/De-vorstellen.ogg.mp3
+  de: sich vorstellen, stellt sich vor, hat sich vorgestellt
+  fr: se présenter
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/De-teilnehmen.ogg/De-teilnehmen.ogg.mp3
+  de: teilnehmen, er nimmt ... teil, hat teilgenommen
+  fr: participer à
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/De-ausscheiden.ogg/De-ausscheiden.ogg.mp3
+  de: ausscheiden, er scheidet ... aus, ist ausgeschieden
+  fr: quitter, être éliminé
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/De-Auftritt.ogg/De-Auftritt.ogg.mp3
+  de: Auftritt
+  fr: la prestation, la représentation
+  level: 2
+  plural_de: die Auftritte
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d0/De-Bühne.ogg/De-Bühne.ogg.mp3
+  de: Bühne
+  fr: la scène
+  level: 2
+  plural_de: die Bühnen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9c/De-Erfindung.ogg/De-Erfindung.ogg.mp3
+  de: Erfindung
+  fr: l’invention
+  level: 2
+  plural_de: die Erfindungen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/33/De-forschen.ogg/De-forschen.ogg.mp3
+  de: forschen, er forscht, hat geforscht
+  fr: faire de la recherche
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/De-Jury.ogg/De-Jury.ogg.mp3
+  de: Jury
+  fr: le jury
+  level: 2
+  plural_de: die Jurys
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/De-Vorteil.ogg/De-Vorteil.ogg.mp3
+  de: Vorteil
+  fr: l’avantage
+  level: 2
+  plural_de: die Vorteile
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/De-Nachteil.ogg/De-Nachteil.ogg.mp3
+  de: Nachteil
+  fr: le désavantage
+  level: 2
+  plural_de: die Nachteile
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cb/De-bewerben.ogg/De-bewerben.ogg.mp3
+  de: sich bewerben, er bewirbt sich, hat sich beworben
+  fr: poser sa candidature, être candidat-e, postuler
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/De-aufgeben.ogg/De-aufgeben.ogg.mp3
+  de: aufgeben, er gibt ... auf, hat aufgegeben
+  fr: renoncer, abandonner
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/71/De-außerdem.ogg/De-außerdem.ogg.mp3
+  de: außerdem
+  fr: en outre
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/De-Erfahrung.ogg/De-Erfahrung.ogg.mp3
+  de: Erfahrung
+  fr: l’expérience
+  level: 2
+  plural_de: die Erfahrungen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a3/De-Zuschauer.ogg/De-Zuschauer.ogg.mp3
+  de: Zuschauer
+  fr: le spectateur
+  level: 2
+  plural_de: die Zuschauer
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/De-Zuschauerin.ogg/De-Zuschauerin.ogg.mp3
+  de: Zuschauerin
+  fr: la spectatrice
+  level: 2
+  plural_de: die Zuschauerinnen
+  plural_de_end: "-nen"
+  wortart: noun
+- artikel_de: der
+  audio: null
+  de: Fan
+  fr: le fan
+  level: 2
+  plural_de: null
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/De-Star.ogg/De-Star.ogg.mp3
+  de: Star
+  fr: la star
+  level: 1
+  plural_de: null
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/De-berühmt.ogg/De-berühmt.ogg.mp3
+  de: berühmt
+  fr: célèbre
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b4/De-werden.ogg/De-werden.ogg.mp3
+  de: werden, er wird, ist geworden
+  fr: devenir
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e9/De-geboren.ogg/De-geboren.ogg.mp3
+  de: geboren
+  fr: né-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: das
+  audio: null
+  de: Model
+  fr: le mannequin
+  level: 1
+  plural_de: die Model
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/De-Ziel.ogg/De-Ziel.ogg.mp3
+  de: Ziel
+  fr: le but, l’objectif, la destination
+  level: 1
+  plural_de: die Ziele
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/62/De-erreichen.ogg/De-erreichen.ogg.mp3
+  de: erreichen, er erreicht, hat erreicht
+  fr: atteindre, parvenir à ses fins
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/De-Erfolg.ogg/De-Erfolg.ogg.mp3
+  de: Erfolg
+  fr: le succès
+  level: 1
+  plural_de: die Erfolge
+  plural_de_end: "-e ≠"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/De-Misserfolg.ogg/De-Misserfolg.ogg.mp3
+  de: Misserfolg
+  fr: l’échec
+  level: 1
+  plural_de: die Misserfolge
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/De-Traum.ogg/De-Traum.ogg.mp3
+  de: Traum
+  fr: le rêve
+  level: 1
+  plural_de: die Träume
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ea/De-mitnehmen.ogg/De-mitnehmen.ogg.mp3
+  de: mitnehmen, er nimmt ... mit, hat mitgenommen
+  fr: prendre qn en voiture
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/78/De-Leben.ogg/De-Leben.ogg.mp3
+  de: Leben
+  fr: la vie
+  level: 1
+  plural_de: die Leben
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: (es) schaffen, er schafft (es), hat (es) geschafft
+  fr: réussir
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/De-ziehen.ogg/De-ziehen.ogg.mp3
+  de: ziehen, er zieht, ist gezogen
+  fr: déménager
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/14/De-Krankheit.ogg/De-Krankheit.ogg.mp3
+  de: Krankheit
+  fr: la maladie
+  level: 2
+  plural_de: die Krankheiten
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/53/De-Karriere.ogg/De-Karriere.ogg.mp3
+  de: Karriere
+  fr: la carrière
+  level: 3
+  plural_de: die Karrieren
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/De-inzwischen.ogg/De-inzwischen.ogg.mp3
+  de: inzwischen
+  fr: entre-temps
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8f/De-Wissenschaft1.ogg/De-Wissenschaft1.ogg.mp3
+  de: Wissenschaft
+  fr: la science
+  level: 3
+  plural_de: die Wissenschaften
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/De-Naturwissenschaft.ogg/De-Naturwissenschaft.ogg.mp3
+  de: Naturwissenschaft
+  fr: les sciences naturelles
+  level: 3
+  plural_de: die Naturwissenschaften
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/De-Körperteile.ogg/De-Körperteile.ogg.mp3
+  de: Körperteile
+  fr: les parties du corps
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/De-Nase.ogg/De-Nase.ogg.mp3
+  de: Nase
+  fr: le nez
+  level: 1
+  plural_de: die Nasen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/17/De-Auge.ogg/De-Auge.ogg.mp3
+  de: Auge
+  fr: l’œil
+  level: 1
+  plural_de: die Augen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/De-Gesicht.ogg/De-Gesicht.ogg.mp3
+  de: Gesicht
+  fr: le visage
+  level: 1
+  plural_de: die Gesichter
+  plural_de_end: "-er"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8b/De-Zahn.ogg/De-Zahn.ogg.mp3
+  de: Zahn
+  fr: la dent
+  level: 1
+  plural_de: die Zähne
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/81/De-Mund.ogg/De-Mund.ogg.mp3
+  de: Mund
+  fr: la bouche
+  level: 1
+  plural_de: null
+  plural_de_end: "¨-er"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/De-Ohr.ogg/De-Ohr.ogg.mp3
+  de: Ohr
+  fr: l’oreille
+  level: 1
+  plural_de: die Ohren
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/De-Haar.ogg/De-Haar.ogg.mp3
+  de: Haar
+  fr: le cheveu, la chevelure
+  level: 1
+  plural_de: null
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/49/De-Bauch.ogg/De-Bauch.ogg.mp3
+  de: Bauch
+  fr: le ventre
+  level: 1
+  plural_de: null
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/51/De-Bein.ogg/De-Bein.ogg.mp3
+  de: Bein
+  fr: la jambe
+  level: 1
+  plural_de: die Beine
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/85/De-Rücken.ogg/De-Rücken.ogg.mp3
+  de: Rücken
+  fr: le dos
+  level: 1
+  plural_de: die Rücken
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/De-Fuß.ogg/De-Fuß.ogg.mp3
+  de: Fuß
+  fr: le pied
+  level: 1
+  plural_de: die Füße
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/51/LL-Q188_(deu)-Sebastian_Wallroth-Arm.wav/LL-Q188_(deu)-Sebastian_Wallroth-Arm.wav.mp3
+  de: Arm
+  fr: le bras
+  level: 1
+  plural_de: die Arme
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/57/De-Kopf.ogg/De-Kopf.ogg.mp3
+  de: Kopf
+  fr: la tête
+  level: 1
+  plural_de: die Köpfe
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/De-Hand.ogg/De-Hand.ogg.mp3
+  de: Hand
+  fr: la main
+  level: 1
+  plural_de: die Hände
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/58/De-balancieren.ogg/De-balancieren.ogg.mp3
+  de: balancieren, er balanciert, hat balanciert
+  fr: tenir en équilibre
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/De-faul.ogg/De-faul.ogg.mp3
+  de: faul
+  fr: paresseux, euse
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ed/De-fleißig.ogg/De-fleißig.ogg.mp3
+  de: fleißig
+  fr: appliqué-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/81/Sv-lustig.ogg/Sv-lustig.ogg.mp3
+  de: lustig
+  fr: amusant-e, drôle, marrant-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/66/De-klug.ogg/De-klug.ogg.mp3
+  de: klug
+  fr: intelligent-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: null
+  de: intelligent
+  fr: intelligent-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/De-Mut2.oga/De-Mut2.oga.mp3
+  de: Mut
+  fr: le courage
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/90/De-schüchtern.ogg/De-schüchtern.ogg.mp3
+  de: schüchtern
+  fr: timide
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/31/De-musikalisch.ogg/De-musikalisch.ogg.mp3
+  de: musikalisch
+  fr: être doué-e pour la musique
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4f/De-chaotisch.ogg/De-chaotisch.ogg.mp3
+  de: chaotisch
+  fr: désordonné-e, chaotique
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/68/De-talentiert.ogg/De-talentiert.ogg.mp3
+  de: talentiert
+  fr: talentueux-euse
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/De-Vertrauen.ogg/De-Vertrauen.ogg.mp3
+  de: Vertrauen
+  fr: la confiance
+  level: 2
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d0/Sv-nervös.ogg/Sv-nervös.ogg.mp3
+  de: nervös
+  fr: nerveux-euse
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: null
+  de: kreativ
+  fr: créatif-ive
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/34/De-neugierig.ogg/De-neugierig.ogg.mp3
+  de: neugierig
+  fr: curieux-euse
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/De-ehrgeizig.ogg/De-ehrgeizig.ogg.mp3
+  de: ehrgeizig
+  fr: ambitieux-euse
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/De-geduldig.ogg/De-geduldig.ogg.mp3
+  de: geduldig
+  fr: patient-e
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj

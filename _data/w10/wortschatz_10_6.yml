@@ -1,0 +1,480 @@
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/De-Buch.ogg/De-Buch.ogg.mp3
+  de: Buch
+  fr: le livre
+  level: 1
+  plural_de: die Bücher
+  plural_de_end: "¨-er"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dc/De-Film.ogg/De-Film.ogg.mp3
+  de: Film
+  fr: le film
+  level: 1
+  plural_de: die Filme
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/De-lesen.ogg/De-lesen.ogg.mp3
+  de: lesen, er liest, hat gelesen
+  fr: lire
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/92/De-frech.ogg/De-frech.ogg.mp3
+  de: frech
+  fr: insolent-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a8/De-interessant.ogg/De-interessant.ogg.mp3
+  de: interessant
+  fr: intéressant-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/De-uninteressant.ogg/De-uninteressant.ogg.mp3
+  de: uninteressant
+  fr: inintéressant-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/De-langweilig.ogg/De-langweilig.ogg.mp3
+  de: langweilig
+  fr: ennuyeux, ennuyeuse
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dd/De-leicht.ogg/De-leicht.ogg.mp3
+  de: leicht
+  fr: facile, simple
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/46/De-sympathisch.ogg/De-sympathisch.ogg.mp3
+  de: sympathisch
+  fr: sympathique
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/89/De-unsympathisch.ogg/De-unsympathisch.ogg.mp3
+  de: unsympathisch
+  fr: antipathique, désagréable
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/De-Comic.ogg/De-Comic.ogg.mp3
+  de: Comic
+  fr: la bande dessinée, BD
+  level: 1
+  plural_de: die Comics
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/De-Krimi.ogg/De-Krimi.ogg.mp3
+  de: Krimi
+  fr: le roman policier/le polar
+  level: 1
+  plural_de: die Krimis
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: der
+  audio: null
+  de: Roman
+  fr: le roman
+  level: 1
+  plural_de: null
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: die Tiergeschichte, -n
+  fr: l’histoire d’animaux
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d3/De-Zeitschrift.ogg/De-Zeitschrift.ogg.mp3
+  de: Zeitschrift
+  fr: le magazine
+  level: 1
+  plural_de: die Zeitschriften
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/00/De-Zeitung.ogg/De-Zeitung.ogg.mp3
+  de: Zeitung
+  fr: le journal
+  level: 1
+  plural_de: die Zeitungen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5f/De-Fahrplan.ogg/De-Fahrplan.ogg.mp3
+  de: Fahrplan
+  fr: l’horaire
+  level: 1
+  plural_de: die Fahrpläne
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/21/De-Nachricht.ogg/De-Nachricht.ogg.mp3
+  de: Nachricht
+  fr: le message, le SMS
+  level: 1
+  plural_de: die Nachrichten
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/19/De-Blog.ogg/De-Blog.ogg.mp3
+  de: Blog
+  fr: le blog
+  level: 1
+  plural_de: die Blogs
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/De-witzig.ogg/De-witzig.ogg.mp3
+  de: witzig
+  fr: amusant-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/91/De-ernst.ogg/De-ernst.ogg.mp3
+  de: ernst
+  fr: sérieux, -ieuse
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/De-spannend.ogg/De-spannend.ogg.mp3
+  de: spannend
+  fr: passionnant-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4f/Sv-modern.ogg/Sv-modern.ogg.mp3
+  de: modern
+  fr: moderne
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d4/De-aktuell.ogg/De-aktuell.ogg.mp3
+  de: aktuell
+  fr: actuel-le, à la mode
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/20/De-romantisch.ogg/De-romantisch.ogg.mp3
+  de: romantisch
+  fr: romantique
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8d/De-unromantisch.ogg/De-unromantisch.ogg.mp3
+  de: unromantisch
+  fr: pas romantique
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/De-fantasievoll.ogg/De-fantasievoll.ogg.mp3
+  de: fantasievoll
+  fr: plein de fantaisie
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/da/De-Hauptfigur.ogg/De-Hauptfigur.ogg.mp3
+  de: Hauptfigur
+  fr: le personnage principal, le héros, l’héroïne
+  level: 1
+  plural_de: die Hauptfiguren
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bf/De-Liebesroman.ogg/De-Liebesroman.ogg.mp3
+  de: Liebesroman
+  fr: le roman d’amour
+  level: 2
+  plural_de: die Liebesromane
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/68/De-Abenteuerroman.ogg/De-Abenteuerroman.ogg.mp3
+  de: Abenteuerroman
+  fr: le roman d’aventure
+  level: 2
+  plural_de: die Abenteuerromane
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/15/De-Biografie.ogg/De-Biografie.ogg.mp3
+  de: Biografie
+  fr: la biographie
+  level: 2
+  plural_de: die Biografien
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/De-Märchen.ogg/De-Märchen.ogg.mp3
+  de: Märchen
+  fr: le conte
+  level: 2
+  plural_de: die Märchen
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b0/De-Fantasy.ogg/De-Fantasy.ogg.mp3
+  de: Fantasy
+  fr: le fantastique
+  level: 2
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c2/De-Gedicht.ogg/De-Gedicht.ogg.mp3
+  de: Gedicht
+  fr: le poème
+  level: 2
+  plural_de: die Gedichte
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8b/De-Schulbuch.ogg/De-Schulbuch.ogg.mp3
+  de: Schulbuch
+  fr: le livre scolaire
+  level: 2
+  plural_de: die Schulbücher
+  plural_de_end: "¨-er"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2d/De-Horoskop.ogg/De-Horoskop.ogg.mp3
+  de: Horoskop
+  fr: l’horoscope
+  level: 2
+  plural_de: die Horoskope
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/eb/De-Speiseplan.ogg/De-Speiseplan.ogg.mp3
+  de: Speiseplan
+  fr: le menu
+  level: 2
+  plural_de: die Speisepläne
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2e/De-historisch.ogg/De-historisch.ogg.mp3
+  de: historisch
+  fr: historique
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/05/De-real.ogg/De-real.ogg.mp3
+  de: real
+  fr: réel
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/48/De-kritisch.ogg/De-kritisch.ogg.mp3
+  de: kritisch
+  fr: critique
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/80/De-verliebt.ogg/De-verliebt.ogg.mp3
+  de: verliebt
+  fr: amoureux-euse
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/87/De-Sessel.ogg/De-Sessel.ogg.mp3
+  de: Sessel
+  fr: le fauteuil
+  level: 1
+  plural_de: die Sessel
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1a/De-Sofa.ogg/De-Sofa.ogg.mp3
+  de: Sofa
+  fr: le canapé
+  level: 1
+  plural_de: die Sofas
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2f/De-gemütlich.ogg/De-gemütlich.ogg.mp3
+  de: gemütlich
+  fr: confortable, agréable
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0f/De-kuschelig.ogg/De-kuschelig.ogg.mp3
+  de: kuschelig
+  fr: douillet-te
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2e/De-Bettdecke.ogg/De-Bettdecke.ogg.mp3
+  de: Bettdecke
+  fr: la couverture
+  level: 3
+  plural_de: die Bettdecken
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/63/De-Wartezimmer.ogg/De-Wartezimmer.ogg.mp3
+  de: Wartezimmer
+  fr: la salle d’attente (chez le médecin)
+  level: 3
+  plural_de: die Wartezimmer
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6e/De-plötzlich.ogg/De-plötzlich.ogg.mp3
+  de: plötzlich
+  fr: tout à coup
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6e/De-entdecken.ogg/De-entdecken.ogg.mp3
+  de: entdecken, er entdeckt, hat entdeckt
+  fr: découvrir, dénicher
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f8/De-schließen.ogg/De-schließen.ogg.mp3
+  de: schließen, er schliesst, hat geschlossen
+  fr: fermer
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/de/De-Schlüssel.ogg/De-Schlüssel.ogg.mp3
+  de: Schlüssel
+  fr: la clé
+  level: 2
+  plural_de: die Schlüssel
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cb/De-vorgestern.ogg/De-vorgestern.ogg.mp3
+  de: vorgestern
+  fr: avant-hier
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/De-vertraulich.ogg/De-vertraulich.ogg.mp3
+  de: vertraulich
+  fr: confidentiel(lement)
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/De-Verhalten.ogg/De-Verhalten.ogg.mp3
+  de: Verhalten
+  fr: le comportement
+  level: 3
+  plural_de: die Verhalten
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6b/De-Aufsicht.ogg/De-Aufsicht.ogg.mp3
+  de: Aufsicht
+  fr: le surveillant, la surveillante
+  level: 3
+  plural_de: die Aufsichten
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6c/De-Fall.ogg/De-Fall.ogg.mp3
+  de: Fall
+  fr: le cas
+  level: 3
+  plural_de: die Fallen
+  plural_de_end: "“-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/00/De-verdächtig.ogg/De-verdächtig.ogg.mp3
+  de: verdächtig
+  fr: suspect-e
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/de/De-Verdacht.ogg/De-Verdacht.ogg.mp3
+  de: Verdacht
+  fr: le soupçon
+  level: 3
+  plural_de: die Verdachte
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3b/De-klauen.ogg/De-klauen.ogg.mp3
+  de: klauen, er klaut, hat geklaut
+  fr: piquer, chiper
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/94/De-komisch.ogg/De-komisch.ogg.mp3
+  de: komisch
+  fr: étrange, bizarre
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj

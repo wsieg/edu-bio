@@ -1,0 +1,600 @@
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/De-Sportarten.ogg/De-Sportarten.ogg.mp3
+  de: Sportarten
+  fr: les disciplines sportives
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c5/De-joggen.ogg/De-joggen.ogg.mp3
+  de: joggen, er joggt, ist gejoggt
+  fr: faire du jogging
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/58/De-laufen.ogg/De-laufen.ogg.mp3
+  de: laufen, er läuft, ist gelaufen
+  fr: courir
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/56/De-klettern.ogg/De-klettern.ogg.mp3
+  de: klettern, er klettert, ist geklettert
+  fr: faire de l’escalade
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f3/De-trainieren.ogg/De-trainieren.ogg.mp3
+  de: trainieren, er trainiert, hat trainiert
+  fr: s’entrainer
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/De-segeln.ogg/De-segeln.ogg.mp3
+  de: segeln, er segelt, ist gesegelt
+  fr: faire de la voile
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4b/De-Boxen.ogg/De-Boxen.ogg.mp3
+  de: boxen
+  fr: boxer
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7e/De-Einrad.ogg/De-Einrad.ogg.mp3
+  de: Einrad
+  fr: le monocycle
+  level: 3
+  plural_de: die Einräder
+  plural_de_end: "¨-er"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/73/De-Ballett.ogg/De-Ballett.ogg.mp3
+  de: Ballett
+  fr: le ballet, la danse
+  level: 3
+  plural_de: die Ballette
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/De-ausprobieren.ogg/De-ausprobieren.ogg.mp3
+  de: ausprobieren, er probiert...aus, hat ausprobiert
+  fr: tester, essayer
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9e/De-Turnier.ogg/De-Turnier.ogg.mp3
+  de: Turnier
+  fr: le tournoi
+  level: 3
+  plural_de: die Turniere
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/De-Sportplatz.ogg/De-Sportplatz.ogg.mp3
+  de: Sportplatz
+  fr: le terrain de sport
+  level: 1
+  plural_de: die Sportplätze
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e0/De-draußen.ogg/De-draußen.ogg.mp3
+  de: draußen
+  fr: dehors
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/De-drinnen.ogg/De-drinnen.ogg.mp3
+  de: drinnen
+  fr: dedans
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: die
+  audio: null
+  de: Halle
+  fr: la salle (de sport)
+  level: 1
+  plural_de: null
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f6/De-Verein.ogg/De-Verein.ogg.mp3
+  de: Verein
+  fr: le club, l’association
+  level: 2
+  plural_de: die Vereine
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1a/De-Skipiste.ogg/De-Skipiste.ogg.mp3
+  de: Skipiste
+  fr: la piste de ski
+  level: 2
+  plural_de: die Skipisten
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b0/De-Sand.ogg/De-Sand.ogg.mp3
+  de: Sand
+  fr: le sable
+  level: 2
+  plural_de: die Sande
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: der
+  audio: null
+  de: Ball
+  fr: le ballon, la balle
+  level: 1
+  plural_de: null
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/De-Turnschuhe.ogg/De-Turnschuhe.ogg.mp3
+  de: Turnschuhe
+  fr: les chaussures de sport
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/da/De-T-Shirt.ogg/De-T-Shirt.ogg.mp3
+  de: T-Shirt
+  fr: le t-shirt
+  level: 1
+  plural_de: die T-Shirts
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/De-Schläger.ogg/De-Schläger.ogg.mp3
+  de: Schläger
+  fr: la crosse / la raquette
+  level: 2
+  plural_de: die Schläger
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1e/De-Netz.ogg/De-Netz.ogg.mp3
+  de: Netz
+  fr: la filet
+  level: 2
+  plural_de: die Netze
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/De-Fußballschuhe.ogg/De-Fußballschuhe.ogg.mp3
+  de: Fußballschuhe
+  fr: les chaussures de football
+  level: 2
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2d/De-Trikot.ogg/De-Trikot.ogg.mp3
+  de: Trikot
+  fr: le maillot
+  level: 2
+  plural_de: die Trikots
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4d/De-Helm.ogg/De-Helm.ogg.mp3
+  de: Helm
+  fr: le casque
+  level: 2
+  plural_de: die Helme
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f5/De-Stoppuhr.ogg/De-Stoppuhr.ogg.mp3
+  de: Stoppuhr
+  fr: le chronomètre
+  level: 3
+  plural_de: die Stoppuhren
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/De-Kleidung.ogg/De-Kleidung.ogg.mp3
+  de: Kleidung
+  fr: les habits, les vêtements
+  level: 3
+  plural_de: die Kleidungen
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/47/De-allein.ogg/De-allein.ogg.mp3
+  de: allein
+  fr: seul-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: conj
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f9/De-Team.ogg/De-Team.ogg.mp3
+  de: Team
+  fr: l’équipe
+  level: 1
+  plural_de: die Teams
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/81/De-Spieler.ogg/De-Spieler.ogg.mp3
+  de: Spieler
+  fr: le joueur
+  level: 1
+  plural_de: die Spieler
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/De-Spielerin.ogg/De-Spielerin.ogg.mp3
+  de: Spielerin
+  fr: la joueuse
+  level: 1
+  plural_de: die Spielerinnen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/De-Mannschaft.ogg/De-Mannschaft.ogg.mp3
+  de: Mannschaft
+  fr: l’équipe
+  level: 2
+  plural_de: die Mannschaften
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/52/De-mitspielen.ogg/De-mitspielen.ogg.mp3
+  de: mitspielen, er spielt... mit, hat mitgespielt
+  fr: jouer (avec)
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bf/De-regelmäßig.ogg/De-regelmäßig.ogg.mp3
+  de: regelmäßig
+  fr: régulièrement
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: null
+  de: fit sein, er ist fit, ist fit gewesen
+  fr: être en forme
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3a/De-einfach.ogg/De-einfach.ogg.mp3
+  de: einfach
+  fr: facile
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/De-schwierig.ogg/De-schwierig.ogg.mp3
+  de: schwierig
+  fr: difficile
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/37/De-gefährlich.ogg/De-gefährlich.ogg.mp3
+  de: gefährlich
+  fr: dangereux
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/De-ungefährlich.ogg/De-ungefährlich.ogg.mp3
+  de: ungefährlich
+  fr: pas dangereux
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/23/De-schnell.ogg/De-schnell.ogg.mp3
+  de: schnell
+  fr: rapide/vite
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/71/De-langsam.ogg/De-langsam.ogg.mp3
+  de: langsam
+  fr: lent/lentement
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c8/Sv-billig.ogg/Sv-billig.ogg.mp3
+  de: billig
+  fr: bon marché
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/De-teuer.ogg/De-teuer.ogg.mp3
+  de: teuer
+  fr: cher
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b7/Sv-stark.ogg/Sv-stark.ogg.mp3
+  de: stark
+  fr: fort
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2b/De-schwach.ogg/De-schwach.ogg.mp3
+  de: schwach
+  fr: faible
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a0/De-wichtig.ogg/De-wichtig.ogg.mp3
+  de: wichtig
+  fr: important
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1a/De-unwichtig.wav/De-unwichtig.wav.mp3
+  de: unwichtig
+  fr: pas important
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/De-gesund.ogg/De-gesund.ogg.mp3
+  de: gesund
+  fr: sain
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/De-ungesund.ogg/De-ungesund.ogg.mp3
+  de: ungesund
+  fr: malsain
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/14/De-Gesundheit3.ogg/De-Gesundheit3.ogg.mp3
+  de: die Gesundheit
+  fr: la santé
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: intj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d3/De-Bewegung.ogg/De-Bewegung.ogg.mp3
+  de: Bewegung
+  fr: l’exercice, le mouvement,
+  level: 3
+  plural_de: die Bewegungen
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a6/De-abschalten.ogg/De-abschalten.ogg.mp3
+  de: abschalten, er schaltet ... ab, hat abgeschaltet
+  fr: se détendre, se changer les idées
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2b/De-anstrengend.ogg/De-anstrengend.ogg.mp3
+  de: anstrengend
+  fr: fatigant
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/De-gewinnen.ogg/De-gewinnen.ogg.mp3
+  de: gewinnen, er gewinnt, hat gewonnen
+  fr: gagner
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/De-verlieren.ogg/De-verlieren.ogg.mp3
+  de: verlieren, er verliert, hat verloren
+  fr: perdre
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/Cs-hoch.ogg/Cs-hoch.ogg.mp3
+  de: hoch
+  fr: haut
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b7/De-weit.ogg/De-weit.ogg.mp3
+  de: weit
+  fr: long
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: null
+  de: alt
+  fr: vieux
+  level: 1
+  plural_de: alty
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/De-jung.ogg/De-jung.ogg.mp3
+  de: jung
+  fr: jeune
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: null
+  de: nah
+  fr: proche
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b7/De-weit.ogg/De-weit.ogg.mp3
+  de: weit
+  fr: loin
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ea/En-us-inlandnorth-gut.ogg/En-us-inlandnorth-gut.ogg.mp3
+  de: gut
+  fr: bon/bien
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fb/De-besser.ogg/De-besser.ogg.mp3
+  de: besser
+  fr: mieux
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: null
+  de: am besten
+  fr: (le) meilleur
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/De-viel.ogg/De-viel.ogg.mp3
+  de: viel
+  fr: beaucoup
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/De-mehr.ogg/De-mehr.ogg.mp3
+  de: mehr
+  fr: plus
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: null
+  de: am meisten
+  fr: le plus
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/53/De-gern.ogg/De-gern.ogg.mp3
+  de: gern
+  fr: volontiers
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/de/De-lieber.ogg/De-lieber.ogg.mp3
+  de: lieber
+  fr: plutôt
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: null
+  de: am liebsten
+  fr: aimer le plus..., préférer...
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: ''
+  audio: null
+  de: als
+  fr: que
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/96/De-Weltrekord.ogg/De-Weltrekord.ogg.mp3
+  de: Weltrekord
+  fr: le record du monde
+  level: 3
+  plural_de: die Weltrekorde
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/29/De-Sieg.ogg/De-Sieg.ogg.mp3
+  de: Sieg
+  fr: la victoire
+  level: 3
+  plural_de: null
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d0/De-Rennen.ogg/De-Rennen.ogg.mp3
+  de: Rennen
+  fr: la course
+  level: 3
+  plural_de: die Rennen
+  plural_de_end: "-"
+  wortart: noun

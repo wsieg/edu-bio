@@ -1,0 +1,432 @@
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a8/De-interessant.ogg/De-interessant.ogg.mp3
+  de: interessant
+  fr: intéressant-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/De-langweilig.ogg/De-langweilig.ogg.mp3
+  de: langweilig
+  fr: ennuyeux-euse
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/81/Sv-lustig.ogg/Sv-lustig.ogg.mp3
+  de: lustig
+  fr: drôle, amusant-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/De-traurig.ogg/De-traurig.ogg.mp3
+  de: traurig
+  fr: triste
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/94/De-froh.ogg/De-froh.ogg.mp3
+  de: froh
+  fr: content-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: null
+  de: sauer
+  fr: fâché-e (acide)
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/14/De-wütend.ogg/De-wütend.ogg.mp3
+  de: wütend
+  fr: furieux/furieuse
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c1/De-nerven.ogg/De-nerven.ogg.mp3
+  de: nerven, er nervt, hat genervt
+  fr: énerver, agacer
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/10/De-streng.ogg/De-streng.ogg.mp3
+  de: streng
+  fr: strict(ement), sévère(ment)
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/28/De-süß.ogg/De-süß.ogg.mp3
+  de: süß
+  fr: mignon/mignonne (sucré-e, doux/douce)
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5e/De-ängstlich.ogg/De-ängstlich.ogg.mp3
+  de: ängstlich
+  fr: anxieux/anxieuse, avoir peur
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/20/De-romantisch.ogg/De-romantisch.ogg.mp3
+  de: romantisch
+  fr: romantique
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8d/De-unromantisch.ogg/De-unromantisch.ogg.mp3
+  de: unromantisch
+  fr: pas romantique
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/35/De-ruhig.ogg/De-ruhig.ogg.mp3
+  de: ruhig
+  fr: tranquille
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b6/De-genervt.ogg/De-genervt.ogg.mp3
+  de: genervt
+  fr: énervé-e, agacé-e
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/ff/De-enttäuscht.ogg/De-enttäuscht.ogg.mp3
+  de: enttäuscht
+  fr: déçu-e
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/aa/De-nervig.ogg/De-nervig.ogg.mp3
+  de: nervig
+  fr: énervant-e, tuant-e
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/De-Stimmung.ogg/De-Stimmung.ogg.mp3
+  de: Stimmung
+  fr: l’atmosphère, l’ambiance
+  level: 3
+  plural_de: die Stimmungen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ef/De-freuen.ogg/De-freuen.ogg.mp3
+  de: sich freuen, er freut sich, hat sich gefreut
+  fr: se réjouir
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a0/Nl-reden.ogg/Nl-reden.ogg.mp3
+  de: reden
+  fr: parler, causer
+  level: 1
+  plural_de: null
+  plural_de_end: "er redet"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/52/De-lieben.ogg/De-lieben.ogg.mp3
+  de: lieben, er liebt, hat geliebt
+  fr: aimer
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/Nl-lachen.ogg/Nl-lachen.ogg.mp3
+  de: lachen, er lacht, hat gelacht
+  fr: rire
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e0/De-ärgern.ogg/De-ärgern.ogg.mp3
+  de: sich ärgern, er ärgert sich, hat sich geärgert
+  fr: s’énerver, se fâcher
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/17/De-Ärger.ogg/De-Ärger.ogg.mp3
+  de: Ärger
+  fr: les ennuis
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/De-weinen.ogg/De-weinen.ogg.mp3
+  de: weinen, er weint, hat geweint
+  fr: pleurer
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/56/De-aufregen.ogg/De-aufregen.ogg.mp3
+  de: sich aufregen, er regt sich ... auf, hat sich aufgeregt
+  fr: s’énerver
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/64/De-Streit.ogg/De-Streit.ogg.mp3
+  de: Streit
+  fr: la dispute
+  level: 2
+  plural_de: die Streite
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/78/De-streiten.ogg/De-streiten.ogg.mp3
+  de: sich streiten, er streitet sich, hat sich gestritten
+  fr: se disputer
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/52/De-aufhören.ogg/De-aufhören.ogg.mp3
+  de: aufhören, er hört ... auf, hat aufgehört
+  fr: arrêter
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8f/De-entschuldigen.ogg/De-entschuldigen.ogg.mp3
+  de: sich entschuldigen, er entschuldigt sich, hat sich entschuldigt
+  fr: s’excuser
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2e/De-einverstanden.ogg/De-einverstanden.ogg.mp3
+  de: einverstanden
+  fr: d’accord
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/89/De-abschreiben.ogg/De-abschreiben.ogg.mp3
+  de: abschreiben, er schreibt ... ab, hat abgeschrieben
+  fr: copier
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/91/De-Note.ogg/De-Note.ogg.mp3
+  de: Note
+  fr: la note
+  level: 2
+  plural_de: die Noten
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/De-bekommen.ogg/De-bekommen.ogg.mp3
+  de: bekommen, er bekommt, hat bekommen
+  fr: recevoir, avoir
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8c/De-wohlfühlen.ogg/De-wohlfühlen.ogg.mp3
+  de: sich wohlfühlen, er fühlt sich ... wohl, hat sich wohlgefühlt
+  fr: se sentir bien, à l’aise
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ef/De-erinnern_01_(fcm).ogg/De-erinnern_01_(fcm).ogg.mp3
+  de: sich erinnern, er erinnert sich, hat sich erinnert
+  fr: se rappeler, se souvenir
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/De-Wahrheit.ogg/De-Wahrheit.ogg.mp3
+  de: Wahrheit
+  fr: la vérité
+  level: 3
+  plural_de: die Wahrheiten
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/40/De-Quatsch.ogg/De-Quatsch.ogg.mp3
+  de: Quatsch
+  fr: les âneries/bêtises
+  level: 3
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a1/De-widersprechen.ogg/De-widersprechen.ogg.mp3
+  de: widersprechen, er widerspricht, hat widersprochen
+  fr: contredire
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/De-ordentlich.ogg/De-ordentlich.ogg.mp3
+  de: ordentlich
+  fr: ordonné, -e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/De-unordentlich.ogg/De-unordentlich.ogg.mp3
+  de: unordentlich
+  fr: désordonné,-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/48/De-leise.ogg/De-leise.ogg.mp3
+  de: leise
+  fr: à voix basse
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/72/LL-Q9240_(ind)-Xbypass-laut.wav/LL-Q9240_(ind)-Xbypass-laut.wav.mp3
+  de: laut
+  fr: à voix haute, fort, bruyant-e
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/De-aufräumen.ogg/De-aufräumen.ogg.mp3
+  de: aufräumen, er räumt ... auf, hat aufgeräumt
+  fr: ranger
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8d/De-anrufen.ogg/De-anrufen.ogg.mp3
+  de: anrufen, er ruft ... an, hat angerufen
+  fr: appeler (au téléphone)
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/51/De-Entschuldigung.ogg/De-Entschuldigung.ogg.mp3
+  de: Entschuldigung
+  fr: Pardon
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: intj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/47/En-us-sorry.ogg/En-us-sorry.ogg.mp3
+  de: sorry
+  fr: Pardon
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/De-Ruhe.ogg/De-Ruhe.ogg.mp3
+  de: Ruhe
+  fr: la tranquillité
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fb/De-sollen.ogg/De-sollen.ogg.mp3
+  de: sollen, er soll
+  fr: devoir
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/50/De-wenig.ogg/De-wenig.ogg.mp3
+  de: wenig
+  fr: peu
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/De-viel.ogg/De-viel.ogg.mp3
+  de: viel
+  fr: beaucoup (de)
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0a/De-vergessen.ogg/De-vergessen.ogg.mp3
+  de: vergessen, er vergisst, hat vergessen
+  fr: oublier
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e5/De-besuchen.ogg/De-besuchen.ogg.mp3
+  de: besuchen, er besucht, hat besucht
+  fr: visiter, rendre visite
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/51/De-Entschuldigung.ogg/De-Entschuldigung.ogg.mp3
+  de: die Entschuldigung, -en
+  fr: l’excuse
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: intj

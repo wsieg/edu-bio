@@ -1,0 +1,600 @@
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/De-Fleisch.ogg/De-Fleisch.ogg.mp3
+  de: Fleisch
+  fr: la viande
+  level: 1
+  plural_de: null
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/93/De-Fisch.ogg/De-Fisch.ogg.mp3
+  de: Fisch
+  fr: le poisson
+  level: 1
+  plural_de: null
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/De-Nudeln.ogg/De-Nudeln.ogg.mp3
+  de: Nudeln
+  fr: les nouilles, les pâtes
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/47/De-Brot.ogg/De-Brot.ogg.mp3
+  de: Brot
+  fr: le pain
+  level: 1
+  plural_de: die Brote
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/da/De-Brötchen.ogg/De-Brötchen.ogg.mp3
+  de: Brötchen
+  fr: le petit pain
+  level: 1
+  plural_de: die Brötchen
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/57/De-Apfel.ogg/De-Apfel.ogg.mp3
+  de: Apfel
+  fr: la pomme
+  level: 1
+  plural_de: null
+  plural_de_end: "¨-"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/48/De-Tomate.ogg/De-Tomate.ogg.mp3
+  de: Tomate
+  fr: la tomate
+  level: 1
+  plural_de: die Tomaten
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/De-Karotte.ogg/De-Karotte.ogg.mp3
+  de: Karotte
+  fr: la carotte
+  level: 1
+  plural_de: die Karotten
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d8/De-Kartoffel.ogg/De-Kartoffel.ogg.mp3
+  de: Kartoffel
+  fr: la pomme de terre
+  level: 1
+  plural_de: die Kartoffeln
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/52/De-Käse.ogg/De-Käse.ogg.mp3
+  de: Käse
+  fr: le fromage
+  level: 1
+  plural_de: die Käse
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/80/De-Joghurt.ogg/De-Joghurt.ogg.mp3
+  de: Joghurt
+  fr: le yogourt
+  level: 1
+  plural_de: die Joghurts
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/De-Milch.ogg/De-Milch.ogg.mp3
+  de: Milch
+  fr: le lait
+  level: 1
+  plural_de: die Milche
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fa/De-Butter.ogg/De-Butter.ogg.mp3
+  de: Butter
+  fr: la beurre
+  level: 1
+  plural_de: die Butters
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f2/De-Mineralwasser.ogg/De-Mineralwasser.ogg.mp3
+  de: Mineralwasser
+  fr: l’eau (minérale)
+  level: 1
+  plural_de: die Mineralwasser
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/De-Orangensaft2.ogg/De-Orangensaft2.ogg.mp3
+  de: Orangensaft
+  fr: le jus d’orange
+  level: 1
+  plural_de: die Orangensäfte
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f4/De-Apfelsaft.ogg/De-Apfelsaft.ogg.mp3
+  de: Apfelsaft
+  fr: le jus de pomme
+  level: 1
+  plural_de: die Apfelsäfte
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bd/De-Limonade.ogg/De-Limonade.ogg.mp3
+  de: Limonade
+  fr: la limonade
+  level: 1
+  plural_de: die Limonaden
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5a/De-Schokolade.ogg/De-Schokolade.ogg.mp3
+  de: Schokolade
+  fr: le chocolat
+  level: 1
+  plural_de: die Schokoladen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: null
+  de: Reis
+  fr: le riz
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f5/De-Wurst.ogg/De-Wurst.ogg.mp3
+  de: Wurst
+  fr: le saucisson, la saucisse
+  level: 1
+  plural_de: die Würste
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d5/De-Schinken.ogg/De-Schinken.ogg.mp3
+  de: Schinken
+  fr: le jambon
+  level: 1
+  plural_de: die Schinken
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2c/De-Birne.ogg/De-Birne.ogg.mp3
+  de: Birne
+  fr: la poire
+  level: 1
+  plural_de: die Birnen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/04/De-Trauben.ogg/De-Trauben.ogg.mp3
+  de: Trauben
+  fr: le raisin
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d4/De-Früchte.ogg/De-Früchte.ogg.mp3
+  de: Früchte
+  fr: les fruits
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ad/De-Obst.ogg/De-Obst.ogg.mp3
+  de: Obst
+  fr: les fruits
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f6/De-Gemüse.ogg/De-Gemüse.ogg.mp3
+  de: Gemüse
+  fr: les légumes
+  level: 1
+  plural_de: die Gemüse
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ad/De-Salz.ogg/De-Salz.ogg.mp3
+  de: Salz
+  fr: le sel
+  level: 1
+  plural_de: die Salze
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/63/De-Pfeffer.ogg/De-Pfeffer.ogg.mp3
+  de: Pfeffer
+  fr: le poivre
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/De-Mehl.ogg/De-Mehl.ogg.mp3
+  de: Mehl
+  fr: la farine
+  level: 1
+  plural_de: die Mehle
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c6/De-Zucker.ogg/De-Zucker.ogg.mp3
+  de: Zucker
+  fr: le sucre
+  level: 1
+  plural_de: die Zucker
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f1/De-Fett.ogg/De-Fett.ogg.mp3
+  de: Fett
+  fr: la graisse
+  level: 1
+  plural_de: die Fette
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dd/De-Öl.ogg/De-Öl.ogg.mp3
+  de: Öl
+  fr: l’huile
+  level: 1
+  plural_de: die Öle
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/34/De-Ei.ogg/De-Ei.ogg.mp3
+  de: Ei
+  fr: l’œuf
+  level: 1
+  plural_de: die Eier
+  plural_de_end: "-er"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0e/De-frisch.ogg/De-frisch.ogg.mp3
+  de: frisch
+  fr: frais
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/De-Süßigkeiten.ogg/De-Süßigkeiten.ogg.mp3
+  de: Süßigkeiten
+  fr: les sucreries
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/12/De-Melone.ogg/De-Melone.ogg.mp3
+  de: Melone
+  fr: le melon
+  level: 2
+  plural_de: die Melonen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d3/De-Paprika.ogg/De-Paprika.ogg.mp3
+  de: Paprika
+  fr: le piment, le poivron
+  level: 2
+  plural_de: die Paprika
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/De-Gurke.ogg/De-Gurke.ogg.mp3
+  de: Gurke
+  fr: le concombre
+  level: 2
+  plural_de: die Gurken
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/De-Keks.ogg/De-Keks.ogg.mp3
+  de: Keks
+  fr: le biscuit
+  level: 2
+  plural_de: die Kekse
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: null
+  de: Olive
+  fr: l’olive
+  level: 3
+  plural_de: null
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/62/De-Nuss.ogg/De-Nuss.ogg.mp3
+  de: Nuss
+  fr: la noisette, la noix
+  level: 3
+  plural_de: die Nüsse
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/De-Erdbeere.ogg/De-Erdbeere.ogg.mp3
+  de: Erdbeere
+  fr: la fraise
+  level: 3
+  plural_de: die Erdbeeren
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/28/De-süß.ogg/De-süß.ogg.mp3
+  de: süß
+  fr: sucré-e – doux, douce
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fb/De-salzig.ogg/De-salzig.ogg.mp3
+  de: salzig
+  fr: salé-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: null
+  de: sauer
+  fr: acide/aigre
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/De-scharf.ogg/De-scharf.ogg.mp3
+  de: scharf
+  fr: piquant-e, fort-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f3/Sv-fett.ogg/Sv-fett.ogg.mp3
+  de: fett
+  fr: gras-se
+  level: 1
+  plural_de: fettet
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/De-probieren.ogg/De-probieren.ogg.mp3
+  de: probieren, er probiert, hat probiert
+  fr: goûter, essayer
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/53/De-Vegetarier.ogg/De-Vegetarier.ogg.mp3
+  de: Vegetarier
+  fr: le végétarien
+  level: 2
+  plural_de: die Vegetarier
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fb/De-Vegetarierin.ogg/De-Vegetarierin.ogg.mp3
+  de: Vegetarierin
+  fr: la végétarienne
+  level: 2
+  plural_de: die Vegetarierinnen
+  plural_de_end: "-nen"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/27/De-Ernährung.ogg/De-Ernährung.ogg.mp3
+  de: Ernährung
+  fr: l'alimentation
+  level: 1
+  plural_de: die Ernährungen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/De-gesund.ogg/De-gesund.ogg.mp3
+  de: gesund
+  fr: sain
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/De-ungesund.ogg/De-ungesund.ogg.mp3
+  de: ungesund
+  fr: malsain
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/De-Stück.ogg/De-Stück.ogg.mp3
+  de: Stück
+  fr: le morceau / la tranche
+  level: 1
+  plural_de: die Stücke
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/De-Portion.ogg/De-Portion.ogg.mp3
+  de: Portion
+  fr: la portion
+  level: 1
+  plural_de: die Portionen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/De-Gericht.ogg/De-Gericht.ogg.mp3
+  de: Gericht
+  fr: le plat
+  level: 2
+  plural_de: die Gerichte
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/De-Kalorie.ogg/De-Kalorie.ogg.mp3
+  de: Kalorie
+  fr: la calorie
+  level: 3
+  plural_de: die Kalorien
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/De-Vitamin.ogg/De-Vitamin.ogg.mp3
+  de: Vitamin
+  fr: la vitamine
+  level: 3
+  plural_de: die Vitamine
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0a/De-vitaminreich.ogg/De-vitaminreich.ogg.mp3
+  de: vitaminreich
+  fr: riche en vitamines
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/31/De-Abwechslung.ogg/De-Abwechslung.ogg.mp3
+  de: Abwechslung
+  fr: le changement, la variété
+  level: 3
+  plural_de: die Abwechslungen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/92/De-Kilogramm.ogg/De-Kilogramm.ogg.mp3
+  de: Kilogramm
+  fr: le kilo(gramme)
+  level: 1
+  plural_de: die Kilogramme
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f0/De-Gramm.ogg/De-Gramm.ogg.mp3
+  de: Gramm
+  fr: le gramme
+  level: 1
+  plural_de: die Gramme
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a6/De-Liter.ogg/De-Liter.ogg.mp3
+  de: Liter
+  fr: le litre
+  level: 1
+  plural_de: die Liter
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: backen
+  fr: faire un/des gâteau(x)
+  level: 1
+  plural_de: null
+  plural_de_end: "er backt"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/94/De-braten.ogg/De-braten.ogg.mp3
+  de: braten, er brät, hat gebraten
+  fr: rôtir
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b5/De-kochen.ogg/De-kochen.ogg.mp3
+  de: kochen, er kocht, hat gekocht
+  fr: cuisiner, cuire
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/De-fertig.ogg/De-fertig.ogg.mp3
+  de: fertig
+  fr: prêt-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/De-mischen.ogg/De-mischen.ogg.mp3
+  de: mischen, er mischt, hat gemischt
+  fr: mélanger
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f3/De-dazugeben.ogg/De-dazugeben.ogg.mp3
+  de: dazugeben, er gibt ... dazu, hat dazugegeben
+  fr: ajouter
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8f/De-umdrehen.ogg/De-umdrehen.ogg.mp3
+  de: umdrehen, er dreht ... um, hat umgedreht
+  fr: tourner
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e1/De-heiß.ogg/De-heiß.ogg.mp3
+  de: heiß
+  fr: très chaud, bouillant
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: null
+  de: kalt
+  fr: froid
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/47/De-Zutat.ogg/De-Zutat.ogg.mp3
+  de: Zutat
+  fr: l’ingrédient
+  level: 2
+  plural_de: die Zutaten
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/64/De-Teig.ogg/De-Teig.ogg.mp3
+  de: Teig
+  fr: la pâte
+  level: 3
+  plural_de: die Teige
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c2/De-Prise.ogg/De-Prise.ogg.mp3
+  de: Prise
+  fr: la pincée
+  level: 3
+  plural_de: die Prisen
+  plural_de_end: ""
+  wortart: noun

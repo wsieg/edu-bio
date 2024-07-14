@@ -1,0 +1,568 @@
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/De-Mütze.ogg/De-Mütze.ogg.mp3
+  de: Mütze
+  fr: la casquette, le bonnet
+  level: 1
+  plural_de: die Mützen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b9/De-Jacke.ogg/De-Jacke.ogg.mp3
+  de: Jacke
+  fr: la veste
+  level: 1
+  plural_de: die Jacken
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/ff/De-Schal.ogg/De-Schal.ogg.mp3
+  de: Schal
+  fr: le foulard, l’écharpe
+  level: 1
+  plural_de: die Schals
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f9/De-Pullover.ogg/De-Pullover.ogg.mp3
+  de: Pullover
+  fr: le pullover
+  level: 1
+  plural_de: die Pullover
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/De-Tasche.ogg/De-Tasche.ogg.mp3
+  de: Tasche
+  fr: le sac
+  level: 1
+  plural_de: die Taschen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f5/De-Brille.ogg/De-Brille.ogg.mp3
+  de: Brille
+  fr: les lunettes
+  level: 1
+  plural_de: die Brillen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6b/De-anziehen.ogg/De-anziehen.ogg.mp3
+  de: anziehen, er zieht ... an, hat ... angezogen
+  fr: mettre
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/60/De-Hose.ogg/De-Hose.ogg.mp3
+  de: Hose
+  fr: le pantalon
+  level: 1
+  plural_de: die Hosen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/df/De-Rock.ogg/De-Rock.ogg.mp3
+  de: Rock
+  fr: la jupe
+  level: 1
+  plural_de: null
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ad/De-Kleid.ogg/De-Kleid.ogg.mp3
+  de: Kleid
+  fr: la robe
+  level: 1
+  plural_de: die Kleider
+  plural_de_end: "-er"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/25/De-Bluse.ogg/De-Bluse.ogg.mp3
+  de: Bluse
+  fr: la blouse, le chemisier
+  level: 1
+  plural_de: die Blusen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/De-Hemd.ogg/De-Hemd.ogg.mp3
+  de: Hemd
+  fr: la chemise
+  level: 1
+  plural_de: die Hemden
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/De-Mantel.ogg/De-Mantel.ogg.mp3
+  de: Mantel
+  fr: le manteau
+  level: 1
+  plural_de: die Mäntel
+  plural_de_end: "¨-"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/24/De-Schirm.ogg/De-Schirm.ogg.mp3
+  de: Schirm
+  fr: le parapluie
+  level: 1
+  plural_de: die Schirme
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/10/De-Kette.ogg/De-Kette.ogg.mp3
+  de: Kette
+  fr: la chaîne, le collier
+  level: 1
+  plural_de: die Ketten
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9e/De-Sonnenbrille.ogg/De-Sonnenbrille.ogg.mp3
+  de: Sonnenbrille
+  fr: les lunettes de soleil
+  level: 1
+  plural_de: die Sonnenbrillen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bd/De-Schuhe.ogg/De-Schuhe.ogg.mp3
+  de: Schuhe
+  fr: les chaussures
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/30/De-tragen.ogg/De-tragen.ogg.mp3
+  de: tragen, er trägt, hat getragen
+  fr: porter
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2d/De-leihen.ogg/De-leihen.ogg.mp3
+  de: leihen, er leiht, hat geliehen
+  fr: prêter
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f4/De-Klamotten.ogg/De-Klamotten.ogg.mp3
+  de: Klamotten
+  fr: les fringues
+  level: 2
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/79/De-Gürtel.ogg/De-Gürtel.ogg.mp3
+  de: Gürtel
+  fr: la ceinture
+  level: 2
+  plural_de: die Gürtel
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/De-Strumpfhose.ogg/De-Strumpfhose.ogg.mp3
+  de: Strumpfhose
+  fr: le collant
+  level: 2
+  plural_de: die Strumpfhosen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/De-Socken.ogg/De-Socken.ogg.mp3
+  de: Socken
+  fr: les chaussettes
+  level: 2
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/De-Stiefel.ogg/De-Stiefel.ogg.mp3
+  de: Stiefel
+  fr: les bottes
+  level: 2
+  plural_de: die Stiefel
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/De-Sweatshirt.ogg/De-Sweatshirt.ogg.mp3
+  de: Sweatshirt
+  fr: le sweatshirt
+  level: 3
+  plural_de: die Sweatshirts
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d8/De-Kapuze.ogg/De-Kapuze.ogg.mp3
+  de: Kapuze
+  fr: la capuche
+  level: 3
+  plural_de: die Kapuzen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8f/De-Oberteil.ogg/De-Oberteil.ogg.mp3
+  de: Oberteil
+  fr: le top (partie supérieure d’un vêtement)
+  level: 3
+  plural_de: die Oberteile
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/Cs-hoch.ogg/Cs-hoch.ogg.mp3
+  de: hoch
+  fr: haut
+  level: 3
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d3/De-Schuhgeschäft.ogg/De-Schuhgeschäft.ogg.mp3
+  de: Schuhgeschäft
+  fr: le magasin de chaussures
+  level: 1
+  plural_de: die Schuhgeschäfte
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e2/De-Reisebüro.ogg/De-Reisebüro.ogg.mp3
+  de: Reisebüro
+  fr: l’agence de voyages
+  level: 1
+  plural_de: die Reisebüros
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/90/De-Kaufhaus.ogg/De-Kaufhaus.ogg.mp3
+  de: Kaufhaus
+  fr: le grand magasin
+  level: 1
+  plural_de: die Kaufhäuser
+  plural_de_end: "“-er"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: das Shoppingcenter, -
+  fr: le centre commercial
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/79/De-Buchhandlung.ogg/De-Buchhandlung.ogg.mp3
+  de: Buchhandlung
+  fr: la librairie
+  level: 2
+  plural_de: die Buchhandlungen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f9/De-Imbiss.ogg/De-Imbiss.ogg.mp3
+  de: Imbiss
+  fr: le snack-bar
+  level: 2
+  plural_de: die Imbisse
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/De-einkaufen.ogg/De-einkaufen.ogg.mp3
+  de: einkaufen, er kauft ein, er hat eingekauft
+  fr: Faire les achats
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8f/De-Verkäufer.ogg/De-Verkäufer.ogg.mp3
+  de: Verkäufer
+  fr: le vendeur
+  level: 1
+  plural_de: die Verkäufer
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/De-Verkäuferin.ogg/De-Verkäuferin.ogg.mp3
+  de: Verkäuferin
+  fr: la vendeuse
+  level: 1
+  plural_de: die Verkäuferinnen
+  plural_de_end: "-nen"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/41/De-kosten3.ogg/De-kosten3.ogg.mp3
+  de: kosten, es kostet, es hat gekostet
+  fr: coûter
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c8/Sv-billig.ogg/Sv-billig.ogg.mp3
+  de: billig
+  fr: bon marché
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/De-teuer.ogg/De-teuer.ogg.mp3
+  de: teuer
+  fr: cher
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/af/Cs-kurz.ogg/Cs-kurz.ogg.mp3
+  de: kurz
+  fr: court
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/68/No-lang.ogg/No-lang.ogg.mp3
+  de: lang
+  fr: long
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/De-kaufen.ogg/De-kaufen.ogg.mp3
+  de: kaufen, er kauft, hat gekauft
+  fr: acheter
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/98/De-verkaufen.ogg/De-verkaufen.ogg.mp3
+  de: verkaufen, er verkauft, hat verkauft
+  fr: vendre
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/De-Größe.ogg/De-Größe.ogg.mp3
+  de: Größe
+  fr: la taille
+  level: 1
+  plural_de: die Größen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: eng
+  fr: étroit-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b7/De-weit.ogg/De-weit.ogg.mp3
+  de: weit
+  fr: large
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d4/De-bequem.ogg/De-bequem.ogg.mp3
+  de: bequem
+  fr: confortable
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/82/De-unbequem.ogg/De-unbequem.ogg.mp3
+  de: unbequem
+  fr: inconfortable
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2e/De-Farbe.ogg/De-Farbe.ogg.mp3
+  de: Farbe
+  fr: la couleur
+  level: 1
+  plural_de: die Farben
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/En-us-hell.ogg/En-us-hell.ogg.mp3
+  de: hell
+  fr: clair
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/21/De-dunkel.ogg/De-dunkel.ogg.mp3
+  de: dunkel
+  fr: foncé
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7a/De-Preis.ogg/De-Preis.ogg.mp3
+  de: Preis
+  fr: le prix
+  level: 1
+  plural_de: die Preise
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/De-Kasse.ogg/De-Kasse.ogg.mp3
+  de: Kasse
+  fr: la caisse
+  level: 1
+  plural_de: die Kassen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/48/De-bezahlen.ogg/De-bezahlen.ogg.mp3
+  de: bezahlen, er bezahlt, hat bezahlt
+  fr: payer
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/89/De-Eingang.OGG/De-Eingang.OGG.mp3
+  de: Eingang
+  fr: l’entrée
+  level: 1
+  plural_de: die Eingänge
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/af/De-anprobieren.ogg/De-anprobieren.ogg.mp3
+  de: anprobieren, er probiert ... an, hat anprobiert
+  fr: essayer (un vêtement)
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/Nl-elegant.ogg/Nl-elegant.ogg.mp3
+  de: elegant
+  fr: élégant, -e
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: null
+  de: modisch sein
+  fr: être à la mode
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/De-Kopfhörer.ogg/De-Kopfhörer.ogg.mp3
+  de: Kopfhörer
+  fr: le casque audio
+  level: 3
+  plural_de: die Kopfhörer
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ce/De-Akku.ogg/De-Akku.ogg.mp3
+  de: Akku
+  fr: la batterie (rechargeable)
+  level: 3
+  plural_de: die Akkus
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/10/De-wegwerfen.ogg/De-wegwerfen.ogg.mp3
+  de: wegwerfen, er wirft ... weg, hat weggeworfen
+  fr: jeter
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/De-tauschen.ogg/De-tauschen.ogg.mp3
+  de: tauschen, er tauscht, hat getauscht
+  fr: échanger
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/00/De-Modeschau.ogg/De-Modeschau.ogg.mp3
+  de: Modeschau
+  fr: le défilé de mode
+  level: 1
+  plural_de: die Modeschauen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b5/De-Rappen.ogg/De-Rappen.ogg.mp3
+  de: Rappen
+  fr: le centime (CH)
+  level: 1
+  plural_de: null
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4d/De-Eintritt.ogg/De-Eintritt.ogg.mp3
+  de: Eintritt
+  fr: l’entrée
+  level: 1
+  plural_de: die Eintritte
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/24/De-Not.ogg/De-Not.ogg.mp3
+  de: Not
+  fr: la misère, le besoin
+  level: 2
+  plural_de: die Nöte
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: null
+  de: Model
+  fr: le mannequin
+  level: 2
+  plural_de: die Model
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/12/De-Verkauf.ogg/De-Verkauf.ogg.mp3
+  de: Verkauf
+  fr: la vente
+  level: 3
+  plural_de: die Verkäufe
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/49/De-weltweit.ogg/De-weltweit.ogg.mp3
+  de: weltweit
+  fr: mondial-e
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/De-Material.ogg/De-Material.ogg.mp3
+  de: Material
+  fr: le matériau
+  level: 3
+  plural_de: die Materialien
+  plural_de_end: "-ien"
+  wortart: noun

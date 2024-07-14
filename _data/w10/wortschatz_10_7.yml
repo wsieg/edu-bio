@@ -1,0 +1,504 @@
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/De-Geld.ogg/De-Geld.ogg.mp3
+  de: Geld
+  fr: l’argent
+  level: 1
+  plural_de: die Gelder
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/28/De-brauchen.ogg/De-brauchen.ogg.mp3
+  de: brauchen, er braucht, hat gebraucht
+  fr: avoir besoin
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/De-Geschenk.ogg/De-Geschenk.ogg.mp3
+  de: Geschenk
+  fr: le cadeau
+  level: 1
+  plural_de: die Geschenke
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7e/De-Schulsachen.ogg/De-Schulsachen.ogg.mp3
+  de: Schulsachen
+  fr: les affaires d’école
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/De-kaufen.ogg/De-kaufen.ogg.mp3
+  de: kaufen, er kauft, hat gekauft
+  fr: acheter
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/48/De-bezahlen.ogg/De-bezahlen.ogg.mp3
+  de: bezahlen, er bezahlt, hat bezahlt
+  fr: payer
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/De-Taschengeld.ogg/De-Taschengeld.ogg.mp3
+  de: Taschengeld
+  fr: l’argent de poche
+  level: 1
+  plural_de: die Taschengelder
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/De-Jugendliche.ogg/De-Jugendliche.ogg.mp3
+  de: Jugendliche
+  fr: l'adolescent
+  level: 1
+  plural_de: null
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/De-Jugendliche.ogg/De-Jugendliche.ogg.mp3
+  de: Jugendliche
+  fr: l'adolescente
+  level: 1
+  plural_de: null
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/51/De-zu_viel.ogg/De-zu_viel.ogg.mp3
+  de: zu viel
+  fr: trop
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/5/55/De-zu_wenig.ogg/De-zu_wenig.ogg.mp3
+  de: zu wenig
+  fr: trop peu
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ae/De-genug.ogg/De-genug.ogg.mp3
+  de: genug
+  fr: assez
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/De-bekommen.ogg/De-bekommen.ogg.mp3
+  de: bekommen, er bekommt, hat bekommen
+  fr: recevoir
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/De-ausgeben.ogg/De-ausgeben.ogg.mp3
+  de: ausgeben, er gibt ... aus, hat ausgegeben
+  fr: dépenser
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/De-sparen.ogg/De-sparen.ogg.mp3
+  de: sparen, er spart, hat gespart
+  fr: épargner, économiser
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: null
+  de: pleite sein
+  fr: être fauché-e
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/De-mindestens.ogg/De-mindestens.ogg.mp3
+  de: mindestens
+  fr: au moins/au minimum
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0e/De-höchstens.ogg/De-höchstens.ogg.mp3
+  de: höchstens
+  fr: au maximum
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/89/De-eigentlich.ogg/De-eigentlich.ogg.mp3
+  de: eigentlich
+  fr: à vrai dire, en fait
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adj
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f4/De-besonders.ogg/De-besonders.ogg.mp3
+  de: besonders
+  fr: particulièrement
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: adv
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ea/De-Konzertkarte.ogg/De-Konzertkarte.ogg.mp3
+  de: Konzertkarte
+  fr: le billet de concert
+  level: 2
+  plural_de: die Konzertkarten
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/28/De-organisieren.ogg/De-organisieren.ogg.mp3
+  de: organisieren, er organisiert, hat organisiert
+  fr: organiser
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: null
+  de: die Lebenskosten
+  fr: le coût de la vie
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/De-Vertrag.ogg/De-Vertrag.ogg.mp3
+  de: Vertrag
+  fr: le contrat
+  level: 3
+  plural_de: die Verträge
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/25/De-arbeiten.ogg/De-arbeiten.ogg.mp3
+  de: arbeiten, er arbeitet, hat gearbeitet
+  fr: travailler
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: null
+  de: jobben
+  fr: avoir un job, un petit boulot, bosser
+  level: 1
+  plural_de: null
+  plural_de_end: "er jobbt"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/De-verdienen.ogg/De-verdienen.ogg.mp3
+  de: verdienen, er verdient, hat verdient
+  fr: gagner de l’argent
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/83/De-Job.ogg/De-Job.ogg.mp3
+  de: Job
+  fr: le job, le travail
+  level: 1
+  plural_de: die Jobs
+  plural_de_end: "-s"
+  wortart: noun
+- artikel_de: ''
+  audio: null
+  de: der Schülerjob, -s
+  fr: le petit boulot
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: ''
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a8/De-Nachbar.ogg/De-Nachbar.ogg.mp3
+  de: Nachbar
+  fr: le voisin
+  level: 1
+  plural_de: die Nachbarn
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6b/De-Nachbarin.ogg/De-Nachbarin.ogg.mp3
+  de: Nachbarin
+  fr: la voisine
+  level: 1
+  plural_de: die Nachbarinnen
+  plural_de_end: "-nen"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/41/De-Spaziergang.ogg/De-Spaziergang.ogg.mp3
+  de: Spaziergang
+  fr: la promenade
+  level: 1
+  plural_de: die Spaziergänge
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4e/De-Fabrik2.ogg/De-Fabrik2.ogg.mp3
+  de: Fabrik
+  fr: la fabrique
+  level: 1
+  plural_de: die Fabriken
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7c/Sv-arm.ogg/Sv-arm.ogg.mp3
+  de: arm
+  fr: pauvre
+  level: 1
+  plural_de: armen
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/De-reich.ogg/De-reich.ogg.mp3
+  de: reich
+  fr: riche
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/De-putzen.ogg/De-putzen.ogg.mp3
+  de: putzen, er putzt, hat geputzt
+  fr: nettoyer
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/De-bauen.ogg/De-bauen.ogg.mp3
+  de: bauen, er baut, hat gebaut
+  fr: construire
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c7/De-Lohn.ogg/De-Lohn.ogg.mp3
+  de: Lohn
+  fr: le salaire
+  level: 2
+  plural_de: die Löhne
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/De-Nachhilfe.ogg/De-Nachhilfe.ogg.mp3
+  de: Nachhilfe
+  fr: le cours particulier
+  level: 2
+  plural_de: die Nachhilfen
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/82/De-Schnecke.ogg/De-Schnecke.ogg.mp3
+  de: Schnecke
+  fr: l’escargot
+  level: 2
+  plural_de: die Schnecken
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3b/De-Taschenlampe.ogg/De-Taschenlampe.ogg.mp3
+  de: Taschenlampe
+  fr: la lampe de poche
+  level: 2
+  plural_de: die Taschenlampen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3b/De-Eimer.ogg/De-Eimer.ogg.mp3
+  de: Eimer
+  fr: le seau
+  level: 2
+  plural_de: null
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/36/De-spenden.ogg/De-spenden.ogg.mp3
+  de: spenden, er spendet, hat gespendet
+  fr: donner, faire un don
+  level: 2
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b5/De-Voraussetzung.ogg/De-Voraussetzung.ogg.mp3
+  de: Voraussetzung
+  fr: la condition
+  level: 3
+  plural_de: die Voraussetzungen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/De-Chance.ogg/De-Chance.ogg.mp3
+  de: Chance
+  fr: la chance
+  level: 3
+  plural_de: die Chancen
+  plural_de_end: "-n"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7a/De-Schulden.ogg/De-Schulden.ogg.mp3
+  de: Schulden
+  fr: les dettes
+  level: 3
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/De-Kinderarbeit.ogg/De-Kinderarbeit.ogg.mp3
+  de: Kinderarbeit
+  fr: le travail des enfants/des mineurs
+  level: 3
+  plural_de: die Kinderarbeiten
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/De-protestieren.ogg/De-protestieren.ogg.mp3
+  de: protestieren, er protestiert, hat protestiert
+  fr: protester
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/DE-Demonstration.ogg/DE-Demonstration.ogg.mp3
+  de: Demonstration
+  fr: la manifestation
+  level: 3
+  plural_de: die Demonstrationen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/De-Hilfsaktion.ogg/De-Hilfsaktion.ogg.mp3
+  de: Hilfsaktion
+  fr: l’action humanitaire
+  level: 3
+  plural_de: die Hilfsaktionen
+  plural_de_end: "-en"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/98/De-Erlaubnis.ogg/De-Erlaubnis.ogg.mp3
+  de: Erlaubnis
+  fr: la permission
+  level: 3
+  plural_de: die Erlaubnisse
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/De-Glück.ogg/De-Glück.ogg.mp3
+  de: Glück
+  fr: la chance
+  level: 1
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/De-tauschen.ogg/De-tauschen.ogg.mp3
+  de: tauschen, er tauscht, hat getauscht
+  fr: échanger
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/De-teilen.ogg/De-teilen.ogg.mp3
+  de: teilen, er teilt, hat geteilt
+  fr: partager
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c7/De-Pferd.ogg/De-Pferd.ogg.mp3
+  de: Pferd
+  fr: le cheval
+  level: 1
+  plural_de: die Pferde
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1d/De-Kuh.ogg/De-Kuh.ogg.mp3
+  de: Kuh
+  fr: la vache
+  level: 1
+  plural_de: die Kühe
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dd/De-Schwein.ogg/De-Schwein.ogg.mp3
+  de: Schwein
+  fr: le cochon
+  level: 1
+  plural_de: die Schweine
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: die
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0a/De-Gans.OGG/De-Gans.OGG.mp3
+  de: Gans
+  fr: l’oie
+  level: 1
+  plural_de: die Gänse
+  plural_de_end: "¨-e"
+  wortart: noun
+- artikel_de: der
+  audio: null
+  de: Stein
+  fr: la pierre, le caillou
+  level: 1
+  plural_de: null
+  plural_de_end: "-e"
+  wortart: noun
+- artikel_de: der
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cc/De-Brunnen.ogg/De-Brunnen.ogg.mp3
+  de: Brunnen
+  fr: le puits
+  level: 1
+  plural_de: die Brunnen
+  plural_de_end: "-"
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/1/18/En-us-fallen.ogg/En-us-fallen.ogg.mp3
+  de: fallen, er fällt, ist gefallen
+  fr: tomber
+  level: 1
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
+- artikel_de: das
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2d/De-Gold.ogg/De-Gold.ogg.mp3
+  de: Gold
+  fr: l’or
+  level: 3
+  plural_de: null
+  plural_de_end: ""
+  wortart: noun
+- artikel_de: ''
+  audio: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a1/De-vorschlagen.ogg/De-vorschlagen.ogg.mp3
+  de: vorschlagen, er schlägt... vor, hat vorgeschlagen
+  fr: proposer
+  level: 3
+  plural_de: ''
+  plural_de_end: ''
+  wortart: verb
