@@ -40,7 +40,7 @@ classes: wide
 
 <script>
 // Define the flashcard data variable and field names
-const flashcardData = {{ site.data.wortschatz_9_8 | jsonify }};
+const flashcardData = {{ site.data.w9.wortschatz_9_8 | jsonify }};
 console.log('Flashcard Data:', flashcardData);  // Debug statement
 const varFront = 'fr';
 const varBack = 'de';

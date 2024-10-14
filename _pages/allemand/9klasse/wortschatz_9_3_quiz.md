@@ -51,7 +51,7 @@ permalink: /allemand_main/9klasse_main/wortschatz3_quiz
 
 <script>
 // Define the flashcard data variable and field names
-const flashcardData = {{ site.data.wortschatz_9_3 | jsonify }};
+const flashcardData = {{ site.data.w9.wortschatz_9_3 | jsonify }};
 const varFront = 'fr';
 const varBack = 'de';
 const varArtikel = 'artikel_de';

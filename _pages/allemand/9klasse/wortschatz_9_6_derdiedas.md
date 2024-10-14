@@ -42,7 +42,7 @@ classes: wide
 </div>
 
 <script>
-const flashcardData = {{ site.data.wortschatz_9_6 | jsonify }};
+const flashcardData = {{ site.data.w9.wortschatz_9_6 | jsonify }};
 const varBack = 'de';
 const varArtikel = 'artikel_de';
 
