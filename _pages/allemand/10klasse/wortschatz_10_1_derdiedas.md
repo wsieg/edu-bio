@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Wortschatz (Substantive und Verben) Kapitel 1
-permalink: /allemand_main/9klasse_main/wortschatz1_derdiedas
+permalink: /allemand_main/10klasse_main/wortschatz1_derdiedas
 classes: wide
 ---
 
@@ -42,7 +42,7 @@ classes: wide
 </div>
 
 <script>
-const flashcardData = {{ site.data.wortschatz_9_1 | jsonify }};
+const flashcardData = {{ site.data.w10.wortschatz_10_1 | jsonify }};
 const varBack = 'de';
 const varArtikel = 'artikel_de';
 
@@ -54,7 +54,7 @@ function initializeFlashcard() {
 }
 
 function updateFlashcard() {
-  const filteredData = flashcardData.filter(item => selectedLevels.includes(item.level) && item.wortart === 'substantiv');
+  const filteredData = flashcardData.filter(item => selectedLevels.includes(item.level) && item.wortart === 'noun');
   const randomIndex = Math.floor(Math.random() * filteredData.length);
   const member = filteredData[randomIndex];
   document.getElementById('front-side').innerText = member[varBack];
@@ -73,7 +73,7 @@ function resetButtons() {
 }
 
 function checkAnswer(selectedArtikel) {
-  const filteredData = flashcardData.filter(item => selectedLevels.includes(item.level) && item.wortart === 'substantiv');
+  const filteredData = flashcardData.filter(item => selectedLevels.includes(item.level) && item.wortart === 'noun');
   const member = filteredData[currentMemberIndex];
   const correctArtikel = member[varArtikel];
 
@@ -98,7 +98,7 @@ function checkAnswer(selectedArtikel) {
 }
 
 function getRandomMember() {
-  const filteredData = flashcardData.filter(item => selectedLevels.includes(item.level) && item.wortart === 'substantiv');
+  const filteredData = flashcardData.filter(item => selectedLevels.includes(item.level) && item.wortart === 'noun');
   let randomIndex;
   do {
     randomIndex = Math.floor(Math.random() * filteredData.length);

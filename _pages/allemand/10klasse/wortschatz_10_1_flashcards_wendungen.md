@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Wortschatz (Wendungen und Sätze) Kapitel 1
-permalink: /allemand_main/9klasse_main/wortschatz1_lernkarten_wendungen
+permalink: /allemand_main/10klasse_main/wortschatz1_lernkarten_wendungen
 classes: wide
 ---
 
@@ -39,7 +39,7 @@ classes: wide
 
 <script>
 // Define the flashcard data variable and field names
-const flashcardData = {{ site.data.wortschatz_9_1_wendungen | jsonify }};
+const flashcardData = {{ site.data.w10.wortschatz_10_1_wendungen | jsonify }};
 const varFront = 'fr';
 const varBack = 'de';
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Wortschatz (Substantive und Verben) Kapitel 1
-permalink: /allemand_main/9klasse_main/wortschatz1_quiz
+permalink: /allemand_main/10klasse_main/wortschatz1_quiz
 ---
 
 <head>
@@ -51,7 +51,7 @@ permalink: /allemand_main/9klasse_main/wortschatz1_quiz
 
 <script>
 // Define the flashcard data variable and field names
-const flashcardData = {{ site.data.wortschatz_9_1 | jsonify }};
+const flashcardData = {{ site.data.w10.wortschatz_10_1 | jsonify }};
 const varFront = 'fr';
 const varBack = 'de';
 const varArtikel = 'artikel_de';

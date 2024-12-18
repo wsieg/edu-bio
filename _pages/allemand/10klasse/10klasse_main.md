@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 9&#46; Klasse
-permalink: /allemand_main/9klasse_main/
+permalink: /allemand_main/10klasse_main/
 ---
 
 
@@ -26,10 +26,10 @@ Im Folgenden finden Sie Übungen, Links und andere Ressourcen, mit denen Sie im 
 
 ## Wortschatz
 
-- [Lernkarten (Substantive und Verben)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz1_lernkarten)
-- [Lernkarten (Wendungen und Sätze)]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz1_lernkarten_wendungen)
-- [Artikelbestimmung]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz1_derdiedas)
-- [Quiz]({{ site.baseurl }}/allemand_main/9klasse_main/wortschatz1_quiz)
+- [Lernkarten (Substantive und Verben)]({{ site.baseurl }}/allemand_main/10klasse_main/wortschatz1_lernkarten)
+- [Lernkarten (Wendungen und Sätze)]({{ site.baseurl }}/allemand_main/10klasse_main/wortschatz1_lernkarten_wendungen)
+- [Artikelbestimmung]({{ site.baseurl }}/allemand_main/10klasse_main/wortschatz1_derdiedas)
+- [Quiz]({{ site.baseurl }}/allemand_main/10klasse_main/wortschatz1_quiz)
 
 
 <!-- KAPITEL 2 -->
