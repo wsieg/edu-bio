@@ -4,7 +4,7 @@ main:
     url: /allemand_main/
 
   - title: "Mathématiques"
-    url: /maths/
+    url: /math_main/
 
   - title: "Biologie"
     url: /bio/
