@@ -13,6 +13,6 @@ category: math
 
 ---
 
-📄 [Télécharger le corrigé (PDF)](/assets/pdf/revision_1_nbr_dec.pdf)
+📄 [Télécharger le corrigé (PDF)]("{{ site.baseurl }}/assets/pdf/revision_1_nbr_dec.pdf")
 
 ---
