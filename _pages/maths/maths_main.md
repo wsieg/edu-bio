@@ -6,7 +6,7 @@ classes: wide
 ---
 
 
-<h1>Math Announcements</h1>
+<h1>Mathématiques informations</h1>
 
 <div class="announcements">
   {% for post in site.categories.math %}
