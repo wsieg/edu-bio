@@ -15,7 +15,8 @@ classes: wide
       {{ post.date | date: "%B %d, %Y" }}
     </div>
     <div class="announcement-title">
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+
     </div>
     <div class="announcement-content">
       {{ post.content }}
@@ -25,7 +26,8 @@ classes: wide
       <strong>Documents:</strong>
       <ul>
         {% for doc in post.documents %}
-        <li><a href="{{ doc.url }}" target="_blank">{{ doc.name }}</a></li>
+        <li><a href="{{ doc.url | relative_url }}" target="_blank">{{ doc.name }}</a>
+</li>
         {% endfor %}
       </ul>
     </div>

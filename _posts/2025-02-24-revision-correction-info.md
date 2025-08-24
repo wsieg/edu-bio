@@ -13,6 +13,6 @@ category: math
 
 ---
 
-📄 [Télécharger le corrigé (PDF)]("{{ site.baseurl }}/assets/pdf/revision_1_nbr_dec.pdf")
+📄 <a href="{{ site.baseurl }}/assets/pdf/revision_1_nbr_dec.pdf" target="_blank" download>Télécharger le corrigé (PDF)</a>
 
 ---
